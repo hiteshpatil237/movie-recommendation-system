@@ -1,0 +1,9 @@
+   
+    Rank: 191
+    Movie_name: Dersu Uzala
+    Year: 1975
+    Certificate: G
+    Runtime_in_min: 142
+    Genre: Adventure, Biography, Drama
+    Rating_from_10: 8.2
+    

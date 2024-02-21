@@ -1,0 +1,9 @@
+   
+    Rank: 186
+    Movie_name: The Thing
+    Year: 1982
+    Certificate: R
+    Runtime_in_min: 109
+    Genre: Horror, Mystery, Sci-Fi
+    Rating_from_10: 8.2
+    

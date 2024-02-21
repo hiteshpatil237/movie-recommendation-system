@@ -1,0 +1,9 @@
+   
+    Rank: 897
+    Movie_name: Badlands
+    Year: 1973
+    Certificate: PG
+    Runtime_in_min: 94
+    Genre: Action, Crime, Drama
+    Rating_from_10: 7.7
+    

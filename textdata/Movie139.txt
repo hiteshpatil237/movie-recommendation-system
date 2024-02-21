@@ -1,0 +1,9 @@
+   
+    Rank: 140
+    Movie_name: The Kid
+    Year: 1921
+    Certificate: Passed
+    Runtime_in_min: 68
+    Genre: Comedy, Drama, Family
+    Rating_from_10: 8.3
+    

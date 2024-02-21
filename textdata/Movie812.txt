@@ -1,0 +1,9 @@
+   
+    Rank: 813
+    Movie_name: Brokeback Mountain
+    Year: 2005
+    Certificate: R
+    Runtime_in_min: 134
+    Genre: Drama, Romance
+    Rating_from_10: 7.7
+    

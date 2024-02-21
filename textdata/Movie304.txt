@@ -1,0 +1,9 @@
+   
+    Rank: 305
+    Movie_name: Paper Moon
+    Year: 1973
+    Certificate: PG
+    Runtime_in_min: 102
+    Genre: Comedy, Crime, Drama
+    Rating_from_10: 8.1
+    

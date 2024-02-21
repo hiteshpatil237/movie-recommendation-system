@@ -1,0 +1,9 @@
+   
+    Rank: 751
+    Movie_name: Freaks
+    Year: 1932
+    Certificate: Not Rated
+    Runtime_in_min: 64
+    Genre: Drama, Horror
+    Rating_from_10: 7.8
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 464
+    Movie_name: The Maltese Falcon
+    Year: 1941
+    Certificate: Passed
+    Runtime_in_min: 100
+    Genre: Crime, Film-Noir, Mystery
+    Rating_from_10: 8.0
+    

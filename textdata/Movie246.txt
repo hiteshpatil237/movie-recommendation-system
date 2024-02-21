@@ -1,0 +1,9 @@
+   
+    Rank: 247
+    Movie_name: Article 15
+    Year: 2019
+    Certificate: Not Rated
+    Runtime_in_min: 130
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 8.1
+    

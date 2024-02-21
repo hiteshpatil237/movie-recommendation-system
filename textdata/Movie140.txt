@@ -1,0 +1,9 @@
+   
+    Rank: 141
+    Movie_name: 1917
+    Year: 2019
+    Certificate: R
+    Runtime_in_min: 119
+    Genre: Action, Drama, War
+    Rating_from_10: 8.2
+    

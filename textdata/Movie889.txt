@@ -1,0 +1,9 @@
+   
+    Rank: 890
+    Movie_name: Ordinary People
+    Year: 1980
+    Certificate: R
+    Runtime_in_min: 124
+    Genre: Drama
+    Rating_from_10: 7.7
+    

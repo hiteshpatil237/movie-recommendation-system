@@ -1,0 +1,9 @@
+   
+    Rank: 504
+    Movie_name: Boyhood
+    Year: I 2014
+    Certificate: R
+    Runtime_in_min: 165
+    Genre: Drama
+    Rating_from_10: 7.9
+    

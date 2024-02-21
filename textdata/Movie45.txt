@@ -1,0 +1,9 @@
+   
+    Rank: 46
+    Movie_name: American History X
+    Year: 1998
+    Certificate: R
+    Runtime_in_min: 119
+    Genre: Crime, Drama
+    Rating_from_10: 8.5
+    

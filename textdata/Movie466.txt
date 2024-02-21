@@ -1,0 +1,9 @@
+   
+    Rank: 467
+    Movie_name: Knives Out
+    Year: 2019
+    Certificate: PG-13
+    Runtime_in_min: 130
+    Genre: Comedy, Crime, Drama
+    Rating_from_10: 7.9
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 216
+    Movie_name: Three Billboards Outside Ebbing, Missouri
+    Year: 2017
+    Certificate: R
+    Runtime_in_min: 115
+    Genre: Comedy, Crime, Drama
+    Rating_from_10: 8.1
+    

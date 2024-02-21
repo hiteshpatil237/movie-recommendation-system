@@ -1,0 +1,9 @@
+   
+    Rank: 340
+    Movie_name: Quo Vadis, Aida?
+    Year: 2020
+    Certificate: nan
+    Runtime_in_min: 101
+    Genre: Drama, History, War
+    Rating_from_10: 8.0
+    

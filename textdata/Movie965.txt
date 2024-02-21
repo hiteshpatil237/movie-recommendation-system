@@ -1,0 +1,9 @@
+   
+    Rank: 966
+    Movie_name: The Others
+    Year: 2001
+    Certificate: PG-13
+    Runtime_in_min: 104
+    Genre: Horror, Mystery, Thriller
+    Rating_from_10: 7.6
+    

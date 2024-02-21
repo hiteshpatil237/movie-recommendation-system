@@ -1,0 +1,9 @@
+   
+    Rank: 591
+    Movie_name: Laura
+    Year: 1944
+    Certificate: Passed
+    Runtime_in_min: 88
+    Genre: Drama, Film-Noir, Mystery
+    Rating_from_10: 7.9
+    

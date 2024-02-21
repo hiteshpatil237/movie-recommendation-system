@@ -1,0 +1,9 @@
+   
+    Rank: 427
+    Movie_name: Mirror
+    Year: 1975
+    Certificate: Not Rated
+    Runtime_in_min: 107
+    Genre: Biography, Drama
+    Rating_from_10: 8.0
+    

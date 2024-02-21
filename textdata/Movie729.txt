@@ -1,0 +1,9 @@
+   
+    Rank: 730
+    Movie_name: Guess Who's Coming to Dinner
+    Year: 1967
+    Certificate: Approved
+    Runtime_in_min: 108
+    Genre: Comedy, Drama
+    Rating_from_10: 7.8
+    

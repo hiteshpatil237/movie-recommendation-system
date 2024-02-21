@@ -1,0 +1,9 @@
+   
+    Rank: 185
+    Movie_name: Ran
+    Year: 1985
+    Certificate: R
+    Runtime_in_min: 162
+    Genre: Action, Drama, War
+    Rating_from_10: 8.2
+    

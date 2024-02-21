@@ -1,0 +1,9 @@
+   
+    Rank: 940
+    Movie_name: Moneyball
+    Year: 2011
+    Certificate: PG-13
+    Runtime_in_min: 133
+    Genre: Biography, Drama, Sport
+    Rating_from_10: 7.6
+    

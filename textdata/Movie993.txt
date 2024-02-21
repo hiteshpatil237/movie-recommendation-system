@@ -1,0 +1,9 @@
+   
+    Rank: 994
+    Movie_name: Eyes Without a Face
+    Year: 1960
+    Certificate: Not Rated
+    Runtime_in_min: 90
+    Genre: Drama, Horror
+    Rating_from_10: 7.6
+    

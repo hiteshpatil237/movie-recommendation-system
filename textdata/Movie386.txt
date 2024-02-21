@@ -1,0 +1,9 @@
+   
+    Rank: 387
+    Movie_name: Infernal Affairs
+    Year: 2002
+    Certificate: R
+    Runtime_in_min: 101
+    Genre: Action, Crime, Drama
+    Rating_from_10: 8.0
+    

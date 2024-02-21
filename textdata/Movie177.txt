@@ -1,0 +1,9 @@
+   
+    Rank: 178
+    Movie_name: L.A. Confidential
+    Year: 1997
+    Certificate: R
+    Runtime_in_min: 138
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 8.2
+    

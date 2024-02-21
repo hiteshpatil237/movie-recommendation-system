@@ -1,0 +1,9 @@
+   
+    Rank: 482
+    Movie_name: Wonder
+    Year: I 2017
+    Certificate: PG
+    Runtime_in_min: 113
+    Genre: Drama, Family
+    Rating_from_10: 7.9
+    

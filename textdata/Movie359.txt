@@ -1,0 +1,9 @@
+   
+    Rank: 360
+    Movie_name: The King's Speech
+    Year: 2010
+    Certificate: R
+    Runtime_in_min: 118
+    Genre: Biography, Drama, History
+    Rating_from_10: 8.0
+    

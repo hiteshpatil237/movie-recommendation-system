@@ -1,0 +1,9 @@
+   
+    Rank: 41
+    Movie_name: The Intouchables
+    Year: 2011
+    Certificate: R
+    Runtime_in_min: 112
+    Genre: Biography, Comedy, Drama
+    Rating_from_10: 8.5
+    

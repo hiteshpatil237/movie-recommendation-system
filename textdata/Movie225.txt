@@ -1,0 +1,9 @@
+   
+    Rank: 226
+    Movie_name: Tangerines
+    Year: 2013
+    Certificate: Not Rated
+    Runtime_in_min: 87
+    Genre: Drama, War
+    Rating_from_10: 8.1
+    

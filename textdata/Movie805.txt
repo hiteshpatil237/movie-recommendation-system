@@ -1,0 +1,9 @@
+   
+    Rank: 806
+    Movie_name: After the Wedding
+    Year: 2006
+    Certificate: R
+    Runtime_in_min: 120
+    Genre: Drama
+    Rating_from_10: 7.7
+    

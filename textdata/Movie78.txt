@@ -1,0 +1,9 @@
+   
+    Rank: 79
+    Movie_name: Like Stars on Earth
+    Year: 2007
+    Certificate: PG
+    Runtime_in_min: 165
+    Genre: Drama, Family
+    Rating_from_10: 8.4
+    

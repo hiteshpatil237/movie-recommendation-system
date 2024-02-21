@@ -1,0 +1,9 @@
+   
+    Rank: 746
+    Movie_name: The Lady Vanishes
+    Year: 1938
+    Certificate: Not Rated
+    Runtime_in_min: 96
+    Genre: Mystery, Thriller
+    Rating_from_10: 7.8
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 772
+    Movie_name: The Great Beauty
+    Year: 2013
+    Certificate: Not Rated
+    Runtime_in_min: 141
+    Genre: Drama
+    Rating_from_10: 7.7
+    

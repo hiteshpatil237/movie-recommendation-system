@@ -1,0 +1,9 @@
+   
+    Rank: 53
+    Movie_name: Apocalypse Now
+    Year: 1979
+    Certificate: R
+    Runtime_in_min: 147
+    Genre: Drama, Mystery, War
+    Rating_from_10: 8.5
+    

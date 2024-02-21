@@ -1,0 +1,9 @@
+   
+    Rank: 608
+    Movie_name: Hunt for the Wilderpeople
+    Year: 2016
+    Certificate: PG-13
+    Runtime_in_min: 101
+    Genre: Adventure, Comedy, Drama
+    Rating_from_10: 7.8
+    

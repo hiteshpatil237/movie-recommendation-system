@@ -1,0 +1,9 @@
+   
+    Rank: 330
+    Movie_name: The Best Years of Our Lives
+    Year: 1946
+    Certificate: Approved
+    Runtime_in_min: 170
+    Genre: Drama, Romance, War
+    Rating_from_10: 8.1
+    

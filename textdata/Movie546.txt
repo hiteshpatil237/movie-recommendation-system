@@ -1,0 +1,9 @@
+   
+    Rank: 547
+    Movie_name: My Left Foot
+    Year: 1989
+    Certificate: R
+    Runtime_in_min: 103
+    Genre: Biography, Drama
+    Rating_from_10: 7.9
+    

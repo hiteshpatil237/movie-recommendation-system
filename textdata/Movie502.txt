@@ -1,0 +1,9 @@
+   
+    Rank: 503
+    Movie_name: Jab We Met
+    Year: 2007
+    Certificate: Not Rated
+    Runtime_in_min: 138
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 7.9
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 586
+    Movie_name: Notorious
+    Year: 1946
+    Certificate: Not Rated
+    Runtime_in_min: 102
+    Genre: Drama, Film-Noir, Romance
+    Rating_from_10: 7.9
+    

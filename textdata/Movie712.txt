@@ -1,0 +1,9 @@
+   
+    Rank: 713
+    Movie_name: The Right Stuff
+    Year: 1983
+    Certificate: PG
+    Runtime_in_min: 193
+    Genre: Adventure, Biography, Drama
+    Rating_from_10: 7.8
+    

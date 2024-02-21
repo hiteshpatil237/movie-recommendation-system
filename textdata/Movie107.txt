@@ -1,0 +1,9 @@
+   
+    Rank: 108
+    Movie_name: K.G.F: Chapter 2
+    Year: 2022
+    Certificate: Not Rated
+    Runtime_in_min: 168
+    Genre: Action, Crime, Drama
+    Rating_from_10: 8.3
+    

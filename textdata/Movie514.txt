@@ -1,0 +1,9 @@
+   
+    Rank: 515
+    Movie_name: C.R.A.Z.Y.
+    Year: 2005
+    Certificate: Not Rated
+    Runtime_in_min: 129
+    Genre: Comedy, Drama
+    Rating_from_10: 7.9
+    

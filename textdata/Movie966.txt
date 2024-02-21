@@ -1,0 +1,9 @@
+   
+    Rank: 967
+    Movie_name: Traffic
+    Year: 2000
+    Certificate: R
+    Runtime_in_min: 147
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 7.6
+    

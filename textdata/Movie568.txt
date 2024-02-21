@@ -1,0 +1,9 @@
+   
+    Rank: 569
+    Movie_name: A Fistful of Dollars
+    Year: 1964
+    Certificate: R
+    Runtime_in_min: 99
+    Genre: Action, Drama, Western
+    Rating_from_10: 7.9
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 471
+    Movie_name: Marriage Story
+    Year: 2019
+    Certificate: R
+    Runtime_in_min: 137
+    Genre: Drama, Romance
+    Rating_from_10: 7.9
+    

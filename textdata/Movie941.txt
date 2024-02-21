@@ -1,0 +1,9 @@
+   
+    Rank: 942
+    Movie_name: The Blind Side
+    Year: 2009
+    Certificate: PG-13
+    Runtime_in_min: 129
+    Genre: Biography, Drama, Sport
+    Rating_from_10: 7.6
+    

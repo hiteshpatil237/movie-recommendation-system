@@ -1,0 +1,9 @@
+   
+    Rank: 938
+    Movie_name: Kick-Ass
+    Year: 2010
+    Certificate: R
+    Runtime_in_min: 117
+    Genre: Action, Comedy, Crime
+    Rating_from_10: 7.6
+    

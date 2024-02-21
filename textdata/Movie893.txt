@@ -1,0 +1,9 @@
+   
+    Rank: 894
+    Movie_name: Blazing Saddles
+    Year: 1974
+    Certificate: R
+    Runtime_in_min: 93
+    Genre: Comedy, Western
+    Rating_from_10: 7.7
+    

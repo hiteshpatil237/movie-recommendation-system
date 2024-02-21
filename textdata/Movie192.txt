@@ -1,0 +1,9 @@
+   
+    Rank: 193
+    Movie_name: Z
+    Year: 1969
+    Certificate: M/PG
+    Runtime_in_min: 127
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 8.2
+    

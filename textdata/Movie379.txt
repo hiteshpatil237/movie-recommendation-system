@@ -1,0 +1,9 @@
+   
+    Rank: 380
+    Movie_name: Tae Guk Gi: The Brotherhood of War
+    Year: 2004
+    Certificate: R
+    Runtime_in_min: 140
+    Genre: Action, Drama, War
+    Rating_from_10: 8.0
+    

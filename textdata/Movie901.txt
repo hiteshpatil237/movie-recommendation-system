@@ -1,0 +1,9 @@
+   
+    Rank: 902
+    Movie_name: The Dirty Dozen
+    Year: 1967
+    Certificate: Approved
+    Runtime_in_min: 150
+    Genre: Action, Adventure, War
+    Rating_from_10: 7.7
+    

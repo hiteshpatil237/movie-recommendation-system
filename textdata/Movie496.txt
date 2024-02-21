@@ -1,0 +1,9 @@
+   
+    Rank: 497
+    Movie_name: Dev.D
+    Year: 2009
+    Certificate: Not Rated
+    Runtime_in_min: 144
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 7.9
+    

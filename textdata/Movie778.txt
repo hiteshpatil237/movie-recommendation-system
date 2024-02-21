@@ -1,0 +1,9 @@
+   
+    Rank: 779
+    Movie_name: Wreck-It Ralph
+    Year: 2012
+    Certificate: PG
+    Runtime_in_min: 101
+    Genre: Animation, Adventure, Comedy
+    Rating_from_10: 7.7
+    

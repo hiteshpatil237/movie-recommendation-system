@@ -1,0 +1,9 @@
+   
+    Rank: 26
+    Movie_name: Spirited Away
+    Year: 2001
+    Certificate: PG
+    Runtime_in_min: 125
+    Genre: Animation, Adventure, Family
+    Rating_from_10: 8.6
+    

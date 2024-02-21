@@ -1,0 +1,9 @@
+   
+    Rank: 15
+    Movie_name: The Lord of the Rings: The Fellowship of the Ring
+    Year: 2001
+    Certificate: PG-13
+    Runtime_in_min: 178
+    Genre: Action, Adventure, Drama
+    Rating_from_10: 8.8
+    

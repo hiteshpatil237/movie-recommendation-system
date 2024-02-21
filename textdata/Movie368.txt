@@ -1,0 +1,9 @@
+   
+    Rank: 369
+    Movie_name: Black Swan
+    Year: 2010
+    Certificate: R
+    Runtime_in_min: 108
+    Genre: Drama, Thriller
+    Rating_from_10: 8.0
+    

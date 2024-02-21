@@ -1,0 +1,9 @@
+   
+    Rank: 337
+    Movie_name: All Quiet on the Western Front
+    Year: 1930
+    Certificate: Passed
+    Runtime_in_min: 152
+    Genre: Drama, War
+    Rating_from_10: 8.1
+    

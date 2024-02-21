@@ -1,0 +1,9 @@
+   
+    Rank: 896
+    Movie_name: Fantastic Planet
+    Year: 1973
+    Certificate: PG
+    Runtime_in_min: 72
+    Genre: Animation, Sci-Fi
+    Rating_from_10: 7.7
+    

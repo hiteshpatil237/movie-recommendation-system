@@ -1,0 +1,9 @@
+   
+    Rank: 800
+    Movie_name: Frost/Nixon
+    Year: 2008
+    Certificate: R
+    Runtime_in_min: 122
+    Genre: Biography, Drama, History
+    Rating_from_10: 7.7
+    

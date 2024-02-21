@@ -1,0 +1,9 @@
+   
+    Rank: 304
+    Movie_name: A Woman Under the Influence
+    Year: 1974
+    Certificate: R
+    Runtime_in_min: 155
+    Genre: Drama, Romance
+    Rating_from_10: 8.1
+    

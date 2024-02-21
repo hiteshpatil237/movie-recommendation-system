@@ -1,0 +1,9 @@
+   
+    Rank: 773
+    Movie_name: My Life as a Zucchini
+    Year: 2016
+    Certificate: PG-13
+    Runtime_in_min: 70
+    Genre: Animation, Comedy, Drama
+    Rating_from_10: 7.7
+    

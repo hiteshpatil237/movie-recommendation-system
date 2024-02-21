@@ -1,0 +1,9 @@
+   
+    Rank: 833
+    Movie_name: Billy Elliot
+    Year: 2000
+    Certificate: R
+    Runtime_in_min: 110
+    Genre: Drama, Music
+    Rating_from_10: 7.7
+    

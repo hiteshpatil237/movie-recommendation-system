@@ -1,0 +1,9 @@
+   
+    Rank: 483
+    Movie_name: Arrival
+    Year: II 2016
+    Certificate: PG-13
+    Runtime_in_min: 116
+    Genre: Drama, Mystery, Sci-Fi
+    Rating_from_10: 7.9
+    

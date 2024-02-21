@@ -1,0 +1,9 @@
+   
+    Rank: 449
+    Movie_name: La dolce vita
+    Year: 1960
+    Certificate: Not Rated
+    Runtime_in_min: 174
+    Genre: Comedy, Drama
+    Rating_from_10: 8.0
+    

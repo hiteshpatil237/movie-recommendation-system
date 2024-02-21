@@ -1,0 +1,9 @@
+   
+    Rank: 273
+    Movie_name: In the Mood for Love
+    Year: 2000
+    Certificate: PG
+    Runtime_in_min: 98
+    Genre: Drama, Romance
+    Rating_from_10: 8.1
+    

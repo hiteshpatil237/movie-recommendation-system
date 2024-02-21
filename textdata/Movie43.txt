@@ -1,0 +1,9 @@
+   
+    Rank: 44
+    Movie_name: The Pianist
+    Year: 2002
+    Certificate: R
+    Runtime_in_min: 150
+    Genre: Biography, Drama, Music
+    Rating_from_10: 8.5
+    

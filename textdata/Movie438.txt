@@ -1,0 +1,9 @@
+   
+    Rank: 439
+    Movie_name: The Graduate
+    Year: 1967
+    Certificate: PG
+    Runtime_in_min: 106
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 8.0
+    

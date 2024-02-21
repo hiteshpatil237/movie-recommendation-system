@@ -1,0 +1,9 @@
+   
+    Rank: 196
+    Movie_name: Yojimbo
+    Year: 1961
+    Certificate: Not Rated
+    Runtime_in_min: 110
+    Genre: Action, Drama, Thriller
+    Rating_from_10: 8.2
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 110
+    Movie_name: Toy Story 3
+    Year: 2010
+    Certificate: G
+    Runtime_in_min: 103
+    Genre: Animation, Adventure, Comedy
+    Rating_from_10: 8.3
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 660
+    Movie_name: Apocalypto
+    Year: 2006
+    Certificate: R
+    Runtime_in_min: 139
+    Genre: Action, Adventure, Drama
+    Rating_from_10: 7.8
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 704
+    Movie_name: Crimes and Misdemeanors
+    Year: 1989
+    Certificate: PG-13
+    Runtime_in_min: 104
+    Genre: Comedy, Drama
+    Rating_from_10: 7.8
+    

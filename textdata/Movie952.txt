@@ -1,0 +1,9 @@
+   
+    Rank: 953
+    Movie_name: Control
+    Year: 2007
+    Certificate: R
+    Runtime_in_min: 122
+    Genre: Biography, Drama, Music
+    Rating_from_10: 7.6
+    

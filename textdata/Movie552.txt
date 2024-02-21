@@ -1,0 +1,9 @@
+   
+    Rank: 553
+    Movie_name: A Christmas Story
+    Year: 1983
+    Certificate: PG
+    Runtime_in_min: 93
+    Genre: Comedy, Family
+    Rating_from_10: 7.9
+    

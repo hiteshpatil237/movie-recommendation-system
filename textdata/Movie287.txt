@@ -1,0 +1,9 @@
+   
+    Rank: 288
+    Movie_name: Stand by Me
+    Year: 1986
+    Certificate: R
+    Runtime_in_min: 89
+    Genre: Adventure, Drama
+    Rating_from_10: 8.1
+    

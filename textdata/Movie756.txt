@@ -1,0 +1,9 @@
+   
+    Rank: 757
+    Movie_name: Wind River
+    Year: 2017
+    Certificate: R
+    Runtime_in_min: 107
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 7.7
+    

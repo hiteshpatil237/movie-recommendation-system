@@ -1,0 +1,9 @@
+   
+    Rank: 421
+    Movie_name: Gandhi
+    Year: 1982
+    Certificate: PG
+    Runtime_in_min: 191
+    Genre: Biography, Drama, History
+    Rating_from_10: 8.0
+    

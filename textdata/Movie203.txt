@@ -1,0 +1,9 @@
+   
+    Rank: 204
+    Movie_name: All About Eve
+    Year: 1950
+    Certificate: Passed
+    Runtime_in_min: 138
+    Genre: Drama
+    Rating_from_10: 8.2
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 892
+    Movie_name: Halloween
+    Year: 1978
+    Certificate: R
+    Runtime_in_min: 91
+    Genre: Horror, Thriller
+    Rating_from_10: 7.7
+    

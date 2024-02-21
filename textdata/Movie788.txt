@@ -1,0 +1,9 @@
+   
+    Rank: 789
+    Movie_name: Beasts of No Nation
+    Year: 2015
+    Certificate: TV-MA
+    Runtime_in_min: 137
+    Genre: Drama, War
+    Rating_from_10: 7.7
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 977
+    Movie_name: Die Hard with a Vengeance
+    Year: 1995
+    Certificate: R
+    Runtime_in_min: 128
+    Genre: Action, Adventure, Thriller
+    Rating_from_10: 7.6
+    

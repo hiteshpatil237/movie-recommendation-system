@@ -1,0 +1,9 @@
+   
+    Rank: 310
+    Movie_name: Andrei Rublev
+    Year: 1966
+    Certificate: R
+    Runtime_in_min: 205
+    Genre: Biography, Drama, History
+    Rating_from_10: 8.1
+    

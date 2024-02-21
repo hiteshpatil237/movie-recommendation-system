@@ -1,0 +1,9 @@
+   
+    Rank: 205
+    Movie_name: The Treasure of the Sierra Madre
+    Year: 1948
+    Certificate: Passed
+    Runtime_in_min: 126
+    Genre: Adventure, Drama, Western
+    Rating_from_10: 8.2
+    

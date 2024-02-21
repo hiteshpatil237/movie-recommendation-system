@@ -1,0 +1,9 @@
+   
+    Rank: 323
+    Movie_name: Rififi
+    Year: 1955
+    Certificate: Not Rated
+    Runtime_in_min: 118
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 8.1
+    

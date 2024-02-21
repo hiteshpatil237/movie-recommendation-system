@@ -1,0 +1,9 @@
+   
+    Rank: 397
+    Movie_name: Perfect Blue
+    Year: 1997
+    Certificate: R
+    Runtime_in_min: 81
+    Genre: Animation, Crime, Drama
+    Rating_from_10: 8.0
+    

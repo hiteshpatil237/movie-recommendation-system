@@ -1,0 +1,9 @@
+   
+    Rank: 564
+    Movie_name: The Wild Bunch
+    Year: 1969
+    Certificate: R
+    Runtime_in_min: 135
+    Genre: Action, Adventure, Western
+    Rating_from_10: 7.9
+    

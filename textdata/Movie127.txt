@@ -1,0 +1,9 @@
+   
+    Rank: 128
+    Movie_name: Judgment at Nuremberg
+    Year: 1961
+    Certificate: Approved
+    Runtime_in_min: 179
+    Genre: Drama, War
+    Rating_from_10: 8.3
+    

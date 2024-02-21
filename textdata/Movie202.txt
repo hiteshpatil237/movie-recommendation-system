@@ -1,0 +1,9 @@
+   
+    Rank: 203
+    Movie_name: Rashomon
+    Year: 1950
+    Certificate: Not Rated
+    Runtime_in_min: 88
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 8.2
+    

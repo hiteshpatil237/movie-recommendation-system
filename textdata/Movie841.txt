@@ -1,0 +1,9 @@
+   
+    Rank: 842
+    Movie_name: Happiness
+    Year: 1998
+    Certificate: NC-17
+    Runtime_in_min: 134
+    Genre: Comedy, Drama
+    Rating_from_10: 7.7
+    

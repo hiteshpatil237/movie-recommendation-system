@@ -1,0 +1,9 @@
+   
+    Rank: 162
+    Movie_name: No Country for Old Men
+    Year: 2007
+    Certificate: R
+    Runtime_in_min: 122
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 8.2
+    

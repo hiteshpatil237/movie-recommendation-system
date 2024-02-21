@@ -1,0 +1,9 @@
+   
+    Rank: 398
+    Movie_name: Central Station
+    Year: 1998
+    Certificate: R
+    Runtime_in_min: 110
+    Genre: Drama
+    Rating_from_10: 8.0
+    

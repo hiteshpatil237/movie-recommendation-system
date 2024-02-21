@@ -1,0 +1,9 @@
+   
+    Rank: 767
+    Movie_name: Kingsman: The Secret Service
+    Year: 2014
+    Certificate: R
+    Runtime_in_min: 129
+    Genre: Action, Adventure, Comedy
+    Rating_from_10: 7.7
+    

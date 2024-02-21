@@ -1,0 +1,9 @@
+   
+    Rank: 574
+    Movie_name: Hiroshima Mon Amour
+    Year: 1959
+    Certificate: Not Rated
+    Runtime_in_min: 90
+    Genre: Drama, Romance
+    Rating_from_10: 7.9
+    

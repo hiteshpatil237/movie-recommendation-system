@@ -1,0 +1,9 @@
+   
+    Rank: 530
+    Movie_name: Almost Famous
+    Year: 2000
+    Certificate: R
+    Runtime_in_min: 122
+    Genre: Adventure, Comedy, Drama
+    Rating_from_10: 7.9
+    

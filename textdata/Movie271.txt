@@ -1,0 +1,9 @@
+   
+    Rank: 272
+    Movie_name: The Big Lebowski
+    Year: 1998
+    Certificate: R
+    Runtime_in_min: 117
+    Genre: Comedy, Crime
+    Rating_from_10: 8.1
+    

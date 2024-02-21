@@ -1,0 +1,9 @@
+   
+    Rank: 719
+    Movie_name: The Outlaw Josey Wales
+    Year: 1976
+    Certificate: PG
+    Runtime_in_min: 135
+    Genre: Western
+    Rating_from_10: 7.8
+    

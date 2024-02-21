@@ -1,0 +1,9 @@
+   
+    Rank: 245
+    Movie_name: Gran Torino
+    Year: 2008
+    Certificate: R
+    Runtime_in_min: 116
+    Genre: Drama
+    Rating_from_10: 8.1
+    

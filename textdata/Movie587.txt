@@ -1,0 +1,9 @@
+   
+    Rank: 588
+    Movie_name: Beauty and the Beast
+    Year: 1946
+    Certificate: Not Rated
+    Runtime_in_min: 93
+    Genre: Drama, Fantasy, Romance
+    Rating_from_10: 7.9
+    

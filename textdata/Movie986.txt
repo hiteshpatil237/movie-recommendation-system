@@ -1,0 +1,9 @@
+   
+    Rank: 987
+    Movie_name: Close Encounters of the Third Kind
+    Year: 1977
+    Certificate: PG
+    Runtime_in_min: 138
+    Genre: Drama, Sci-Fi
+    Rating_from_10: 7.6
+    

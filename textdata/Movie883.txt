@@ -1,0 +1,9 @@
+   
+    Rank: 884
+    Movie_name: The Goonies
+    Year: 1985
+    Certificate: PG
+    Runtime_in_min: 114
+    Genre: Adventure, Comedy, Family
+    Rating_from_10: 7.7
+    

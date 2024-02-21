@@ -1,0 +1,9 @@
+   
+    Rank: 101
+    Movie_name: Ayla: The Daughter of War
+    Year: 2017
+    Certificate: nan
+    Runtime_in_min: 125
+    Genre: Biography, Drama, History
+    Rating_from_10: 8.3
+    

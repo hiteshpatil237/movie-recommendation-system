@@ -1,0 +1,9 @@
+   
+    Rank: 836
+    Movie_name: Y tu mamá también
+    Year: 2001
+    Certificate: R
+    Runtime_in_min: 106
+    Genre: Drama
+    Rating_from_10: 7.7
+    

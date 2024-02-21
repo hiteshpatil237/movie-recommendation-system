@@ -1,0 +1,9 @@
+   
+    Rank: 275
+    Movie_name: Fargo
+    Year: 1996
+    Certificate: R
+    Runtime_in_min: 98
+    Genre: Crime, Thriller
+    Rating_from_10: 8.1
+    

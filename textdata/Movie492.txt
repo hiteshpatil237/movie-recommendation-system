@@ -1,0 +1,9 @@
+   
+    Rank: 493
+    Movie_name: Edge of Tomorrow
+    Year: 2014
+    Certificate: PG-13
+    Runtime_in_min: 113
+    Genre: Action, Adventure, Sci-Fi
+    Rating_from_10: 7.9
+    

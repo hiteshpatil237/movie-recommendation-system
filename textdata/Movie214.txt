@@ -1,0 +1,9 @@
+   
+    Rank: 215
+    Movie_name: A Silent Voice: The Movie
+    Year: 2016
+    Certificate: Not Rated
+    Runtime_in_min: 130
+    Genre: Animation, Drama
+    Rating_from_10: 8.1
+    

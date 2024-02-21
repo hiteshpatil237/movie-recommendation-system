@@ -1,0 +1,9 @@
+   
+    Rank: 223
+    Movie_name: Logan
+    Year: 2017
+    Certificate: R
+    Runtime_in_min: 137
+    Genre: Action, Drama, Sci-Fi
+    Rating_from_10: 8.1
+    

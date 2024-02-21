@@ -1,0 +1,9 @@
+   
+    Rank: 693
+    Movie_name: The Remains of the Day
+    Year: 1993
+    Certificate: PG
+    Runtime_in_min: 134
+    Genre: Drama, Romance
+    Rating_from_10: 7.8
+    

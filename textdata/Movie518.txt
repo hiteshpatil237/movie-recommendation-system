@@ -1,0 +1,9 @@
+   
+    Rank: 519
+    Movie_name: Kal Ho Naa Ho
+    Year: 2003
+    Certificate: Not Rated
+    Runtime_in_min: 186
+    Genre: Comedy, Drama, Musical
+    Rating_from_10: 7.9
+    

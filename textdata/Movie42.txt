@@ -1,0 +1,9 @@
+   
+    Rank: 43
+    Movie_name: The Departed
+    Year: 2006
+    Certificate: R
+    Runtime_in_min: 151
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 8.5
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 913
+    Movie_name: Invasion of the Body Snatchers
+    Year: 1956
+    Certificate: Approved
+    Runtime_in_min: 80
+    Genre: Drama, Horror, Sci-Fi
+    Rating_from_10: 7.7
+    

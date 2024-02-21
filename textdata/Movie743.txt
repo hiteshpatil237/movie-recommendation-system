@@ -1,0 +1,9 @@
+   
+    Rank: 744
+    Movie_name: Stagecoach
+    Year: 1939
+    Certificate: Passed
+    Runtime_in_min: 96
+    Genre: Adventure, Drama, Western
+    Rating_from_10: 7.8
+    

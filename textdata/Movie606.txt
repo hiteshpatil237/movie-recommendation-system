@@ -1,0 +1,9 @@
+   
+    Rank: 607
+    Movie_name: Hidden Figures
+    Year: 2016
+    Certificate: PG
+    Runtime_in_min: 127
+    Genre: Biography, Drama, History
+    Rating_from_10: 7.8
+    

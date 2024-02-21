@@ -1,0 +1,9 @@
+   
+    Rank: 674
+    Movie_name: The Last Samurai
+    Year: 2003
+    Certificate: R
+    Runtime_in_min: 154
+    Genre: Action, Drama
+    Rating_from_10: 7.8
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 435
+    Movie_name: Butch Cassidy and the Sundance Kid
+    Year: 1969
+    Certificate: PG
+    Runtime_in_min: 110
+    Genre: Biography, Crime, Drama
+    Rating_from_10: 8.0
+    

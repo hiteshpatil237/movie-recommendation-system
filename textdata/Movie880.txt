@@ -1,0 +1,9 @@
+   
+    Rank: 881
+    Movie_name: Down by Law
+    Year: 1986
+    Certificate: R
+    Runtime_in_min: 107
+    Genre: Comedy, Crime, Drama
+    Rating_from_10: 7.7
+    

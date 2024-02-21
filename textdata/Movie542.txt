@@ -1,0 +1,9 @@
+   
+    Rank: 543
+    Movie_name: The Nightmare Before Christmas
+    Year: 1993
+    Certificate: PG
+    Runtime_in_min: 76
+    Genre: Animation, Family, Fantasy
+    Rating_from_10: 7.9
+    

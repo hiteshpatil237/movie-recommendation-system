@@ -1,0 +1,9 @@
+   
+    Rank: 737
+    Movie_name: The Day the Earth Stood Still
+    Year: 1951
+    Certificate: G
+    Runtime_in_min: 92
+    Genre: Drama, Sci-Fi
+    Rating_from_10: 7.8
+    

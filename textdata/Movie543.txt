@@ -1,0 +1,9 @@
+   
+    Rank: 544
+    Movie_name: Carlito's Way
+    Year: 1993
+    Certificate: R
+    Runtime_in_min: 144
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 7.9
+    

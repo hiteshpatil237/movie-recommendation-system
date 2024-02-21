@@ -1,0 +1,9 @@
+   
+    Rank: 537
+    Movie_name: Boogie Nights
+    Year: 1997
+    Certificate: R
+    Runtime_in_min: 155
+    Genre: Drama
+    Rating_from_10: 7.9
+    

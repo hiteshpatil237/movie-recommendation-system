@@ -1,0 +1,9 @@
+   
+    Rank: 10
+    Movie_name: Rocketry: The Nambi Effect
+    Year: 2022
+    Certificate: UA
+    Runtime_in_min: 157
+    Genre: Biography, Drama
+    Rating_from_10: 8.8
+    

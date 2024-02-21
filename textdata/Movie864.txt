@@ -1,0 +1,9 @@
+   
+    Rank: 865
+    Movie_name: Porco Rosso
+    Year: 1992
+    Certificate: PG
+    Runtime_in_min: 94
+    Genre: Animation, Adventure, Comedy
+    Rating_from_10: 7.7
+    

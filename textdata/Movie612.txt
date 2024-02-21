@@ -1,0 +1,9 @@
+   
+    Rank: 613
+    Movie_name: Captain Fantastic
+    Year: 2016
+    Certificate: R
+    Runtime_in_min: 118
+    Genre: Comedy, Drama
+    Rating_from_10: 7.8
+    

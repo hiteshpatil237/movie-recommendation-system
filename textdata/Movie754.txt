@@ -1,0 +1,9 @@
+   
+    Rank: 755
+    Movie_name: Deadpool 2
+    Year: 2018
+    Certificate: R
+    Runtime_in_min: 119
+    Genre: Action, Adventure, Comedy
+    Rating_from_10: 7.7
+    

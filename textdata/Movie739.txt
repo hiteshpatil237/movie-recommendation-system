@@ -1,0 +1,9 @@
+   
+    Rank: 740
+    Movie_name: To Have and Have Not
+    Year: 1944
+    Certificate: Passed
+    Runtime_in_min: 100
+    Genre: Adventure, Comedy, Film-Noir
+    Rating_from_10: 7.8
+    

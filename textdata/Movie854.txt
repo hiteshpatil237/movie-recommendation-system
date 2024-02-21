@@ -1,0 +1,9 @@
+   
+    Rank: 855
+    Movie_name: Apollo 13
+    Year: I 1995
+    Certificate: PG
+    Runtime_in_min: 140
+    Genre: Adventure, Drama, History
+    Rating_from_10: 7.7
+    

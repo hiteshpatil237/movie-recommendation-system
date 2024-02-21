@@ -1,0 +1,9 @@
+   
+    Rank: 602
+    Movie_name: Hindi Medium
+    Year: 2017
+    Certificate: Not Rated
+    Runtime_in_min: 132
+    Genre: Comedy, Drama
+    Rating_from_10: 7.8
+    

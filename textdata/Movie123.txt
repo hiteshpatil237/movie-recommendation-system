@@ -1,0 +1,9 @@
+   
+    Rank: 124
+    Movie_name: A Clockwork Orange
+    Year: 1971
+    Certificate: R
+    Runtime_in_min: 136
+    Genre: Crime, Sci-Fi
+    Rating_from_10: 8.3
+    

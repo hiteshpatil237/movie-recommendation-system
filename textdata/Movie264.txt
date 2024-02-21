@@ -1,0 +1,9 @@
+   
+    Rank: 265
+    Movie_name: Amores Perros
+    Year: 2000
+    Certificate: R
+    Runtime_in_min: 154
+    Genre: Drama, Thriller
+    Rating_from_10: 8.1
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 788
+    Movie_name: Star Trek Into Darkness
+    Year: 2013
+    Certificate: PG-13
+    Runtime_in_min: 132
+    Genre: Action, Adventure, Sci-Fi
+    Rating_from_10: 7.7
+    

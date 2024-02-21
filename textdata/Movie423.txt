@@ -1,0 +1,9 @@
+   
+    Rank: 424
+    Movie_name: Being There
+    Year: 1979
+    Certificate: PG
+    Runtime_in_min: 130
+    Genre: Comedy, Drama
+    Rating_from_10: 8.0
+    

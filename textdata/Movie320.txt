@@ -1,0 +1,9 @@
+   
+    Rank: 321
+    Movie_name: Nights of Cabiria
+    Year: 1957
+    Certificate: Not Rated
+    Runtime_in_min: 110
+    Genre: Drama
+    Rating_from_10: 8.1
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 243
+    Movie_name: Mad Max: Fury Road
+    Year: 2015
+    Certificate: R
+    Runtime_in_min: 120
+    Genre: Action, Adventure, Sci-Fi
+    Rating_from_10: 8.1
+    

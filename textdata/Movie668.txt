@@ -1,0 +1,9 @@
+   
+    Rank: 669
+    Movie_name: Serenity
+    Year: 2005
+    Certificate: PG-13
+    Runtime_in_min: 119
+    Genre: Action, Adventure, Sci-Fi
+    Rating_from_10: 7.8
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 472
+    Movie_name: Super 30
+    Year: 2019
+    Certificate: Not Rated
+    Runtime_in_min: 154
+    Genre: Biography, Drama
+    Rating_from_10: 7.9
+    

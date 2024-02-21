@@ -1,0 +1,9 @@
+   
+    Rank: 761
+    Movie_name: Perfect Strangers
+    Year: 2016
+    Certificate: nan
+    Runtime_in_min: 96
+    Genre: Comedy, Drama
+    Rating_from_10: 7.7
+    

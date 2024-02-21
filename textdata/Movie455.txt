@@ -1,0 +1,9 @@
+   
+    Rank: 456
+    Movie_name: La strada
+    Year: 1954
+    Certificate: Not Rated
+    Runtime_in_min: 108
+    Genre: Drama
+    Rating_from_10: 8.0
+    

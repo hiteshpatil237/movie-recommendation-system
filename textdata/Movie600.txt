@@ -1,0 +1,9 @@
+   
+    Rank: 601
+    Movie_name: The Gentlemen
+    Year: 2019
+    Certificate: R
+    Runtime_in_min: 113
+    Genre: Action, Comedy, Crime
+    Rating_from_10: 7.8
+    

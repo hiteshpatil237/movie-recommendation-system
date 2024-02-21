@@ -1,0 +1,9 @@
+   
+    Rank: 774
+    Movie_name: Blue Is the Warmest Colour
+    Year: 2013
+    Certificate: NC-17
+    Runtime_in_min: 180
+    Genre: Drama, Romance
+    Rating_from_10: 7.7
+    

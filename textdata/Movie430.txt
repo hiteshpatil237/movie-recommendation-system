@@ -1,0 +1,9 @@
+   
+    Rank: 431
+    Movie_name: Solaris
+    Year: 1972
+    Certificate: PG
+    Runtime_in_min: 167
+    Genre: Drama, Mystery, Sci-Fi
+    Rating_from_10: 8.0
+    

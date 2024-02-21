@@ -1,0 +1,9 @@
+   
+    Rank: 819
+    Movie_name: Evil
+    Year: 2003
+    Certificate: Not Rated
+    Runtime_in_min: 113
+    Genre: Drama
+    Rating_from_10: 7.7
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 132
+    Movie_name: Pather Panchali
+    Year: 1955
+    Certificate: Not Rated
+    Runtime_in_min: 125
+    Genre: Drama
+    Rating_from_10: 8.3
+    

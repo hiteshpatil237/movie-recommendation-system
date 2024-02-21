@@ -1,0 +1,9 @@
+   
+    Rank: 161
+    Movie_name: The Wolf of Wall Street
+    Year: 2013
+    Certificate: R
+    Runtime_in_min: 180
+    Genre: Biography, Comedy, Crime
+    Rating_from_10: 8.2
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 92
+    Movie_name: The Shining
+    Year: 1980
+    Certificate: R
+    Runtime_in_min: 146
+    Genre: Drama, Horror
+    Rating_from_10: 8.4
+    

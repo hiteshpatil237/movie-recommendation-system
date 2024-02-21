@@ -1,0 +1,9 @@
+   
+    Rank: 152
+    Movie_name: Paan Singh Tomar
+    Year: 2012
+    Certificate: Not Rated
+    Runtime_in_min: 135
+    Genre: Action, Biography, Crime
+    Rating_from_10: 8.2
+    

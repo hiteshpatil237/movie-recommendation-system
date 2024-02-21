@@ -1,0 +1,9 @@
+   
+    Rank: 401
+    Movie_name: Sling Blade
+    Year: 1996
+    Certificate: R
+    Runtime_in_min: 135
+    Genre: Drama
+    Rating_from_10: 8.0
+    

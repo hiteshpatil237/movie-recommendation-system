@@ -1,0 +1,9 @@
+   
+    Rank: 60
+    Movie_name: City Lights
+    Year: 1931
+    Certificate: G
+    Runtime_in_min: 87
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 8.5
+    

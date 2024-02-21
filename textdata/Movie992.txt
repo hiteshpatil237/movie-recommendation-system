@@ -1,0 +1,9 @@
+   
+    Rank: 993
+    Movie_name: The Birds
+    Year: 1963
+    Certificate: PG-13
+    Runtime_in_min: 119
+    Genre: Drama, Horror, Mystery
+    Rating_from_10: 7.6
+    

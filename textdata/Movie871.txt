@@ -1,0 +1,9 @@
+   
+    Rank: 872
+    Movie_name: Miller's Crossing
+    Year: 1990
+    Certificate: R
+    Runtime_in_min: 115
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 7.7
+    

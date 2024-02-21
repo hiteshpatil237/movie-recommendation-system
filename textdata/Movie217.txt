@@ -1,0 +1,9 @@
+   
+    Rank: 218
+    Movie_name: Klaus
+    Year: 2019
+    Certificate: PG
+    Runtime_in_min: 96
+    Genre: Animation, Adventure, Comedy
+    Rating_from_10: 8.1
+    

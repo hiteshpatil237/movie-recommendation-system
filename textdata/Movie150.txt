@@ -1,0 +1,9 @@
+   
+    Rank: 151
+    Movie_name: Gangs of Wasseypur
+    Year: 2012
+    Certificate: Not Rated
+    Runtime_in_min: 321
+    Genre: Action, Comedy, Crime
+    Rating_from_10: 8.2
+    

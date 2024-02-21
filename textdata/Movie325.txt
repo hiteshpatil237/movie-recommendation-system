@@ -1,0 +1,9 @@
+   
+    Rank: 326
+    Movie_name: Ace in the Hole
+    Year: 1951
+    Certificate: Approved
+    Runtime_in_min: 111
+    Genre: Drama, Film-Noir
+    Rating_from_10: 8.1
+    

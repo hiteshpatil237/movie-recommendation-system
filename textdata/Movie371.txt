@@ -1,0 +1,9 @@
+   
+    Rank: 372
+    Movie_name: Persepolis
+    Year: 2007
+    Certificate: PG-13
+    Runtime_in_min: 96
+    Genre: Animation, Biography, Drama
+    Rating_from_10: 8.0
+    

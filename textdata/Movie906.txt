@@ -1,0 +1,9 @@
+   
+    Rank: 907
+    Movie_name: Goldfinger
+    Year: 1964
+    Certificate: PG
+    Runtime_in_min: 110
+    Genre: Action, Adventure, Thriller
+    Rating_from_10: 7.7
+    

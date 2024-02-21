@@ -1,0 +1,9 @@
+   
+    Rank: 36
+    Movie_name: It's a Wonderful Life
+    Year: 1946
+    Certificate: PG
+    Runtime_in_min: 130
+    Genre: Drama, Family, Fantasy
+    Rating_from_10: 8.6
+    

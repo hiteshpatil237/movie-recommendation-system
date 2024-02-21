@@ -1,0 +1,9 @@
+   
+    Rank: 567
+    Movie_name: In Cold Blood
+    Year: 1967
+    Certificate: R
+    Runtime_in_min: 134
+    Genre: Biography, Crime, Drama
+    Rating_from_10: 7.9
+    

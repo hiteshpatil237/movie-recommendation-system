@@ -1,0 +1,9 @@
+   
+    Rank: 871
+    Movie_name: Dreams
+    Year: 1990
+    Certificate: PG
+    Runtime_in_min: 119
+    Genre: Drama, Fantasy
+    Rating_from_10: 7.7
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 968
+    Movie_name: Minority Report
+    Year: 2002
+    Certificate: PG-13
+    Runtime_in_min: 145
+    Genre: Action, Crime, Mystery
+    Rating_from_10: 7.6
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 501
+    Movie_name: District 9
+    Year: 2009
+    Certificate: R
+    Runtime_in_min: 112
+    Genre: Action, Sci-Fi, Thriller
+    Rating_from_10: 7.9
+    

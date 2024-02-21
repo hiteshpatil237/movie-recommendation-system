@@ -1,0 +1,9 @@
+   
+    Rank: 267
+    Movie_name: Sarfarosh
+    Year: 1999
+    Certificate: Not Rated
+    Runtime_in_min: 174
+    Genre: Action, Drama, Thriller
+    Rating_from_10: 8.1
+    

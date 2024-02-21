@@ -1,0 +1,9 @@
+   
+    Rank: 302
+    Movie_name: Jaws
+    Year: 1975
+    Certificate: PG
+    Runtime_in_min: 124
+    Genre: Adventure, Thriller
+    Rating_from_10: 8.1
+    

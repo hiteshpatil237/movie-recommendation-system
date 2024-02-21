@@ -1,0 +1,9 @@
+   
+    Rank: 99
+    Movie_name: Chhichhore
+    Year: 2019
+    Certificate: Not Rated
+    Runtime_in_min: 143
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 8.3
+    

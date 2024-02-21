@@ -1,0 +1,9 @@
+   
+    Rank: 546
+    Movie_name: Edward Scissorhands
+    Year: 1990
+    Certificate: PG-13
+    Runtime_in_min: 105
+    Genre: Drama, Fantasy, Romance
+    Rating_from_10: 7.9
+    

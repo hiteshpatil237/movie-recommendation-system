@@ -1,0 +1,9 @@
+   
+    Rank: 981
+    Movie_name: The Naked Gun: From the Files of Police Squad!
+    Year: 1988
+    Certificate: PG-13
+    Runtime_in_min: 85
+    Genre: Comedy, Crime
+    Rating_from_10: 7.6
+    

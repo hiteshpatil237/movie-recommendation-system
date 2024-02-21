@@ -1,0 +1,9 @@
+   
+    Rank: 960
+    Movie_name: 21 Grams
+    Year: 2003
+    Certificate: R
+    Runtime_in_min: 124
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 7.6
+    

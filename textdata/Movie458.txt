@@ -1,0 +1,9 @@
+   
+    Rank: 459
+    Movie_name: High Noon
+    Year: 1952
+    Certificate: PG
+    Runtime_in_min: 85
+    Genre: Drama, Thriller, Western
+    Rating_from_10: 8.0
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 246
+    Movie_name: Harry Potter and the Deathly Hallows: Part 2
+    Year: 2011
+    Certificate: PG-13
+    Runtime_in_min: 130
+    Genre: Adventure, Family, Fantasy
+    Rating_from_10: 8.1
+    

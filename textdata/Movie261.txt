@@ -1,0 +1,9 @@
+   
+    Rank: 262
+    Movie_name: Dil Chahta Hai
+    Year: 2001
+    Certificate: Not Rated
+    Runtime_in_min: 183
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 8.1
+    

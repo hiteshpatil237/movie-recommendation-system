@@ -1,0 +1,9 @@
+   
+    Rank: 437
+    Movie_name: Planet of the Apes
+    Year: 1968
+    Certificate: G
+    Runtime_in_min: 112
+    Genre: Adventure, Sci-Fi
+    Rating_from_10: 8.0
+    

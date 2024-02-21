@@ -1,0 +1,9 @@
+   
+    Rank: 336
+    Movie_name: It Happened One Night
+    Year: 1934
+    Certificate: Passed
+    Runtime_in_min: 105
+    Genre: Comedy, Romance
+    Rating_from_10: 8.1
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 76
+    Movie_name: 3 Idiots
+    Year: 2009
+    Certificate: PG-13
+    Runtime_in_min: 170
+    Genre: Comedy, Drama
+    Rating_from_10: 8.4
+    

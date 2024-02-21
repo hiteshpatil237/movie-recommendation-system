@@ -1,0 +1,9 @@
+   
+    Rank: 56
+    Movie_name: Psycho
+    Year: 1960
+    Certificate: R
+    Runtime_in_min: 109
+    Genre: Horror, Mystery, Thriller
+    Rating_from_10: 8.5
+    

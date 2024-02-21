@@ -1,0 +1,9 @@
+   
+    Rank: 143
+    Movie_name: Tumbbad
+    Year: 2018
+    Certificate: Not Rated
+    Runtime_in_min: 104
+    Genre: Drama, Fantasy, Horror
+    Rating_from_10: 8.2
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 550
+    Movie_name: Hannah and Her Sisters
+    Year: 1986
+    Certificate: PG-13
+    Runtime_in_min: 107
+    Genre: Comedy, Drama
+    Rating_from_10: 7.9
+    

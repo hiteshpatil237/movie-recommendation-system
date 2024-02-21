@@ -1,0 +1,9 @@
+   
+    Rank: 47
+    Movie_name: The Usual Suspects
+    Year: 1995
+    Certificate: R
+    Runtime_in_min: 106
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 8.5
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 637
+    Movie_name: Straight Outta Compton
+    Year: 2015
+    Certificate: R
+    Runtime_in_min: 147
+    Genre: Biography, Drama, History
+    Rating_from_10: 7.8
+    

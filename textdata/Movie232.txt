@@ -1,0 +1,9 @@
+   
+    Rank: 233
+    Movie_name: Hacksaw Ridge
+    Year: 2016
+    Certificate: R
+    Runtime_in_min: 139
+    Genre: Biography, Drama, History
+    Rating_from_10: 8.1
+    

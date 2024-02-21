@@ -1,0 +1,9 @@
+   
+    Rank: 382
+    Movie_name: Casino Royale
+    Year: 2006
+    Certificate: PG-13
+    Runtime_in_min: 144
+    Genre: Action, Adventure, Thriller
+    Rating_from_10: 8.0
+    

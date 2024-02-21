@@ -1,0 +1,9 @@
+   
+    Rank: 359
+    Movie_name: Elite Squad 2: The Enemy Within
+    Year: 2010
+    Certificate: Not Rated
+    Runtime_in_min: 115
+    Genre: Action, Crime, Drama
+    Rating_from_10: 8.0
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 356
+    Movie_name: Blade Runner 2049
+    Year: 2017
+    Certificate: R
+    Runtime_in_min: 164
+    Genre: Action, Drama, Mystery
+    Rating_from_10: 8.0
+    

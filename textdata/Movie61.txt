@@ -1,0 +1,9 @@
+   
+    Rank: 62
+    Movie_name: Vikram
+    Year: 2022
+    Certificate: UA
+    Runtime_in_min: 175
+    Genre: Action, Crime, Thriller
+    Rating_from_10: 8.4
+    

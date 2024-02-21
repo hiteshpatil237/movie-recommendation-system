@@ -1,0 +1,9 @@
+   
+    Rank: 976
+    Movie_name: Shine
+    Year: 1996
+    Certificate: PG-13
+    Runtime_in_min: 105
+    Genre: Biography, Drama, Music
+    Rating_from_10: 7.6
+    

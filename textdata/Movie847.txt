@@ -1,0 +1,9 @@
+   
+    Rank: 848
+    Movie_name: As Good as It Gets
+    Year: 1997
+    Certificate: PG-13
+    Runtime_in_min: 139
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 7.7
+    

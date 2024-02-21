@@ -1,0 +1,9 @@
+   
+    Rank: 876
+    Movie_name: The Vanishing
+    Year: 1988
+    Certificate: Not Rated
+    Runtime_in_min: 107
+    Genre: Mystery, Thriller
+    Rating_from_10: 7.7
+    

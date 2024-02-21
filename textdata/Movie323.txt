@@ -1,0 +1,9 @@
+   
+    Rank: 324
+    Movie_name: On the Waterfront
+    Year: 1954
+    Certificate: Approved
+    Runtime_in_min: 108
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 8.1
+    

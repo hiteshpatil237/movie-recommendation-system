@@ -1,0 +1,9 @@
+   
+    Rank: 807
+    Movie_name: Zodiac
+    Year: 2007
+    Certificate: R
+    Runtime_in_min: 157
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 7.7
+    

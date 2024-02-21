@@ -1,0 +1,9 @@
+   
+    Rank: 731
+    Movie_name: The Umbrellas of Cherbourg
+    Year: 1964
+    Certificate: Not Rated
+    Runtime_in_min: 91
+    Genre: Drama, Musical, Romance
+    Rating_from_10: 7.8
+    

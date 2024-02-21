@@ -1,0 +1,9 @@
+   
+    Rank: 965
+    Movie_name: Harry Potter and the Sorcerer's Stone
+    Year: 2001
+    Certificate: PG
+    Runtime_in_min: 152
+    Genre: Adventure, Family, Fantasy
+    Rating_from_10: 7.6
+    

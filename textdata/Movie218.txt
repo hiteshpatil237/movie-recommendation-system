@@ -1,0 +1,9 @@
+   
+    Rank: 219
+    Movie_name: Masaan
+    Year: 2015
+    Certificate: A
+    Runtime_in_min: 109
+    Genre: Drama
+    Rating_from_10: 8.1
+    

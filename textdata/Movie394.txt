@@ -1,0 +1,9 @@
+   
+    Rank: 395
+    Movie_name: Neon Genesis Evangelion: The End of Evangelion
+    Year: 1997
+    Certificate: TV-MA
+    Runtime_in_min: 87
+    Genre: Animation, Action, Drama
+    Rating_from_10: 8.0
+    

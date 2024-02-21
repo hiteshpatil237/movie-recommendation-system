@@ -1,0 +1,9 @@
+   
+    Rank: 368
+    Movie_name: Slumdog Millionaire
+    Year: 2008
+    Certificate: R
+    Runtime_in_min: 120
+    Genre: Crime, Drama, Romance
+    Rating_from_10: 8.0
+    

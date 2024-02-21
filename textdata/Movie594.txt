@@ -1,0 +1,9 @@
+   
+    Rank: 595
+    Movie_name: The Rules of the Game
+    Year: 1939
+    Certificate: Not Rated
+    Runtime_in_min: 110
+    Genre: Comedy, Drama
+    Rating_from_10: 7.9
+    

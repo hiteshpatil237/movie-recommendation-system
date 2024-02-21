@@ -1,0 +1,9 @@
+   
+    Rank: 239
+    Movie_name: Kahaani
+    Year: 2012
+    Certificate: Not Rated
+    Runtime_in_min: 122
+    Genre: Mystery, Thriller
+    Rating_from_10: 8.1
+    

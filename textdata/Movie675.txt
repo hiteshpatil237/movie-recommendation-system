@@ -1,0 +1,9 @@
+   
+    Rank: 676
+    Movie_name: Lilya 4-Ever
+    Year: 2002
+    Certificate: R
+    Runtime_in_min: 109
+    Genre: Crime, Drama
+    Rating_from_10: 7.8
+    

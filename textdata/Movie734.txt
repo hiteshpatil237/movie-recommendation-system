@@ -1,0 +1,9 @@
+   
+    Rank: 735
+    Movie_name: L'Avventura
+    Year: 1960
+    Certificate: Not Rated
+    Runtime_in_min: 144
+    Genre: Drama, Mystery, Romance
+    Rating_from_10: 7.8
+    

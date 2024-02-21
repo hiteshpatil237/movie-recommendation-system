@@ -1,0 +1,9 @@
+   
+    Rank: 8
+    Movie_name: 777 Charlie
+    Year: 2022
+    Certificate: UA
+    Runtime_in_min: 136
+    Genre: Adventure, Comedy, Drama
+    Rating_from_10: 8.9
+    

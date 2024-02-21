@@ -1,0 +1,9 @@
+   
+    Rank: 793
+    Movie_name: Silver Linings Playbook
+    Year: 2012
+    Certificate: R
+    Runtime_in_min: 122
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 7.7
+    

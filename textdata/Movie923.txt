@@ -1,0 +1,9 @@
+   
+    Rank: 924
+    Movie_name: Guardians of the Galaxy Vol. 2
+    Year: 2017
+    Certificate: PG-13
+    Runtime_in_min: 136
+    Genre: Action, Adventure, Comedy
+    Rating_from_10: 7.6
+    

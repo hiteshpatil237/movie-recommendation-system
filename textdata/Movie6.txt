@@ -1,0 +1,9 @@
+   
+    Rank: 7
+    Movie_name: 12 Angry Men
+    Year: 1957
+    Certificate: Approved
+    Runtime_in_min: 96
+    Genre: Crime, Drama
+    Rating_from_10: 9.0
+    

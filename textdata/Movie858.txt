@@ -1,0 +1,9 @@
+   
+    Rank: 859
+    Movie_name: Philadelphia
+    Year: 1993
+    Certificate: PG-13
+    Runtime_in_min: 125
+    Genre: Drama
+    Rating_from_10: 7.7
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 153
+    Movie_name: Zindagi Na Milegi Dobara
+    Year: 2011
+    Certificate: Not Rated
+    Runtime_in_min: 155
+    Genre: Comedy, Drama, Musical
+    Rating_from_10: 8.2
+    

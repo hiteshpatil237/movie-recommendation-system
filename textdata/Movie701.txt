@@ -1,0 +1,9 @@
+   
+    Rank: 702
+    Movie_name: Glory
+    Year: 1989
+    Certificate: R
+    Runtime_in_min: 122
+    Genre: Biography, Drama, History
+    Rating_from_10: 7.8
+    

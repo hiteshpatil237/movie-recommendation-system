@@ -1,0 +1,9 @@
+   
+    Rank: 49
+    Movie_name: The Lion King
+    Year: 1994
+    Certificate: G
+    Runtime_in_min: 88
+    Genre: Animation, Adventure, Drama
+    Rating_from_10: 8.5
+    

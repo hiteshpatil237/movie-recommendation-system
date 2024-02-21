@@ -1,0 +1,9 @@
+   
+    Rank: 620
+    Movie_name: Star Wars: Episode VII - The Force Awakens
+    Year: 2015
+    Certificate: PG-13
+    Runtime_in_min: 138
+    Genre: Action, Adventure, Sci-Fi
+    Rating_from_10: 7.8
+    

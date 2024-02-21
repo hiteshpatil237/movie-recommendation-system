@@ -1,0 +1,9 @@
+   
+    Rank: 847
+    Movie_name: Taste of Cherry
+    Year: 1997
+    Certificate: Not Rated
+    Runtime_in_min: 95
+    Genre: Drama
+    Rating_from_10: 7.7
+    

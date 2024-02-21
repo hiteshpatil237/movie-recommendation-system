@@ -1,0 +1,9 @@
+   
+    Rank: 117
+    Movie_name: Heat
+    Year: 1995
+    Certificate: R
+    Runtime_in_min: 170
+    Genre: Action, Crime, Drama
+    Rating_from_10: 8.3
+    

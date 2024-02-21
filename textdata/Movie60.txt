@@ -1,0 +1,9 @@
+   
+    Rank: 61
+    Movie_name: Asuran
+    Year: 2019
+    Certificate: Not Rated
+    Runtime_in_min: 141
+    Genre: Action, Drama
+    Rating_from_10: 8.4
+    

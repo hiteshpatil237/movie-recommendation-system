@@ -1,0 +1,9 @@
+   
+    Rank: 709
+    Movie_name: Ferris Bueller's Day Off
+    Year: 1986
+    Certificate: PG-13
+    Runtime_in_min: 103
+    Genre: Comedy
+    Rating_from_10: 7.8
+    

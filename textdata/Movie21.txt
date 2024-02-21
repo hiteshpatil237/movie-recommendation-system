@@ -1,0 +1,9 @@
+   
+    Rank: 22
+    Movie_name: One Flew Over the Cuckoo's Nest
+    Year: 1975
+    Certificate: R
+    Runtime_in_min: 133
+    Genre: Drama
+    Rating_from_10: 8.7
+    

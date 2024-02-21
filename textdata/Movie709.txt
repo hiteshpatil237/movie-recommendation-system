@@ -1,0 +1,9 @@
+   
+    Rank: 710
+    Movie_name: The Breakfast Club
+    Year: 1985
+    Certificate: R
+    Runtime_in_min: 97
+    Genre: Comedy, Drama
+    Rating_from_10: 7.8
+    

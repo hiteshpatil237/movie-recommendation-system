@@ -1,0 +1,9 @@
+   
+    Rank: 50
+    Movie_name: Cinema Paradiso
+    Year: 1988
+    Certificate: R
+    Runtime_in_min: 155
+    Genre: Drama, Romance
+    Rating_from_10: 8.5
+    

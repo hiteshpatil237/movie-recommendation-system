@@ -1,0 +1,9 @@
+   
+    Rank: 995
+    Movie_name: Rebel Without a Cause
+    Year: 1955
+    Certificate: PG-13
+    Runtime_in_min: 111
+    Genre: Drama
+    Rating_from_10: 7.6
+    

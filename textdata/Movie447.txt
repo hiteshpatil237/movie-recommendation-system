@@ -1,0 +1,9 @@
+   
+    Rank: 448
+    Movie_name: The Hustler
+    Year: 1961
+    Certificate: Not Rated
+    Runtime_in_min: 134
+    Genre: Drama, Sport
+    Rating_from_10: 8.0
+    

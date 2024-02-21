@@ -1,0 +1,9 @@
+   
+    Rank: 496
+    Movie_name: About Elly
+    Year: 2009
+    Certificate: TV-PG
+    Runtime_in_min: 119
+    Genre: Drama, Mystery
+    Rating_from_10: 7.9
+    

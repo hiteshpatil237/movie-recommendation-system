@@ -1,0 +1,9 @@
+   
+    Rank: 904
+    Movie_name: Belle de Jour
+    Year: 1967
+    Certificate: R
+    Runtime_in_min: 100
+    Genre: Drama, Romance
+    Rating_from_10: 7.7
+    

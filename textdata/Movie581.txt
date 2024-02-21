@@ -1,0 +1,9 @@
+   
+    Rank: 582
+    Movie_name: In a Lonely Place
+    Year: 1950
+    Certificate: Not Rated
+    Runtime_in_min: 94
+    Genre: Drama, Film-Noir, Mystery
+    Rating_from_10: 7.9
+    

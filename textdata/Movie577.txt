@@ -1,0 +1,9 @@
+   
+    Rank: 578
+    Movie_name: The Searchers
+    Year: 1956
+    Certificate: Passed
+    Runtime_in_min: 119
+    Genre: Adventure, Drama, Western
+    Rating_from_10: 7.9
+    

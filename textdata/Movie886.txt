@@ -1,0 +1,9 @@
+   
+    Rank: 887
+    Movie_name: The Verdict
+    Year: 1982
+    Certificate: R
+    Runtime_in_min: 129
+    Genre: Drama
+    Rating_from_10: 7.7
+    

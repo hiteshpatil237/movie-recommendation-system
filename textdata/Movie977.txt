@@ -1,0 +1,9 @@
+   
+    Rank: 978
+    Movie_name: The Bridges of Madison County
+    Year: 1995
+    Certificate: PG-13
+    Runtime_in_min: 135
+    Genre: Drama, Romance
+    Rating_from_10: 7.6
+    

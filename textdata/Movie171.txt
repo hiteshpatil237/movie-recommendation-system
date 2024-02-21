@@ -1,0 +1,9 @@
+   
+    Rank: 172
+    Movie_name: Kill Bill: Vol. 1
+    Year: 2003
+    Certificate: R
+    Runtime_in_min: 111
+    Genre: Action, Crime, Drama
+    Rating_from_10: 8.2
+    

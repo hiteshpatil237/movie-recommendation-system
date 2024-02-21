@@ -1,0 +1,9 @@
+   
+    Rank: 280
+    Movie_name: Three Colors: Red
+    Year: 1994
+    Certificate: R
+    Runtime_in_min: 99
+    Genre: Drama, Mystery, Romance
+    Rating_from_10: 8.1
+    

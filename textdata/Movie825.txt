@@ -1,0 +1,9 @@
+   
+    Rank: 826
+    Movie_name: Good Bye Lenin!
+    Year: 2003
+    Certificate: R
+    Runtime_in_min: 121
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 7.7
+    

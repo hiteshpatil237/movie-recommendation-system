@@ -1,0 +1,9 @@
+   
+    Rank: 282
+    Movie_name: Groundhog Day
+    Year: 1993
+    Certificate: PG
+    Runtime_in_min: 101
+    Genre: Comedy, Drama, Fantasy
+    Rating_from_10: 8.1
+    

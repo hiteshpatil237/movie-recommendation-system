@@ -1,0 +1,9 @@
+   
+    Rank: 112
+    Movie_name: Eternal Sunshine of the Spotless Mind
+    Year: 2004
+    Certificate: R
+    Runtime_in_min: 108
+    Genre: Drama, Romance, Sci-Fi
+    Rating_from_10: 8.3
+    

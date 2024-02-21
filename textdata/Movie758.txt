@@ -1,0 +1,9 @@
+   
+    Rank: 759
+    Movie_name: Get Out
+    Year: I 2017
+    Certificate: R
+    Runtime_in_min: 104
+    Genre: Horror, Mystery, Thriller
+    Rating_from_10: 7.7
+    

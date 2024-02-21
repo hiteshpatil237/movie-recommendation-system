@@ -1,0 +1,9 @@
+   
+    Rank: 975
+    Movie_name: Dark City
+    Year: 1998
+    Certificate: R
+    Runtime_in_min: 100
+    Genre: Fantasy, Mystery, Sci-Fi
+    Rating_from_10: 7.6
+    

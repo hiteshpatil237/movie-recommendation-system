@@ -1,0 +1,9 @@
+   
+    Rank: 723
+    Movie_name: The Day of the Jackal
+    Year: 1973
+    Certificate: PG
+    Runtime_in_min: 143
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 7.8
+    

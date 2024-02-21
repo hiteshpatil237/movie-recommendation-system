@@ -1,0 +1,9 @@
+   
+    Rank: 911
+    Movie_name: The Magnificent Seven
+    Year: 1960
+    Certificate: Approved
+    Runtime_in_min: 128
+    Genre: Action, Adventure, Western
+    Rating_from_10: 7.7
+    

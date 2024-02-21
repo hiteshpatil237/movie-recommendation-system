@@ -1,0 +1,9 @@
+   
+    Rank: 986
+    Movie_name: The Road Warrior
+    Year: 1981
+    Certificate: R
+    Runtime_in_min: 96
+    Genre: Action, Adventure, Sci-Fi
+    Rating_from_10: 7.6
+    

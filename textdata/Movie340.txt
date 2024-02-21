@@ -1,0 +1,9 @@
+   
+    Rank: 341
+    Movie_name: Wolfwalkers
+    Year: 2020
+    Certificate: PG
+    Runtime_in_min: 103
+    Genre: Animation, Adventure, Family
+    Rating_from_10: 8.0
+    

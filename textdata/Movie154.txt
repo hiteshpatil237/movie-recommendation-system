@@ -1,0 +1,9 @@
+   
+    Rank: 155
+    Movie_name: Warrior
+    Year: 2011
+    Certificate: PG-13
+    Runtime_in_min: 140
+    Genre: Action, Drama, Sport
+    Rating_from_10: 8.2
+    

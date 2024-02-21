@@ -1,0 +1,9 @@
+   
+    Rank: 98
+    Movie_name: The Great Dictator
+    Year: 1940
+    Certificate: G
+    Runtime_in_min: 125
+    Genre: Comedy, Drama, War
+    Rating_from_10: 8.4
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 726
+    Movie_name: Aguirre, the Wrath of God
+    Year: 1972
+    Certificate: Not Rated
+    Runtime_in_min: 95
+    Genre: Action, Adventure, Biography
+    Rating_from_10: 7.8
+    

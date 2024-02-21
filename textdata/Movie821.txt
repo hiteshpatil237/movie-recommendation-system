@@ -1,0 +1,9 @@
+   
+    Rank: 822
+    Movie_name: Man on Fire
+    Year: 2004
+    Certificate: R
+    Runtime_in_min: 146
+    Genre: Action, Crime, Drama
+    Rating_from_10: 7.7
+    

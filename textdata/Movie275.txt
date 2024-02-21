@@ -1,0 +1,9 @@
+   
+    Rank: 276
+    Movie_name: The Bandit
+    Year: 1996
+    Certificate: Not Rated
+    Runtime_in_min: 128
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 8.1
+    

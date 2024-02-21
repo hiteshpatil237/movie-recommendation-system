@@ -1,0 +1,9 @@
+   
+    Rank: 111
+    Movie_name: Inglourious Basterds
+    Year: 2009
+    Certificate: R
+    Runtime_in_min: 153
+    Genre: Adventure, Drama, War
+    Rating_from_10: 8.3
+    

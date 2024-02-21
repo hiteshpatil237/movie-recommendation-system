@@ -1,0 +1,9 @@
+   
+    Rank: 699
+    Movie_name: Misery
+    Year: 1990
+    Certificate: R
+    Runtime_in_min: 107
+    Genre: Drama, Thriller
+    Rating_from_10: 7.8
+    

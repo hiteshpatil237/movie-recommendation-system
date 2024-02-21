@@ -1,0 +1,9 @@
+   
+    Rank: 598
+    Movie_name: King Kong
+    Year: 1933
+    Certificate: Passed
+    Runtime_in_min: 100
+    Genre: Adventure, Horror, Sci-Fi
+    Rating_from_10: 7.9
+    

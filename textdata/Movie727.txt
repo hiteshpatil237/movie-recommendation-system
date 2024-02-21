@@ -1,0 +1,9 @@
+   
+    Rank: 728
+    Movie_name: Midnight Cowboy
+    Year: 1969
+    Certificate: R
+    Runtime_in_min: 113
+    Genre: Drama
+    Rating_from_10: 7.8
+    

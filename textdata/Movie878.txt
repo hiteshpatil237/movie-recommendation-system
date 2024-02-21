@@ -1,0 +1,9 @@
+   
+    Rank: 879
+    Movie_name: Empire of the Sun
+    Year: 1987
+    Certificate: PG
+    Runtime_in_min: 153
+    Genre: Drama, War
+    Rating_from_10: 7.7
+    

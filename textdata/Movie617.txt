@@ -1,0 +1,9 @@
+   
+    Rank: 618
+    Movie_name: Pride
+    Year: I 2014
+    Certificate: R
+    Runtime_in_min: 119
+    Genre: Biography, Comedy, Drama
+    Rating_from_10: 7.8
+    

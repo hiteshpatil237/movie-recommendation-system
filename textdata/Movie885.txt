@@ -1,0 +1,9 @@
+   
+    Rank: 886
+    Movie_name: Zelig
+    Year: 1983
+    Certificate: PG
+    Runtime_in_min: 79
+    Genre: Comedy
+    Rating_from_10: 7.7
+    

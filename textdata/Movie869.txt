@@ -1,0 +1,9 @@
+   
+    Rank: 870
+    Movie_name: The Double Life of Véronique
+    Year: 1991
+    Certificate: R
+    Runtime_in_min: 98
+    Genre: Drama, Fantasy, Music
+    Rating_from_10: 7.7
+    

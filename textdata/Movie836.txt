@@ -1,0 +1,9 @@
+   
+    Rank: 837
+    Movie_name: Waking Life
+    Year: 2001
+    Certificate: R
+    Runtime_in_min: 99
+    Genre: Animation, Drama, Fantasy
+    Rating_from_10: 7.7
+    

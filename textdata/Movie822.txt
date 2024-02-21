@@ -1,0 +1,9 @@
+   
+    Rank: 823
+    Movie_name: Coraline
+    Year: 2009
+    Certificate: PG
+    Runtime_in_min: 100
+    Genre: Animation, Drama, Family
+    Rating_from_10: 7.7
+    

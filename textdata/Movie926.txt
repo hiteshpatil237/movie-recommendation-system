@@ -1,0 +1,9 @@
+   
+    Rank: 927
+    Movie_name: Sicario
+    Year: 2015
+    Certificate: R
+    Runtime_in_min: 121
+    Genre: Action, Crime, Drama
+    Rating_from_10: 7.6
+    

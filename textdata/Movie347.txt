@@ -1,0 +1,9 @@
+   
+    Rank: 348
+    Movie_name: Soul
+    Year: 2020
+    Certificate: PG
+    Runtime_in_min: 100
+    Genre: Animation, Adventure, Comedy
+    Rating_from_10: 8.0
+    

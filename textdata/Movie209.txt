@@ -1,0 +1,9 @@
+   
+    Rank: 210
+    Movie_name: The Gold Rush
+    Year: 1925
+    Certificate: Passed
+    Runtime_in_min: 95
+    Genre: Adventure, Comedy, Drama
+    Rating_from_10: 8.2
+    

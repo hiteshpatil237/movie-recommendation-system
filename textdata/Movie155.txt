@@ -1,0 +1,9 @@
+   
+    Rank: 156
+    Movie_name: Shutter Island
+    Year: 2010
+    Certificate: R
+    Runtime_in_min: 138
+    Genre: Mystery, Thriller
+    Rating_from_10: 8.2
+    

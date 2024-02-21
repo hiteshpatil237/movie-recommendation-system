@@ -1,0 +1,9 @@
+   
+    Rank: 795
+    Movie_name: Argo
+    Year: 2012
+    Certificate: R
+    Runtime_in_min: 120
+    Genre: Biography, Drama, Thriller
+    Rating_from_10: 7.7
+    

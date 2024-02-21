@@ -1,0 +1,9 @@
+   
+    Rank: 32
+    Movie_name: The Silence of the Lambs
+    Year: 1991
+    Certificate: R
+    Runtime_in_min: 118
+    Genre: Crime, Drama, Thriller
+    Rating_from_10: 8.6
+    

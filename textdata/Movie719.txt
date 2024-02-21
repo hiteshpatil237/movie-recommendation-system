@@ -1,0 +1,9 @@
+   
+    Rank: 720
+    Movie_name: The Man Who Would Be King
+    Year: 1975
+    Certificate: PG
+    Runtime_in_min: 129
+    Genre: Adventure, War
+    Rating_from_10: 7.8
+    

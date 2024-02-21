@@ -1,0 +1,9 @@
+   
+    Rank: 313
+    Movie_name: The Man Who Shot Liberty Valance
+    Year: 1962
+    Certificate: Approved
+    Runtime_in_min: 123
+    Genre: Drama, Western
+    Rating_from_10: 8.1
+    

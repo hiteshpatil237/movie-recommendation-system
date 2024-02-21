@@ -1,0 +1,9 @@
+   
+    Rank: 943
+    Movie_name: Ponyo
+    Year: 2008
+    Certificate: G
+    Runtime_in_min: 101
+    Genre: Animation, Adventure, Comedy
+    Rating_from_10: 7.6
+    

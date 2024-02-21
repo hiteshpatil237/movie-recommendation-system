@@ -1,0 +1,9 @@
+   
+    Rank: 102
+    Movie_name: Vikram Vedha
+    Year: 2017
+    Certificate: Not Rated
+    Runtime_in_min: 147
+    Genre: Action, Crime, Drama
+    Rating_from_10: 8.3
+    

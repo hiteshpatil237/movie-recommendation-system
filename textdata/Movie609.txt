@@ -1,0 +1,9 @@
+   
+    Rank: 610
+    Movie_name: Manchester by the Sea
+    Year: 2016
+    Certificate: R
+    Runtime_in_min: 137
+    Genre: Drama
+    Rating_from_10: 7.8
+    

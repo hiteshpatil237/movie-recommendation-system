@@ -1,0 +1,9 @@
+   
+    Rank: 558
+    Movie_name: All the President's Men
+    Year: 1976
+    Certificate: PG
+    Runtime_in_min: 138
+    Genre: Drama, History, Thriller
+    Rating_from_10: 7.9
+    

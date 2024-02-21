@@ -1,0 +1,9 @@
+   
+    Rank: 59
+    Movie_name: Modern Times
+    Year: 1936
+    Certificate: G
+    Runtime_in_min: 87
+    Genre: Comedy, Drama, Romance
+    Rating_from_10: 8.5
+    

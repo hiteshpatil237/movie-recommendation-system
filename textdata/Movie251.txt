@@ -1,0 +1,9 @@
+   
+    Rank: 252
+    Movie_name: Into the Wild
+    Year: 2007
+    Certificate: R
+    Runtime_in_min: 148
+    Genre: Adventure, Biography, Drama
+    Rating_from_10: 8.1
+    

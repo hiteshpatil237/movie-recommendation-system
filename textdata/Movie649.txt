@@ -1,0 +1,9 @@
+   
+    Rank: 650
+    Movie_name: All Quiet on the Western Front
+    Year: 2022
+    Certificate: R
+    Runtime_in_min: 148
+    Genre: Action, Drama, War
+    Rating_from_10: 7.8
+    

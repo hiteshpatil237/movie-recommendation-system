@@ -1,0 +1,9 @@
+   
+    Rank: 35
+    Movie_name: Seven Samurai
+    Year: 1954
+    Certificate: Not Rated
+    Runtime_in_min: 207
+    Genre: Action, Drama
+    Rating_from_10: 8.6
+    

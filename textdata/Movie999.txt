@@ -1,0 +1,9 @@
+   
+    Rank: 1,000
+    Movie_name: The Invisible Man
+    Year: 1933
+    Certificate: TV-PG
+    Runtime_in_min: 71
+    Genre: Horror, Sci-Fi
+    Rating_from_10: 7.6
+    

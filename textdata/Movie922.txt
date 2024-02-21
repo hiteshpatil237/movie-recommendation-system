@@ -1,0 +1,9 @@
+   
+    Rank: 923
+    Movie_name: Once Upon a Time in Hollywood
+    Year: 2019
+    Certificate: R
+    Runtime_in_min: 161
+    Genre: Comedy, Drama
+    Rating_from_10: 7.6
+    

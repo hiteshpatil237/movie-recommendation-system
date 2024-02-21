@@ -1,0 +1,9 @@
+   
+    Rank: 643
+    Movie_name: The Chaser
+    Year: 2008
+    Certificate: Not Rated
+    Runtime_in_min: 125
+    Genre: Action, Crime, Drama
+    Rating_from_10: 7.8
+    

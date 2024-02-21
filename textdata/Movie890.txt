@@ -1,0 +1,9 @@
+   
+    Rank: 891
+    Movie_name: Airplane!
+    Year: 1980
+    Certificate: PG
+    Runtime_in_min: 88
+    Genre: Comedy
+    Rating_from_10: 7.7
+    

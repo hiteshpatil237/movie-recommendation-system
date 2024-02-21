@@ -1,0 +1,9 @@
+   
+    Rank: 928
+    Movie_name: Leviathan
+    Year: 2014
+    Certificate: R
+    Runtime_in_min: 140
+    Genre: Crime, Drama
+    Rating_from_10: 7.6
+    

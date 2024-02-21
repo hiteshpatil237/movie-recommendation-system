@@ -1,0 +1,9 @@
+   
+    Rank: 468
+    Movie_name: RRR
+    Year: 2022
+    Certificate: Not Rated
+    Runtime_in_min: 187
+    Genre: Action, Drama
+    Rating_from_10: 7.9
+    

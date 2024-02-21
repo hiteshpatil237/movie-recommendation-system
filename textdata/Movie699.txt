@@ -1,0 +1,9 @@
+   
+    Rank: 700
+    Movie_name: Awakenings
+    Year: 1990
+    Certificate: PG-13
+    Runtime_in_min: 121
+    Genre: Biography, Drama
+    Rating_from_10: 7.8
+    

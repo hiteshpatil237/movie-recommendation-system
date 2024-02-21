@@ -1,0 +1,9 @@
+   
+    Rank: 810
+    Movie_name: Adam's Apples
+    Year: 2005
+    Certificate: R
+    Runtime_in_min: 94
+    Genre: Comedy, Crime, Drama
+    Rating_from_10: 7.7
+    

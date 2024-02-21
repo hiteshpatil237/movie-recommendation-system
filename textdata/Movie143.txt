@@ -1,0 +1,9 @@
+   
+    Rank: 144
+    Movie_name: Andhadhun
+    Year: 2018
+    Certificate: Not Rated
+    Runtime_in_min: 139
+    Genre: Comedy, Crime, Music
+    Rating_from_10: 8.2
+    

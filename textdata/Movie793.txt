@@ -1,0 +1,9 @@
+   
+    Rank: 794
+    Movie_name: Another Round
+    Year: 2020
+    Certificate: Not Rated
+    Runtime_in_min: 117
+    Genre: Comedy, Drama
+    Rating_from_10: 7.7
+    

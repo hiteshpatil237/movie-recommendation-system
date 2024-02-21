@@ -1,0 +1,9 @@
+   
+    Rank: 594
+    Movie_name: The Philadelphia Story
+    Year: 1940
+    Certificate: Not Rated
+    Runtime_in_min: 112
+    Genre: Comedy, Romance
+    Rating_from_10: 7.9
+    

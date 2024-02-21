@@ -1,0 +1,9 @@
+   
+    Rank: 777
+    Movie_name: Toy Story 4
+    Year: 2019
+    Certificate: G
+    Runtime_in_min: 100
+    Genre: Animation, Adventure, Comedy
+    Rating_from_10: 7.7
+    

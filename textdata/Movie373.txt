@@ -1,0 +1,9 @@
+   
+    Rank: 374
+    Movie_name: The Pursuit of Happyness
+    Year: 2006
+    Certificate: PG-13
+    Runtime_in_min: 117
+    Genre: Biography, Drama
+    Rating_from_10: 8.0
+    

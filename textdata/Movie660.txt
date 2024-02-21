@@ -1,0 +1,9 @@
+   
+    Rank: 661
+    Movie_name: The Fall
+    Year: I 2006
+    Certificate: R
+    Runtime_in_min: 117
+    Genre: Adventure, Drama, Fantasy
+    Rating_from_10: 7.8
+    

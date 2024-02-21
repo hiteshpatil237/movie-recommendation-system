@@ -1,0 +1,9 @@
+   
+    Rank: 615
+    Movie_name: The Hateful Eight
+    Year: 2015
+    Certificate: R
+    Runtime_in_min: 168
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 7.8
+    

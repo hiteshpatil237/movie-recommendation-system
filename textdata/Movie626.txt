@@ -1,0 +1,9 @@
+   
+    Rank: 627
+    Movie_name: The Best Offer
+    Year: 2013
+    Certificate: R
+    Runtime_in_min: 131
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 7.8
+    

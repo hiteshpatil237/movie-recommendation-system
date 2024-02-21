@@ -1,0 +1,9 @@
+   
+    Rank: 404
+    Movie_name: Dilwale Dulhania Le Jayenge
+    Year: 1995
+    Certificate: Not Rated
+    Runtime_in_min: 181
+    Genre: Drama, Romance
+    Rating_from_10: 8.0
+    

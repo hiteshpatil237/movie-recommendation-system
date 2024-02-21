@@ -1,0 +1,9 @@
+   
+    Rank: 675
+    Movie_name: The Motorcycle Diaries
+    Year: 2004
+    Certificate: R
+    Runtime_in_min: 126
+    Genre: Adventure, Biography, Drama
+    Rating_from_10: 7.8
+    

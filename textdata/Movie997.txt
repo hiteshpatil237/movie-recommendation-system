@@ -1,0 +1,9 @@
+   
+    Rank: 998
+    Movie_name: Snow White and the Seven Dwarfs
+    Year: 1937
+    Certificate: Approved
+    Runtime_in_min: 83
+    Genre: Animation, Adventure, Family
+    Rating_from_10: 7.6
+    

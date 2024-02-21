@@ -1,0 +1,9 @@
+   
+    Rank: 533
+    Movie_name: Shrek
+    Year: 2001
+    Certificate: PG
+    Runtime_in_min: 90
+    Genre: Animation, Adventure, Comedy
+    Rating_from_10: 7.9
+    

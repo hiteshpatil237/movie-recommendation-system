@@ -1,0 +1,9 @@
+   
+    Rank: 142
+    Movie_name: Uri: The Surgical Strike
+    Year: 2019
+    Certificate: Not Rated
+    Runtime_in_min: 138
+    Genre: Action, Drama, History
+    Rating_from_10: 8.2
+    

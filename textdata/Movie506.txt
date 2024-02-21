@@ -1,0 +1,9 @@
+   
+    Rank: 507
+    Movie_name: Dallas Buyers Club
+    Year: 2013
+    Certificate: R
+    Runtime_in_min: 117
+    Genre: Biography, Drama
+    Rating_from_10: 7.9
+    

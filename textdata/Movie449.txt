@@ -1,0 +1,9 @@
+   
+    Rank: 450
+    Movie_name: Rio Bravo
+    Year: 1959
+    Certificate: Passed
+    Runtime_in_min: 141
+    Genre: Western
+    Rating_from_10: 8.0
+    

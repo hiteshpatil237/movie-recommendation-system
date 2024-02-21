@@ -1,0 +1,9 @@
+   
+    Rank: 988
+    Movie_name: The Taking of Pelham One Two Three
+    Year: 1974
+    Certificate: R
+    Runtime_in_min: 104
+    Genre: Action, Crime, Thriller
+    Rating_from_10: 7.6
+    

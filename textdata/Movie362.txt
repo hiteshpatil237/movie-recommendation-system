@@ -1,0 +1,9 @@
+   
+    Rank: 363
+    Movie_name: Ip Man
+    Year: 2008
+    Certificate: R
+    Runtime_in_min: 106
+    Genre: Action, Biography, Drama
+    Rating_from_10: 8.0
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 419
+    Movie_name: Nostalghia
+    Year: 1983
+    Certificate: Not Rated
+    Runtime_in_min: 125
+    Genre: Drama
+    Rating_from_10: 8.0
+    

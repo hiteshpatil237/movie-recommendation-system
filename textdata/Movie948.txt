@@ -1,0 +1,9 @@
+   
+    Rank: 949
+    Movie_name: The Last King of Scotland
+    Year: 2006
+    Certificate: R
+    Runtime_in_min: 123
+    Genre: Biography, Drama, History
+    Rating_from_10: 7.6
+    

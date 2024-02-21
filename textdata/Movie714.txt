@@ -1,0 +1,9 @@
+   
+    Rank: 715
+    Movie_name: Kramer vs. Kramer
+    Year: 1979
+    Certificate: PG
+    Runtime_in_min: 105
+    Genre: Drama
+    Rating_from_10: 7.8
+    

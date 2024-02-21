@@ -1,0 +1,9 @@
+   
+    Rank: 513
+    Movie_name: Fantastic Mr. Fox
+    Year: 2009
+    Certificate: PG
+    Runtime_in_min: 87
+    Genre: Animation, Adventure, Comedy
+    Rating_from_10: 7.9
+    

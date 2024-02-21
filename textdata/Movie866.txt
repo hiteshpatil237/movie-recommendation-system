@@ -1,0 +1,9 @@
+   
+    Rank: 867
+    Movie_name: A Few Good Men
+    Year: 1992
+    Certificate: R
+    Runtime_in_min: 138
+    Genre: Drama, Thriller
+    Rating_from_10: 7.7
+    

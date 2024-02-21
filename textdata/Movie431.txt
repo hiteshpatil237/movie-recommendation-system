@@ -1,0 +1,9 @@
+   
+    Rank: 432
+    Movie_name: Sleuth
+    Year: 1972
+    Certificate: PG
+    Runtime_in_min: 138
+    Genre: Mystery, Thriller
+    Rating_from_10: 8.0
+    

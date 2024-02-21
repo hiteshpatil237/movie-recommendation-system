@@ -1,0 +1,9 @@
+   
+    Rank: 502
+    Movie_name: The Wrestler
+    Year: 2008
+    Certificate: R
+    Runtime_in_min: 109
+    Genre: Drama, Sport
+    Rating_from_10: 7.9
+    

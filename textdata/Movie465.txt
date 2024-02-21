@@ -1,0 +1,9 @@
+   
+    Rank: 466
+    Movie_name: The Cabinet of Dr. Caligari
+    Year: 1920
+    Certificate: Not Rated
+    Runtime_in_min: 67
+    Genre: Horror, Mystery, Thriller
+    Rating_from_10: 8.0
+    

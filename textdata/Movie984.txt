@@ -1,0 +1,9 @@
+   
+    Rank: 985
+    Movie_name: After Hours
+    Year: I 1985
+    Certificate: R
+    Runtime_in_min: 97
+    Genre: Comedy, Crime, Drama
+    Rating_from_10: 7.6
+    

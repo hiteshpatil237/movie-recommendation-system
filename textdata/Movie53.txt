@@ -1,0 +1,9 @@
+   
+    Rank: 54
+    Movie_name: Alien
+    Year: 1979
+    Certificate: R
+    Runtime_in_min: 117
+    Genre: Horror, Sci-Fi
+    Rating_from_10: 8.5
+    

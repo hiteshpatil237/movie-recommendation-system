@@ -1,0 +1,9 @@
+   
+    Rank: 753
+    Movie_name: Dragon Ball Super: Broly
+    Year: 2018
+    Certificate: PG
+    Runtime_in_min: 100
+    Genre: Animation, Action, Adventure
+    Rating_from_10: 7.7
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 554
+    Movie_name: E.T. the Extra-Terrestrial
+    Year: 1982
+    Certificate: PG
+    Runtime_in_min: 115
+    Genre: Adventure, Family, Sci-Fi
+    Rating_from_10: 7.9
+    

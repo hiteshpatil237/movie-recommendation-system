@@ -1,0 +1,9 @@
+   
+    Rank: 521
+    Movie_name: Mystic River
+    Year: 2003
+    Certificate: R
+    Runtime_in_min: 138
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 7.9
+    

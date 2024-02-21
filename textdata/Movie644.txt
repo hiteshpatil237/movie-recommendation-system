@@ -1,0 +1,9 @@
+   
+    Rank: 645
+    Movie_name: The Hobbit: The Desolation of Smaug
+    Year: 2013
+    Certificate: PG-13
+    Runtime_in_min: 161
+    Genre: Adventure, Fantasy
+    Rating_from_10: 7.8
+    

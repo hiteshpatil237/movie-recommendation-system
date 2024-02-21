@@ -1,0 +1,9 @@
+   
+    Rank: 12
+    Movie_name: Inception
+    Year: 2010
+    Certificate: PG-13
+    Runtime_in_min: 148
+    Genre: Action, Adventure, Sci-Fi
+    Rating_from_10: 8.8
+    

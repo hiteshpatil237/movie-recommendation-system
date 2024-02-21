@@ -1,0 +1,9 @@
+   
+    Rank: 488
+    Movie_name: X-Men: Days of Future Past
+    Year: 2014
+    Certificate: PG-13
+    Runtime_in_min: 132
+    Genre: Action, Adventure, Sci-Fi
+    Rating_from_10: 7.9
+    

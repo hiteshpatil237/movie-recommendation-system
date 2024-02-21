@@ -1,0 +1,9 @@
+   
+    Rank: 309
+    Movie_name: Persona
+    Year: 1966
+    Certificate: Not Rated
+    Runtime_in_min: 83
+    Genre: Drama, Thriller
+    Rating_from_10: 8.1
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 964
+    Movie_name: The Royal Tenenbaums
+    Year: 2001
+    Certificate: R
+    Runtime_in_min: 110
+    Genre: Comedy, Drama
+    Rating_from_10: 7.6
+    

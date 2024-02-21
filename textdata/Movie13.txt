@@ -1,0 +1,9 @@
+   
+    Rank: 14
+    Movie_name: Fight Club
+    Year: 1999
+    Certificate: R
+    Runtime_in_min: 139
+    Genre: Drama
+    Rating_from_10: 8.8
+    

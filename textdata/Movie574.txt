@@ -1,0 +1,9 @@
+   
+    Rank: 575
+    Movie_name: Cat on a Hot Tin Roof
+    Year: 1958
+    Certificate: Not Rated
+    Runtime_in_min: 108
+    Genre: Drama
+    Rating_from_10: 7.9
+    

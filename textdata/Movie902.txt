@@ -1,0 +1,9 @@
+   
+    Rank: 903
+    Movie_name: Bonnie and Clyde
+    Year: 1967
+    Certificate: R
+    Runtime_in_min: 111
+    Genre: Action, Biography, Crime
+    Rating_from_10: 7.7
+    

@@ -1,0 +1,9 @@
+   
+    Rank: 30
+    Movie_name: Se7en
+    Year: 1995
+    Certificate: R
+    Runtime_in_min: 127
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 8.6
+    

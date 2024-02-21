@@ -1,0 +1,9 @@
+   
+    Rank: 177
+    Movie_name: The Truman Show
+    Year: 1998
+    Certificate: PG
+    Runtime_in_min: 103
+    Genre: Comedy, Drama
+    Rating_from_10: 8.2
+    

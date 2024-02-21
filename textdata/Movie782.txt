@@ -1,0 +1,9 @@
+   
+    Rank: 783
+    Movie_name: Confessions
+    Year: 2010
+    Certificate: Not Rated
+    Runtime_in_min: 106
+    Genre: Drama, Thriller
+    Rating_from_10: 7.7
+    

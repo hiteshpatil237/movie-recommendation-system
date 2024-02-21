@@ -1,0 +1,9 @@
+   
+    Rank: 264
+    Movie_name: Everything's Gonna Be Great
+    Year: 1998
+    Certificate: nan
+    Runtime_in_min: 107
+    Genre: Comedy, Drama, Thriller
+    Rating_from_10: 8.1
+    

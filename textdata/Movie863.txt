@@ -1,0 +1,9 @@
+   
+    Rank: 864
+    Movie_name: Hard Boiled
+    Year: 1992
+    Certificate: R
+    Runtime_in_min: 128
+    Genre: Action, Crime, Thriller
+    Rating_from_10: 7.7
+    

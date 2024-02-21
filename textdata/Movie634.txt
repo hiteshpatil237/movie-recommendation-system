@@ -1,0 +1,9 @@
+   
+    Rank: 635
+    Movie_name: The Girl with the Dragon Tattoo
+    Year: 2011
+    Certificate: R
+    Runtime_in_min: 158
+    Genre: Crime, Drama, Mystery
+    Rating_from_10: 7.8
+    
