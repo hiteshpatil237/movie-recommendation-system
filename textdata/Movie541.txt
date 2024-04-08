@@ -1,9 +1,0 @@
-   
-    Rank: 542
-    Movie_name: Three Colors: Blue
-    Year: 1993
-    Certificate: R
-    Runtime_in_min: 94
-    Genre: Drama, Music, Mystery
-    Rating_from_10: 7.9
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 623
-    Movie_name: Vicky Donor
-    Year: 2012
-    Certificate: Not Rated
-    Runtime_in_min: 126
-    Genre: Comedy, Romance
-    Rating_from_10: 7.8
-    

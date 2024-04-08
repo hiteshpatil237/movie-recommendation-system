@@ -1,9 +1,0 @@
-   
-    Rank: 409
-    Movie_name: JFK
-    Year: 1991
-    Certificate: R
-    Runtime_in_min: 189
-    Genre: Drama, History, Thriller
-    Rating_from_10: 8.0
-    

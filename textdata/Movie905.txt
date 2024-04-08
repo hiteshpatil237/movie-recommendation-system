@@ -1,9 +1,0 @@
-   
-    Rank: 906
-    Movie_name: Zulu
-    Year: 1964
-    Certificate: Not Rated
-    Runtime_in_min: 138
-    Genre: Drama, History, War
-    Rating_from_10: 7.7
-    

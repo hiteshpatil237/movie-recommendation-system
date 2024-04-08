@@ -1,9 +1,0 @@
-   
-    Rank: 514
-    Movie_name: 3-Iron
-    Year: 2004
-    Certificate: R
-    Runtime_in_min: 88
-    Genre: Crime, Drama, Romance
-    Rating_from_10: 7.9
-    

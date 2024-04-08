@@ -1,9 +1,0 @@
-   
-    Rank: 877
-    Movie_name: The Last Emperor
-    Year: 1987
-    Certificate: PG-13
-    Runtime_in_min: 163
-    Genre: Biography, Drama, History
-    Rating_from_10: 7.7
-    

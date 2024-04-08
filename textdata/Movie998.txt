@@ -1,9 +1,0 @@
-   
-    Rank: 999
-    Movie_name: The 39 Steps
-    Year: 1935
-    Certificate: Approved
-    Runtime_in_min: 86
-    Genre: Crime, Mystery, Thriller
-    Rating_from_10: 7.6
-    

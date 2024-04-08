@@ -1,9 +1,0 @@
-   
-    Rank: 312
-    Movie_name: The Battle of Algiers
-    Year: 1966
-    Certificate: Not Rated
-    Runtime_in_min: 121
-    Genre: Drama, War
-    Rating_from_10: 8.1
-    

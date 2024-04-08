@@ -1,9 +1,0 @@
-   
-    Rank: 80
-    Movie_name: WALL·E
-    Year: 2008
-    Certificate: G
-    Runtime_in_min: 98
-    Genre: Animation, Adventure, Family
-    Rating_from_10: 8.4
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 418
-    Movie_name: Nausicaä of the Valley of the Wind
-    Year: 1984
-    Certificate: PG
-    Runtime_in_min: 117
-    Genre: Animation, Adventure, Sci-Fi
-    Rating_from_10: 8.0
-    

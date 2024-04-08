@@ -1,9 +1,0 @@
-   
-    Rank: 344
-    Movie_name: Lion
-    Year: 2016
-    Certificate: PG-13
-    Runtime_in_min: 118
-    Genre: Biography, Drama
-    Rating_from_10: 8.0
-    

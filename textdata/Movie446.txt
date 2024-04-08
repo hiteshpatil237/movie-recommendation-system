@@ -1,9 +1,0 @@
-   
-    Rank: 447
-    Movie_name: Through a Glass Darkly
-    Year: 1961
-    Certificate: Not Rated
-    Runtime_in_min: 90
-    Genre: Drama
-    Rating_from_10: 8.0
-    

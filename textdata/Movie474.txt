@@ -1,9 +1,0 @@
-   
-    Rank: 475
-    Movie_name: Togo
-    Year: 2019
-    Certificate: PG
-    Runtime_in_min: 113
-    Genre: Adventure, Biography, Drama
-    Rating_from_10: 7.9
-    

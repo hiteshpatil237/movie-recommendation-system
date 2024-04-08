@@ -1,9 +1,0 @@
-   
-    Rank: 24
-    Movie_name: Interstellar
-    Year: 2014
-    Certificate: PG-13
-    Runtime_in_min: 169
-    Genre: Adventure, Drama, Sci-Fi
-    Rating_from_10: 8.6
-    

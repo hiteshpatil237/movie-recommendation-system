@@ -1,9 +1,0 @@
-   
-    Rank: 406
-    Movie_name: Andaz Apna Apna
-    Year: 1994
-    Certificate: Not Rated
-    Runtime_in_min: 160
-    Genre: Action, Comedy, Romance
-    Rating_from_10: 8.0
-    

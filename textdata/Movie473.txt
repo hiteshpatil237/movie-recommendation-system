@@ -1,9 +1,0 @@
-   
-    Rank: 474
-    Movie_name: A Taxi Driver
-    Year: 2017
-    Certificate: Not Rated
-    Runtime_in_min: 137
-    Genre: Action, Drama, History
-    Rating_from_10: 7.9
-    

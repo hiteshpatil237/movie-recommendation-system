@@ -1,9 +1,0 @@
-   
-    Rank: 670
-    Movie_name: Crash
-    Year: I 2004
-    Certificate: R
-    Runtime_in_min: 112
-    Genre: Crime, Drama, Thriller
-    Rating_from_10: 7.8
-    

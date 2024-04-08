@@ -1,9 +1,0 @@
-   
-    Rank: 381
-    Movie_name: G.O.R.A.
-    Year: 2004
-    Certificate: 18
-    Runtime_in_min: 127
-    Genre: Adventure, Comedy, Sci-Fi
-    Rating_from_10: 8.0
-    

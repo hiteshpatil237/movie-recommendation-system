@@ -1,9 +1,0 @@
-   
-    Rank: 551
-    Movie_name: Brazil
-    Year: 1985
-    Certificate: R
-    Runtime_in_min: 132
-    Genre: Drama, Sci-Fi
-    Rating_from_10: 7.9
-    

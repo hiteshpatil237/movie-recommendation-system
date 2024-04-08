@@ -1,9 +1,0 @@
-   
-    Rank: 393
-    Movie_name: Donnie Darko
-    Year: 2001
-    Certificate: R
-    Runtime_in_min: 113
-    Genre: Drama, Mystery, Sci-Fi
-    Rating_from_10: 8.0
-    

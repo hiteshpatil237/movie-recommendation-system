@@ -1,9 +1,0 @@
-   
-    Rank: 109
-    Movie_name: Up
-    Year: 2009
-    Certificate: PG
-    Runtime_in_min: 96
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 8.3
-    

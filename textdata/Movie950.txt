@@ -1,9 +1,0 @@
-   
-    Rank: 951
-    Movie_name: Gone Baby Gone
-    Year: 2007
-    Certificate: R
-    Runtime_in_min: 114
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 7.6
-    

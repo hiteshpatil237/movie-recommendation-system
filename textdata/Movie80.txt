@@ -1,9 +1,0 @@
-   
-    Rank: 81
-    Movie_name: The Lives of Others
-    Year: 2006
-    Certificate: R
-    Runtime_in_min: 137
-    Genre: Drama, Mystery, Thriller
-    Rating_from_10: 8.4
-    

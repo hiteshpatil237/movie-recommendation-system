@@ -1,9 +1,0 @@
-   
-    Rank: 88
-    Movie_name: Aliens
-    Year: 1986
-    Certificate: R
-    Runtime_in_min: 137
-    Genre: Action, Adventure, Sci-Fi
-    Rating_from_10: 8.4
-    

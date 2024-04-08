@@ -1,9 +1,0 @@
-   
-    Rank: 135
-    Movie_name: Bicycle Thieves
-    Year: 1948
-    Certificate: Not Rated
-    Runtime_in_min: 89
-    Genre: Drama
-    Rating_from_10: 8.3
-    

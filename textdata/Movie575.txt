@@ -1,9 +1,0 @@
-   
-    Rank: 576
-    Movie_name: Elevator to the Gallows
-    Year: 1958
-    Certificate: Not Rated
-    Runtime_in_min: 91
-    Genre: Crime, Drama, Thriller
-    Rating_from_10: 7.9
-    

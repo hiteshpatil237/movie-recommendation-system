@@ -1,9 +1,0 @@
-   
-    Rank: 281
-    Movie_name: In the Name of the Father
-    Year: 1993
-    Certificate: R
-    Runtime_in_min: 133
-    Genre: Biography, Crime, Drama
-    Rating_from_10: 8.1
-    

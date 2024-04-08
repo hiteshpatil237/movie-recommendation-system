@@ -1,9 +1,0 @@
-   
-    Rank: 399
-    Movie_name: The Legend of 1900
-    Year: 1998
-    Certificate: R
-    Runtime_in_min: 169
-    Genre: Drama, Music, Romance
-    Rating_from_10: 8.0
-    

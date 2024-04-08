@@ -1,9 +1,0 @@
-   
-    Rank: 33
-    Movie_name: Star Wars: Episode IV - A New Hope
-    Year: 1977
-    Certificate: PG
-    Runtime_in_min: 121
-    Genre: Action, Adventure, Fantasy
-    Rating_from_10: 8.6
-    

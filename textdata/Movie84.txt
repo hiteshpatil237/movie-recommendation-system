@@ -1,9 +1,0 @@
-   
-    Rank: 85
-    Movie_name: Princess Mononoke
-    Year: 1997
-    Certificate: PG-13
-    Runtime_in_min: 134
-    Genre: Animation, Action, Adventure
-    Rating_from_10: 8.4
-    

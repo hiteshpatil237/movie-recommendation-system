@@ -1,9 +1,0 @@
-   
-    Rank: 893
-    Movie_name: Love and Death
-    Year: 1975
-    Certificate: PG
-    Runtime_in_min: 85
-    Genre: Comedy, War
-    Rating_from_10: 7.7
-    

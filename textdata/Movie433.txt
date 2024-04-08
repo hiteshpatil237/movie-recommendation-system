@@ -1,9 +1,0 @@
-   
-    Rank: 434
-    Movie_name: Fiddler on the Roof
-    Year: 1971
-    Certificate: G
-    Runtime_in_min: 181
-    Genre: Drama, Family, Musical
-    Rating_from_10: 8.0
-    

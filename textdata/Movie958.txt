@@ -1,9 +1,0 @@
-   
-    Rank: 959
-    Movie_name: The Station Agent
-    Year: 2003
-    Certificate: R
-    Runtime_in_min: 89
-    Genre: Comedy, Drama
-    Rating_from_10: 7.6
-    

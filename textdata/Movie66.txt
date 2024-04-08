@@ -1,9 +1,0 @@
-   
-    Rank: 67
-    Movie_name: Spider-Man: Into the Spider-Verse
-    Year: 2018
-    Certificate: PG
-    Runtime_in_min: 117
-    Genre: Animation, Action, Adventure
-    Rating_from_10: 8.4
-    

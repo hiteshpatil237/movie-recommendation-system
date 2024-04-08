@@ -1,9 +1,0 @@
-   
-    Rank: 732
-    Movie_name: My Fair Lady
-    Year: 1964
-    Certificate: G
-    Runtime_in_min: 170
-    Genre: Drama, Family, Musical
-    Rating_from_10: 7.8
-    

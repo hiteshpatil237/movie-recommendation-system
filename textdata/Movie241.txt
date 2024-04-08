@@ -1,9 +1,0 @@
-   
-    Rank: 242
-    Movie_name: Prisoners
-    Year: 2013
-    Certificate: R
-    Runtime_in_min: 153
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 8.1
-    

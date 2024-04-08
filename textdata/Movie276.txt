@@ -1,9 +1,0 @@
-   
-    Rank: 277
-    Movie_name: Underground
-    Year: 1995
-    Certificate: Not Rated
-    Runtime_in_min: 167
-    Genre: Comedy, Drama, Fantasy
-    Rating_from_10: 8.1
-    

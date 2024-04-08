@@ -1,9 +1,0 @@
-   
-    Rank: 888
-    Movie_name: Star Trek II: The Wrath of Khan
-    Year: 1982
-    Certificate: PG
-    Runtime_in_min: 113
-    Genre: Action, Adventure, Sci-Fi
-    Rating_from_10: 7.7
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 525
-    Movie_name: No Man's Land
-    Year: I 2001
-    Certificate: R
-    Runtime_in_min: 98
-    Genre: Comedy, Drama, War
-    Rating_from_10: 7.9
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 863
-    Movie_name: The Last of the Mohicans
-    Year: 1992
-    Certificate: R
-    Runtime_in_min: 112
-    Genre: Action, Adventure, Drama
-    Rating_from_10: 7.7
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 690
-    Movie_name: Ed Wood
-    Year: 1994
-    Certificate: R
-    Runtime_in_min: 127
-    Genre: Biography, Comedy, Drama
-    Rating_from_10: 7.8
-    

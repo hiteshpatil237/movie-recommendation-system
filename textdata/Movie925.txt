@@ -1,9 +1,0 @@
-   
-    Rank: 926
-    Movie_name: What We Do in the Shadows
-    Year: 2014
-    Certificate: R
-    Runtime_in_min: 86
-    Genre: Comedy, Horror
-    Rating_from_10: 7.6
-    

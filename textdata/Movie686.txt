@@ -1,9 +1,0 @@
-   
-    Rank: 687
-    Movie_name: Hamlet
-    Year: 1996
-    Certificate: PG-13
-    Runtime_in_min: 242
-    Genre: Drama
-    Rating_from_10: 7.8
-    

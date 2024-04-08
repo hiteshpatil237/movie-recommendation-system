@@ -1,9 +1,0 @@
-   
-    Rank: 68
-    Movie_name: Avengers: Endgame
-    Year: 2019
-    Certificate: PG-13
-    Runtime_in_min: 181
-    Genre: Action, Adventure, Drama
-    Rating_from_10: 8.4
-    

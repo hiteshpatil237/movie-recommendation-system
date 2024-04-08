@@ -1,9 +1,0 @@
-   
-    Rank: 749
-    Movie_name: The Bride of Frankenstein
-    Year: 1935
-    Certificate: Not Rated
-    Runtime_in_min: 75
-    Genre: Drama, Horror, Sci-Fi
-    Rating_from_10: 7.8
-    

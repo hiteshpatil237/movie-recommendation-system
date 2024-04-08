@@ -1,9 +1,0 @@
-   
-    Rank: 438
-    Movie_name: Le Samouraï
-    Year: 1967
-    Certificate: GP
-    Runtime_in_min: 101
-    Genre: Crime, Drama
-    Rating_from_10: 8.0
-    

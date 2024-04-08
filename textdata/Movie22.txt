@@ -1,9 +1,0 @@
-   
-    Rank: 23
-    Movie_name: Sita Ramam
-    Year: 2022
-    Certificate: U
-    Runtime_in_min: 163
-    Genre: Action, Drama, Mystery
-    Rating_from_10: 8.6
-    

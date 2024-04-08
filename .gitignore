@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 qdrant_gemini_3/
+IMDb

@@ -1,9 +1,0 @@
-   
-    Rank: 617
-    Movie_name: Loving Vincent
-    Year: 2017
-    Certificate: PG-13
-    Runtime_in_min: 94
-    Genre: Animation, Biography, Crime
-    Rating_from_10: 7.8
-    

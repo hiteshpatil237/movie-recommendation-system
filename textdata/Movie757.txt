@@ -1,9 +1,0 @@
-   
-    Rank: 758
-    Movie_name: The Salesman
-    Year: 2016
-    Certificate: PG-13
-    Runtime_in_min: 124
-    Genre: Drama, Thriller
-    Rating_from_10: 7.7
-    

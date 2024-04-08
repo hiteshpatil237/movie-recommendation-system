@@ -1,9 +1,0 @@
-   
-    Rank: 555
-    Movie_name: Kagemusha
-    Year: 1980
-    Certificate: PG
-    Runtime_in_min: 162
-    Genre: Drama, History, War
-    Rating_from_10: 7.9
-    

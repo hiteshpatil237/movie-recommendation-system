@@ -1,9 +1,0 @@
-   
-    Rank: 420
-    Movie_name: Pink Floyd: The Wall
-    Year: 1982
-    Certificate: R
-    Runtime_in_min: 95
-    Genre: Drama, Fantasy, Music
-    Rating_from_10: 8.0
-    

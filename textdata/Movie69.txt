@@ -1,9 +1,0 @@
-   
-    Rank: 70
-    Movie_name: Coco
-    Year: I 2017
-    Certificate: PG
-    Runtime_in_min: 105
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 8.4
-    

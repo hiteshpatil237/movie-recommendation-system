@@ -1,9 +1,0 @@
-   
-    Rank: 271
-    Movie_name: The Iron Giant
-    Year: 1999
-    Certificate: PG
-    Runtime_in_min: 86
-    Genre: Animation, Action, Adventure
-    Rating_from_10: 8.1
-    

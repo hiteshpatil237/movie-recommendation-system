@@ -1,9 +1,0 @@
-   
-    Rank: 3
-    Movie_name: The Dark Knight
-    Year: 2008
-    Certificate: PG-13
-    Runtime_in_min: 152
-    Genre: Action, Crime, Drama
-    Rating_from_10: 9.0
-    

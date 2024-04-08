@@ -1,9 +1,0 @@
-   
-    Rank: 159
-    Movie_name: Miracle in Cell No. 7
-    Year: 2019
-    Certificate: TV-14
-    Runtime_in_min: 132
-    Genre: Drama
-    Rating_from_10: 8.2
-    

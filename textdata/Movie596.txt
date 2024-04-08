@@ -1,9 +1,0 @@
-   
-    Rank: 597
-    Movie_name: The Thin Man
-    Year: 1934
-    Certificate: TV-PG
-    Runtime_in_min: 91
-    Genre: Comedy, Crime, Mystery
-    Rating_from_10: 7.9
-    

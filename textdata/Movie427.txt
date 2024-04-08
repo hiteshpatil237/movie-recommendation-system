@@ -1,9 +1,0 @@
-   
-    Rank: 428
-    Movie_name: Young Frankenstein
-    Year: 1974
-    Certificate: PG
-    Runtime_in_min: 106
-    Genre: Comedy
-    Rating_from_10: 8.0
-    

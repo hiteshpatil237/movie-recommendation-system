@@ -1,9 +1,0 @@
-   
-    Rank: 45
-    Movie_name: Gladiator
-    Year: 2000
-    Certificate: R
-    Runtime_in_min: 155
-    Genre: Action, Adventure, Drama
-    Rating_from_10: 8.5
-    

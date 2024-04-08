@@ -1,9 +1,0 @@
-   
-    Rank: 688
-    Movie_name: Breaking the Waves
-    Year: 1996
-    Certificate: R
-    Runtime_in_min: 159
-    Genre: Drama
-    Rating_from_10: 7.8
-    

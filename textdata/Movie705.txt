@@ -1,9 +1,0 @@
-   
-    Rank: 706
-    Movie_name: Mississippi Burning
-    Year: 1988
-    Certificate: R
-    Runtime_in_min: 128
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 7.8
-    

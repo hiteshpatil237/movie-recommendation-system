@@ -1,9 +1,0 @@
-   
-    Rank: 430
-    Movie_name: Cries & Whispers
-    Year: 1972
-    Certificate: R
-    Runtime_in_min: 91
-    Genre: Drama
-    Rating_from_10: 8.0
-    

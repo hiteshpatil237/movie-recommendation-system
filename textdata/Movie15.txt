@@ -1,9 +1,0 @@
-   
-    Rank: 16
-    Movie_name: Forrest Gump
-    Year: 1994
-    Certificate: PG-13
-    Runtime_in_min: 142
-    Genre: Drama, Romance
-    Rating_from_10: 8.8
-    

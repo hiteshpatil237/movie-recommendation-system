@@ -1,9 +1,0 @@
-   
-    Rank: 750
-    Movie_name: Duck Soup
-    Year: 1933
-    Certificate: Not Rated
-    Runtime_in_min: 69
-    Genre: Comedy, Musical
-    Rating_from_10: 7.8
-    

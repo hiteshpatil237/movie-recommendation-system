@@ -1,9 +1,0 @@
-   
-    Rank: 796
-    Movie_name: 500 Days of Summer
-    Year: 2009
-    Certificate: PG-13
-    Runtime_in_min: 95
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.7
-    

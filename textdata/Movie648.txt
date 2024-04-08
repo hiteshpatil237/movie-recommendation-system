@@ -1,9 +1,0 @@
-   
-    Rank: 649
-    Movie_name: The Worst Person in the World
-    Year: 2021
-    Certificate: R
-    Runtime_in_min: 128
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.8
-    

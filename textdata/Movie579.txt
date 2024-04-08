@@ -1,9 +1,0 @@
-   
-    Rank: 580
-    Movie_name: A Streetcar Named Desire
-    Year: 1951
-    Certificate: PG
-    Runtime_in_min: 122
-    Genre: Drama
-    Rating_from_10: 7.9
-    

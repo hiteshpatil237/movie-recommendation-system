@@ -1,9 +1,0 @@
-   
-    Rank: 828
-    Movie_name: The Triplets of Belleville
-    Year: 2003
-    Certificate: PG-13
-    Runtime_in_min: 80
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 7.7
-    

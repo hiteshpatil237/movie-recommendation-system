@@ -1,9 +1,0 @@
-   
-    Rank: 925
-    Movie_name: Moana
-    Year: I 2016
-    Certificate: PG
-    Runtime_in_min: 107
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 7.6
-    

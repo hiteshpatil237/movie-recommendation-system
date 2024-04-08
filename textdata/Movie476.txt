@@ -1,9 +1,0 @@
-   
-    Rank: 477
-    Movie_name: M.S. Dhoni: The Untold Story
-    Year: 2016
-    Certificate: Not Rated
-    Runtime_in_min: 184
-    Genre: Biography, Drama, Sport
-    Rating_from_10: 7.9
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 40
-    Movie_name: Whiplash
-    Year: 2014
-    Certificate: R
-    Runtime_in_min: 106
-    Genre: Drama, Music
-    Rating_from_10: 8.5
-    

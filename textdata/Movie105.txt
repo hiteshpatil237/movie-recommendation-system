@@ -1,9 +1,0 @@
-   
-    Rank: 106
-    Movie_name: A Separation
-    Year: 2011
-    Certificate: PG-13
-    Runtime_in_min: 123
-    Genre: Drama
-    Rating_from_10: 8.3
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 63
-    Movie_name: Hamilton
-    Year: 2020
-    Certificate: PG-13
-    Runtime_in_min: 160
-    Genre: Biography, Drama, History
-    Rating_from_10: 8.4
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 358
-    Movie_name: The Revenant
-    Year: 2015
-    Certificate: R
-    Runtime_in_min: 156
-    Genre: Action, Adventure, Drama
-    Rating_from_10: 8.0
-    

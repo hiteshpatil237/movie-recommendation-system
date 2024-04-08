@@ -1,9 +1,0 @@
-   
-    Rank: 882
-    Movie_name: Blue Velvet
-    Year: 1986
-    Certificate: R
-    Runtime_in_min: 120
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 7.7
-    

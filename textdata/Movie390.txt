@@ -1,9 +1,0 @@
-   
-    Rank: 391
-    Movie_name: Dogville
-    Year: 2003
-    Certificate: R
-    Runtime_in_min: 178
-    Genre: Crime, Drama
-    Rating_from_10: 8.0
-    

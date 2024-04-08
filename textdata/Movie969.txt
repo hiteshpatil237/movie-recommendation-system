@@ -1,9 +1,0 @@
-   
-    Rank: 970
-    Movie_name: Rushmore
-    Year: 1998
-    Certificate: R
-    Runtime_in_min: 93
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.6
-    

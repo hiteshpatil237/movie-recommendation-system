@@ -1,9 +1,0 @@
-   
-    Rank: 462
-    Movie_name: Rome, Open City
-    Year: 1945
-    Certificate: Not Rated
-    Runtime_in_min: 103
-    Genre: Drama, Thriller, War
-    Rating_from_10: 8.0
-    

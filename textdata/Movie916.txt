@@ -1,9 +1,0 @@
-   
-    Rank: 917
-    Movie_name: Key Largo
-    Year: 1948
-    Certificate: Not Rated
-    Runtime_in_min: 100
-    Genre: Action, Crime, Drama
-    Rating_from_10: 7.7
-    

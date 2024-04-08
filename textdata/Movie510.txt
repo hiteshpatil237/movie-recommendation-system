@@ -1,9 +1,0 @@
-   
-    Rank: 511
-    Movie_name: Letters from Iwo Jima
-    Year: 2006
-    Certificate: R
-    Runtime_in_min: 141
-    Genre: Action, Adventure, Drama
-    Rating_from_10: 7.9
-    

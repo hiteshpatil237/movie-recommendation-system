@@ -1,9 +1,0 @@
-   
-    Rank: 905
-    Movie_name: A Man for All Seasons
-    Year: 1966
-    Certificate: G
-    Runtime_in_min: 120
-    Genre: Biography, Drama, History
-    Rating_from_10: 7.7
-    

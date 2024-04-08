@@ -1,9 +1,0 @@
-   
-    Rank: 956
-    Movie_name: Watchmen
-    Year: 2009
-    Certificate: R
-    Runtime_in_min: 162
-    Genre: Action, Drama, Mystery
-    Rating_from_10: 7.6
-    

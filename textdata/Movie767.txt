@@ -1,9 +1,0 @@
-   
-    Rank: 768
-    Movie_name: The Fault in Our Stars
-    Year: 2014
-    Certificate: PG-13
-    Runtime_in_min: 126
-    Genre: Drama, Romance
-    Rating_from_10: 7.7
-    

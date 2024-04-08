@@ -1,9 +1,0 @@
-   
-    Rank: 412
-    Movie_name: Rain Man
-    Year: 1988
-    Certificate: R
-    Runtime_in_min: 133
-    Genre: Drama
-    Rating_from_10: 8.0
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 529
-    Movie_name: Crouching Tiger, Hidden Dragon
-    Year: 2000
-    Certificate: PG-13
-    Runtime_in_min: 120
-    Genre: Action, Adventure, Drama
-    Rating_from_10: 7.9
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 979
-    Movie_name: My Cousin Vinny
-    Year: 1992
-    Certificate: R
-    Runtime_in_min: 120
-    Genre: Comedy, Crime
-    Rating_from_10: 7.6
-    

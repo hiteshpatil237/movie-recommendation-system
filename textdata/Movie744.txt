@@ -1,9 +1,0 @@
-   
-    Rank: 745
-    Movie_name: You Can't Take It with You
-    Year: 1938
-    Certificate: Passed
-    Runtime_in_min: 126
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 686
-    Movie_name: Gattaca
-    Year: 1997
-    Certificate: PG-13
-    Runtime_in_min: 106
-    Genre: Drama, Sci-Fi, Thriller
-    Rating_from_10: 7.8
-    

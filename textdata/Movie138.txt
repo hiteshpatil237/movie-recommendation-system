@@ -1,9 +1,0 @@
-   
-    Rank: 139
-    Movie_name: Metropolis
-    Year: 1927
-    Certificate: Not Rated
-    Runtime_in_min: 153
-    Genre: Drama, Sci-Fi
-    Rating_from_10: 8.3
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 638
-    Movie_name: The Irishman
-    Year: 2019
-    Certificate: R
-    Runtime_in_min: 209
-    Genre: Biography, Crime, Drama
-    Rating_from_10: 7.8
-    

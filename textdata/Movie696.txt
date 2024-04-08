@@ -1,9 +1,0 @@
-   
-    Rank: 697
-    Movie_name: Batman: Mask of the Phantasm
-    Year: 1993
-    Certificate: PG
-    Runtime_in_min: 76
-    Genre: Animation, Action, Adventure
-    Rating_from_10: 7.8
-    

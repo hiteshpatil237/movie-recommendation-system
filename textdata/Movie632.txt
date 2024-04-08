@@ -1,9 +1,0 @@
-   
-    Rank: 633
-    Movie_name: The Big Short
-    Year: 2015
-    Certificate: R
-    Runtime_in_min: 130
-    Genre: Biography, Comedy, Drama
-    Rating_from_10: 7.8
-    

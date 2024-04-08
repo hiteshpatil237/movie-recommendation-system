@@ -1,9 +1,0 @@
-   
-    Rank: 490
-    Movie_name: The Way He Looks
-    Year: 2014
-    Certificate: Not Rated
-    Runtime_in_min: 96
-    Genre: Drama, Romance
-    Rating_from_10: 7.9
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 875
-    Movie_name: Who Framed Roger Rabbit
-    Year: 1988
-    Certificate: PG
-    Runtime_in_min: 104
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 7.7
-    

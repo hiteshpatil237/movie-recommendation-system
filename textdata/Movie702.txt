@@ -1,9 +1,0 @@
-   
-    Rank: 703
-    Movie_name: The Killer
-    Year: 1989
-    Certificate: R
-    Runtime_in_min: 111
-    Genre: Action, Crime, Drama
-    Rating_from_10: 7.8
-    

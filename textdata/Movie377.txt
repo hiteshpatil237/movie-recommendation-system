@@ -1,9 +1,0 @@
-   
-    Rank: 378
-    Movie_name: Sin City
-    Year: 2005
-    Certificate: R
-    Runtime_in_min: 124
-    Genre: Crime, Thriller
-    Rating_from_10: 8.0
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 792
-    Movie_name: The Trial of the Chicago 7
-    Year: 2020
-    Certificate: R
-    Runtime_in_min: 129
-    Genre: Drama, History, Thriller
-    Rating_from_10: 7.7
-    

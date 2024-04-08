@@ -1,9 +1,0 @@
-   
-    Rank: 997
-    Movie_name: From Here to Eternity
-    Year: 1953
-    Certificate: Passed
-    Runtime_in_min: 118
-    Genre: Drama, Romance, War
-    Rating_from_10: 7.6
-    

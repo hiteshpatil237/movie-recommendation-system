@@ -1,9 +1,0 @@
-   
-    Rank: 494
-    Movie_name: Avatar: The Way of Water
-    Year: 2022
-    Certificate: PG-13
-    Runtime_in_min: 192
-    Genre: Action, Adventure, Fantasy
-    Rating_from_10: 7.9
-    

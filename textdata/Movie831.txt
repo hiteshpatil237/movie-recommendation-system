@@ -1,9 +1,0 @@
-   
-    Rank: 832
-    Movie_name: The Experiment
-    Year: 2001
-    Certificate: R
-    Runtime_in_min: 120
-    Genre: Drama, Thriller
-    Rating_from_10: 7.7
-    

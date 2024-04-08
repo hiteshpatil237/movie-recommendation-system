@@ -1,9 +1,0 @@
-   
-    Rank: 636
-    Movie_name: Captain Phillips
-    Year: 2013
-    Certificate: PG-13
-    Runtime_in_min: 134
-    Genre: Action, Biography, Crime
-    Rating_from_10: 7.8
-    

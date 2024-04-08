@@ -1,9 +1,0 @@
-   
-    Rank: 585
-    Movie_name: Miracle on 34th Street
-    Year: 1947
-    Certificate: Not Rated
-    Runtime_in_min: 96
-    Genre: Comedy, Drama, Family
-    Rating_from_10: 7.9
-    

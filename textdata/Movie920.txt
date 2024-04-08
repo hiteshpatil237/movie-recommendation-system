@@ -1,9 +1,0 @@
-   
-    Rank: 921
-    Movie_name: The Mitchells vs the Machines
-    Year: 2021
-    Certificate: PG
-    Runtime_in_min: 114
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 7.6
-    

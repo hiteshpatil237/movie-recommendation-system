@@ -1,9 +1,0 @@
-   
-    Rank: 199
-    Movie_name: Dial M for Murder
-    Year: 1954
-    Certificate: PG
-    Runtime_in_min: 105
-    Genre: Crime, Thriller
-    Rating_from_10: 8.2
-    

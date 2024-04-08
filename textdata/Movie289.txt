@@ -1,9 +1,0 @@
-   
-    Rank: 290
-    Movie_name: Jean de Florette
-    Year: 1986
-    Certificate: PG
-    Runtime_in_min: 120
-    Genre: Comedy, Drama
-    Rating_from_10: 8.1
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 37
-    Movie_name: Kaithi
-    Year: 2019
-    Certificate: Not Rated
-    Runtime_in_min: 145
-    Genre: Action, Adventure, Crime
-    Rating_from_10: 8.5
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 446
-    Movie_name: Ivan's Childhood
-    Year: 1962
-    Certificate: Not Rated
-    Runtime_in_min: 95
-    Genre: Drama, War
-    Rating_from_10: 8.0
-    

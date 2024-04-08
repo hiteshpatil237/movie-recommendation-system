@@ -1,9 +1,0 @@
-   
-    Rank: 386
-    Movie_name: Cinderella Man
-    Year: 2005
-    Certificate: PG-13
-    Runtime_in_min: 144
-    Genre: Biography, Drama, Romance
-    Rating_from_10: 8.0
-    

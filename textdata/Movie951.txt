@@ -1,9 +1,0 @@
-   
-    Rank: 952
-    Movie_name: Kung Fu Panda
-    Year: 2008
-    Certificate: PG
-    Runtime_in_min: 92
-    Genre: Animation, Action, Adventure
-    Rating_from_10: 7.6
-    

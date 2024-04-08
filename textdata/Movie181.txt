@@ -1,9 +1,0 @@
-   
-    Rank: 182
-    Movie_name: Unforgiven
-    Year: 1992
-    Certificate: R
-    Runtime_in_min: 130
-    Genre: Drama, Western
-    Rating_from_10: 8.2
-    

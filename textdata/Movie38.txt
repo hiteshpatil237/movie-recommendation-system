@@ -1,9 +1,0 @@
-   
-    Rank: 39
-    Movie_name: Parasite
-    Year: 2019
-    Certificate: R
-    Runtime_in_min: 132
-    Genre: Drama, Thriller
-    Rating_from_10: 8.5
-    

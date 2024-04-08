@@ -1,9 +1,0 @@
-   
-    Rank: 379
-    Movie_name: The Diving Bell and the Butterfly
-    Year: 2007
-    Certificate: PG-13
-    Runtime_in_min: 112
-    Genre: Biography, Drama
-    Rating_from_10: 8.0
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 619
-    Movie_name: Nightcrawler
-    Year: 2014
-    Certificate: R
-    Runtime_in_min: 117
-    Genre: Crime, Drama, Thriller
-    Rating_from_10: 7.8
-    

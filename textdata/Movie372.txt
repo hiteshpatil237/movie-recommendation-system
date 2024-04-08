@@ -1,9 +1,0 @@
-   
-    Rank: 373
-    Movie_name: Carry On, Munna Bhai
-    Year: 2006
-    Certificate: Not Rated
-    Runtime_in_min: 144
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 8.0
-    

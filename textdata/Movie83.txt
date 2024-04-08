@@ -1,9 +1,0 @@
-   
-    Rank: 84
-    Movie_name: American Beauty
-    Year: 1999
-    Certificate: R
-    Runtime_in_min: 122
-    Genre: Drama
-    Rating_from_10: 8.4
-    

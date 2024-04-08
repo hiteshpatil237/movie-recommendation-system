@@ -1,9 +1,0 @@
-   
-    Rank: 416
-    Movie_name: Goodbye, Children
-    Year: 1987
-    Certificate: PG
-    Runtime_in_min: 104
-    Genre: Drama, War
-    Rating_from_10: 8.0
-    

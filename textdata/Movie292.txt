@@ -1,9 +1,0 @@
-   
-    Rank: 293
-    Movie_name: Fanny and Alexander
-    Year: 1982
-    Certificate: R
-    Runtime_in_min: 188
-    Genre: Drama
-    Rating_from_10: 8.1
-    

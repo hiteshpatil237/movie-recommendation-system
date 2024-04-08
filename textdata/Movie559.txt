@@ -1,9 +1,0 @@
-   
-    Rank: 560
-    Movie_name: Harold and Maude
-    Year: 1971
-    Certificate: PG
-    Runtime_in_min: 91
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.9
-    

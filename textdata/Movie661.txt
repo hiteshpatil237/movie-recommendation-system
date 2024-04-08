@@ -1,9 +1,0 @@
-   
-    Rank: 662
-    Movie_name: Little Miss Sunshine
-    Year: 2006
-    Certificate: R
-    Runtime_in_min: 101
-    Genre: Comedy, Drama
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 898
-    Movie_name: Deliverance
-    Year: 1972
-    Certificate: R
-    Runtime_in_min: 109
-    Genre: Adventure, Drama, Thriller
-    Rating_from_10: 7.7
-    

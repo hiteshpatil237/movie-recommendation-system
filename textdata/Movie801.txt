@@ -1,9 +1,0 @@
-   
-    Rank: 802
-    Movie_name: Flipped
-    Year: I 2010
-    Certificate: PG
-    Runtime_in_min: 90
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.7
-    

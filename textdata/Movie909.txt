@@ -1,9 +1,0 @@
-   
-    Rank: 910
-    Movie_name: Jules and Jim
-    Year: 1962
-    Certificate: Not Rated
-    Runtime_in_min: 105
-    Genre: Drama, Romance
-    Rating_from_10: 7.7
-    

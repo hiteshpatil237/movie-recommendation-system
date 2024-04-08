@@ -1,9 +1,0 @@
-   
-    Rank: 962
-    Movie_name: The Butterfly Effect
-    Year: 2004
-    Certificate: R
-    Runtime_in_min: 113
-    Genre: Drama, Sci-Fi, Thriller
-    Rating_from_10: 7.6
-    

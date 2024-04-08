@@ -1,9 +1,0 @@
-   
-    Rank: 520
-    Movie_name: Head-On
-    Year: 2004
-    Certificate: R
-    Runtime_in_min: 121
-    Genre: Drama, Romance
-    Rating_from_10: 7.9
-    

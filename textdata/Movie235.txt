@@ -1,9 +1,0 @@
-   
-    Rank: 236
-    Movie_name: Rush
-    Year: I 2013
-    Certificate: R
-    Runtime_in_min: 123
-    Genre: Action, Biography, Drama
-    Rating_from_10: 8.1
-    

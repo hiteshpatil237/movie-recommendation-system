@@ -1,9 +1,0 @@
-   
-    Rank: 840
-    Movie_name: South Park: Bigger, Longer & Uncut
-    Year: 1999
-    Certificate: R
-    Runtime_in_min: 81
-    Genre: Animation, Comedy, Fantasy
-    Rating_from_10: 7.7
-    

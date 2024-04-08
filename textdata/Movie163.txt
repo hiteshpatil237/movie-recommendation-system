@@ -1,9 +1,0 @@
-   
-    Rank: 164
-    Movie_name: There Will Be Blood
-    Year: 2007
-    Certificate: R
-    Runtime_in_min: 158
-    Genre: Drama
-    Rating_from_10: 8.2
-    

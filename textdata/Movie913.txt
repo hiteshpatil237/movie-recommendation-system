@@ -1,9 +1,0 @@
-   
-    Rank: 914
-    Movie_name: The Caine Mutiny
-    Year: 1954
-    Certificate: Not Rated
-    Runtime_in_min: 124
-    Genre: Drama, War
-    Rating_from_10: 7.7
-    

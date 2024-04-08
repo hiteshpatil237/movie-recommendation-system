@@ -1,9 +1,0 @@
-   
-    Rank: 411
-    Movie_name: Dances with Wolves
-    Year: 1990
-    Certificate: PG-13
-    Runtime_in_min: 181
-    Genre: Adventure, Drama, Western
-    Rating_from_10: 8.0
-    

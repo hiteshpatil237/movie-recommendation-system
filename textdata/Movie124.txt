@@ -1,9 +1,0 @@
-   
-    Rank: 125
-    Movie_name: 2001: A Space Odyssey
-    Year: 1968
-    Certificate: G
-    Runtime_in_min: 149
-    Genre: Adventure, Sci-Fi
-    Rating_from_10: 8.3
-    

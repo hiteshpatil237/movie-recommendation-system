@@ -1,9 +1,0 @@
-   
-    Rank: 320
-    Movie_name: The Seventh Seal
-    Year: 1957
-    Certificate: Not Rated
-    Runtime_in_min: 96
-    Genre: Drama, Fantasy
-    Rating_from_10: 8.1
-    

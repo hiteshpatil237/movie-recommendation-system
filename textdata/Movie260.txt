@@ -1,9 +1,0 @@
-   
-    Rank: 261
-    Movie_name: Pirates of the Caribbean: The Curse of the Black Pearl
-    Year: 2003
-    Certificate: PG-13
-    Runtime_in_min: 143
-    Genre: Action, Adventure, Fantasy
-    Rating_from_10: 8.1
-    

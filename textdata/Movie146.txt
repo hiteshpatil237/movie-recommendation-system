@@ -1,9 +1,0 @@
-   
-    Rank: 147
-    Movie_name: Baahubali 2: The Conclusion
-    Year: 2017
-    Certificate: Not Rated
-    Runtime_in_min: 167
-    Genre: Action, Drama
-    Rating_from_10: 8.2
-    

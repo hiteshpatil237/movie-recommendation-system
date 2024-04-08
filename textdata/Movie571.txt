@@ -1,9 +1,0 @@
-   
-    Rank: 572
-    Movie_name: The Manchurian Candidate
-    Year: 1962
-    Certificate: PG-13
-    Runtime_in_min: 126
-    Genre: Drama, Thriller
-    Rating_from_10: 7.9
-    

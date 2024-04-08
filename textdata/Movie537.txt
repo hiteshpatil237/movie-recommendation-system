@@ -1,9 +1,0 @@
-   
-    Rank: 538
-    Movie_name: Whisper of the Heart
-    Year: 1995
-    Certificate: G
-    Runtime_in_min: 111
-    Genre: Animation, Drama, Family
-    Rating_from_10: 7.9
-    

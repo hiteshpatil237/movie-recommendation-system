@@ -1,9 +1,0 @@
-   
-    Rank: 947
-    Movie_name: Stardust
-    Year: 2007
-    Certificate: PG-13
-    Runtime_in_min: 127
-    Genre: Adventure, Family, Fantasy
-    Rating_from_10: 7.6
-    

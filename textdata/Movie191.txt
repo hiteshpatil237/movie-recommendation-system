@@ -1,9 +1,0 @@
-   
-    Rank: 192
-    Movie_name: Chinatown
-    Year: 1974
-    Certificate: R
-    Runtime_in_min: 130
-    Genre: Drama, Mystery, Thriller
-    Rating_from_10: 8.2
-    

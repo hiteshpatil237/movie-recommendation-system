@@ -1,9 +1,0 @@
-   
-    Rank: 816
-    Movie_name: The Bourne Supremacy
-    Year: 2004
-    Certificate: PG-13
-    Runtime_in_min: 108
-    Genre: Action, Mystery, Thriller
-    Rating_from_10: 7.7
-    

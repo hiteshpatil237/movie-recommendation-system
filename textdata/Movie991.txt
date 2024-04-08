@@ -1,9 +1,0 @@
-   
-    Rank: 992
-    Movie_name: Repulsion
-    Year: 1965
-    Certificate: Not Rated
-    Runtime_in_min: 105
-    Genre: Drama, Horror, Thriller
-    Rating_from_10: 7.6
-    

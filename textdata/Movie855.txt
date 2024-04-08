@@ -1,9 +1,0 @@
-   
-    Rank: 856
-    Movie_name: Clerks
-    Year: 1994
-    Certificate: R
-    Runtime_in_min: 92
-    Genre: Comedy
-    Rating_from_10: 7.7
-    

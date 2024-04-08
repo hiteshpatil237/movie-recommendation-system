@@ -1,9 +1,0 @@
-   
-    Rank: 611
-    Movie_name: Land of Mine
-    Year: 2015
-    Certificate: R
-    Runtime_in_min: 100
-    Genre: Drama, History, War
-    Rating_from_10: 7.8
-    

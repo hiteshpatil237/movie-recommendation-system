@@ -1,9 +1,0 @@
-   
-    Rank: 692
-    Movie_name: The Sandlot
-    Year: 1993
-    Certificate: PG
-    Runtime_in_min: 101
-    Genre: Comedy, Drama, Family
-    Rating_from_10: 7.8
-    

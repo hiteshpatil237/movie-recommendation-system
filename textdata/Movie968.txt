@@ -1,9 +1,0 @@
-   
-    Rank: 969
-    Movie_name: American Psycho
-    Year: 2000
-    Certificate: R
-    Runtime_in_min: 102
-    Genre: Crime, Drama, Horror
-    Rating_from_10: 7.6
-    

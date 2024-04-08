@@ -1,9 +1,0 @@
-   
-    Rank: 96
-    Movie_name: Paths of Glory
-    Year: 1957
-    Certificate: Approved
-    Runtime_in_min: 88
-    Genre: Drama, War
-    Rating_from_10: 8.4
-    

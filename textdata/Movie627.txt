@@ -1,9 +1,0 @@
-   
-    Rank: 628
-    Movie_name: The Batman
-    Year: 2022
-    Certificate: PG-13
-    Runtime_in_min: 176
-    Genre: Action, Crime, Drama
-    Rating_from_10: 7.8
-    

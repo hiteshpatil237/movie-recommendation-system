@@ -1,9 +1,0 @@
-   
-    Rank: 463
-    Movie_name: Brief Encounter
-    Year: 1945
-    Certificate: Not Rated
-    Runtime_in_min: 86
-    Genre: Drama, Romance
-    Rating_from_10: 8.0
-    

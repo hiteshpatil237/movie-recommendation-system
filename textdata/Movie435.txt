@@ -1,9 +1,0 @@
-   
-    Rank: 436
-    Movie_name: Rosemary's Baby
-    Year: 1968
-    Certificate: Approved
-    Runtime_in_min: 137
-    Genre: Drama, Horror
-    Rating_from_10: 8.0
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 916
-    Movie_name: The African Queen
-    Year: 1951
-    Certificate: PG
-    Runtime_in_min: 105
-    Genre: Adventure, Drama, Romance
-    Rating_from_10: 7.7
-    

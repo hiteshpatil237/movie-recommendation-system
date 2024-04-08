@@ -1,9 +1,0 @@
-   
-    Rank: 306
-    Movie_name: The Exorcist
-    Year: 1973
-    Certificate: R
-    Runtime_in_min: 122
-    Genre: Horror
-    Rating_from_10: 8.1
-    

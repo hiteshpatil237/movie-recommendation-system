@@ -1,9 +1,0 @@
-   
-    Rank: 250
-    Movie_name: How to Train Your Dragon
-    Year: 2010
-    Certificate: PG
-    Runtime_in_min: 98
-    Genre: Animation, Action, Adventure
-    Rating_from_10: 8.1
-    

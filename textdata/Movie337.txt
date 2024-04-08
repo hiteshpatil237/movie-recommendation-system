@@ -1,9 +1,0 @@
-   
-    Rank: 338
-    Movie_name: The Circus
-    Year: 1928
-    Certificate: Passed
-    Runtime_in_min: 72
-    Genre: Comedy, Family, Romance
-    Rating_from_10: 8.1
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 367
-    Movie_name: CODA
-    Year: 2021
-    Certificate: PG-13
-    Runtime_in_min: 111
-    Genre: Comedy, Drama, Music
-    Rating_from_10: 8.0
-    

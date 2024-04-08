@@ -1,9 +1,0 @@
-   
-    Rank: 103
-    Movie_name: Dangal
-    Year: 2016
-    Certificate: Not Rated
-    Runtime_in_min: 161
-    Genre: Action, Biography, Drama
-    Rating_from_10: 8.3
-    

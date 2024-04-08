@@ -1,9 +1,0 @@
-   
-    Rank: 932
-    Movie_name: The Raid: Redemption
-    Year: 2011
-    Certificate: R
-    Runtime_in_min: 101
-    Genre: Action, Crime, Thriller
-    Rating_from_10: 7.6
-    

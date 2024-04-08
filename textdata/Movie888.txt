@@ -1,9 +1,0 @@
-   
-    Rank: 889
-    Movie_name: First Blood
-    Year: 1982
-    Certificate: R
-    Runtime_in_min: 93
-    Genre: Action, Adventure, Thriller
-    Rating_from_10: 7.7
-    

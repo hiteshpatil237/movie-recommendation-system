@@ -1,9 +1,0 @@
-   
-    Rank: 634
-    Movie_name: I Saw the Devil
-    Year: 2010
-    Certificate: Not Rated
-    Runtime_in_min: 144
-    Genre: Action, Crime, Drama
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 817
-    Movie_name: The Machinist
-    Year: 2004
-    Certificate: R
-    Runtime_in_min: 101
-    Genre: Drama, Thriller
-    Rating_from_10: 7.7
-    

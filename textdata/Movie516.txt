@@ -1,9 +1,0 @@
-   
-    Rank: 517
-    Movie_name: Iron Man
-    Year: 2008
-    Certificate: PG-13
-    Runtime_in_min: 126
-    Genre: Action, Adventure, Sci-Fi
-    Rating_from_10: 7.9
-    

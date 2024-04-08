@@ -1,9 +1,0 @@
-   
-    Rank: 860
-    Movie_name: Naked
-    Year: 1993
-    Certificate: Not Rated
-    Runtime_in_min: 131
-    Genre: Comedy, Drama
-    Rating_from_10: 7.7
-    

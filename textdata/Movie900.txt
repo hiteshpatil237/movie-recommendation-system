@@ -1,9 +1,0 @@
-   
-    Rank: 901
-    Movie_name: Wait Until Dark
-    Year: 1967
-    Certificate: Not Rated
-    Runtime_in_min: 108
-    Genre: Thriller
-    Rating_from_10: 7.7
-    

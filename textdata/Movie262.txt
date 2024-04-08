@@ -1,9 +1,0 @@
-   
-    Rank: 263
-    Movie_name: Catch Me If You Can
-    Year: 2002
-    Certificate: PG-13
-    Runtime_in_min: 141
-    Genre: Biography, Crime, Drama
-    Rating_from_10: 8.1
-    

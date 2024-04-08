@@ -1,9 +1,0 @@
-   
-    Rank: 936
-    Movie_name: Despicable Me
-    Year: 2010
-    Certificate: PG
-    Runtime_in_min: 95
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 7.6
-    

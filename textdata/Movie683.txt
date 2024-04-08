@@ -1,9 +1,0 @@
-   
-    Rank: 684
-    Movie_name: October Sky
-    Year: 1999
-    Certificate: PG
-    Runtime_in_min: 108
-    Genre: Biography, Drama, Family
-    Rating_from_10: 7.8
-    

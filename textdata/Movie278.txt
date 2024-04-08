@@ -1,9 +1,0 @@
-   
-    Rank: 279
-    Movie_name: Before Sunrise
-    Year: 1995
-    Certificate: R
-    Runtime_in_min: 101
-    Genre: Drama, Romance
-    Rating_from_10: 8.1
-    

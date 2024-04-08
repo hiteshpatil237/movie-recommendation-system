@@ -1,9 +1,0 @@
-   
-    Rank: 331
-    Movie_name: Rebecca
-    Year: 1940
-    Certificate: Approved
-    Runtime_in_min: 130
-    Genre: Drama, Film-Noir, Mystery
-    Rating_from_10: 8.1
-    

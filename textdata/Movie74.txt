@@ -1,9 +1,0 @@
-   
-    Rank: 75
-    Movie_name: Drishyam 2
-    Year: 2021
-    Certificate: 13
-    Runtime_in_min: 152
-    Genre: Crime, Drama, Thriller
-    Rating_from_10: 8.4
-    

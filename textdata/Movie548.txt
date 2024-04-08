@@ -1,9 +1,0 @@
-   
-    Rank: 549
-    Movie_name: The Sacrifice
-    Year: 1986
-    Certificate: PG
-    Runtime_in_min: 149
-    Genre: Drama
-    Rating_from_10: 7.9
-    

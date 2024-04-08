@@ -1,9 +1,0 @@
-   
-    Rank: 717
-    Movie_name: Days of Heaven
-    Year: 1978
-    Certificate: PG
-    Runtime_in_min: 94
-    Genre: Drama, Romance
-    Rating_from_10: 7.8
-    

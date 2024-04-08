@@ -1,9 +1,0 @@
-   
-    Rank: 539
-    Movie_name: Ghost in the Shell
-    Year: 1995
-    Certificate: TV-MA
-    Runtime_in_min: 83
-    Genre: Animation, Action, Crime
-    Rating_from_10: 7.9
-    

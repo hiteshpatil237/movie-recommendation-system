@@ -1,9 +1,0 @@
-   
-    Rank: 579
-    Movie_name: The Big Heat
-    Year: 1953
-    Certificate: Passed
-    Runtime_in_min: 89
-    Genre: Crime, Film-Noir, Thriller
-    Rating_from_10: 7.9
-    

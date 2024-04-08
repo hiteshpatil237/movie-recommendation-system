@@ -1,9 +1,0 @@
-   
-    Rank: 651
-    Movie_name: The Fighter
-    Year: I 2010
-    Certificate: R
-    Runtime_in_min: 116
-    Genre: Action, Biography, Drama
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 452
-    Movie_name: Touch of Evil
-    Year: 1958
-    Certificate: PG-13
-    Runtime_in_min: 95
-    Genre: Crime, Drama, Film-Noir
-    Rating_from_10: 8.0
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 403
-    Movie_name: 12 Monkeys
-    Year: 1995
-    Certificate: R
-    Runtime_in_min: 129
-    Genre: Mystery, Sci-Fi, Thriller
-    Rating_from_10: 8.0
-    

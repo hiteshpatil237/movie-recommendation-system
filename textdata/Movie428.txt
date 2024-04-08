@@ -1,9 +1,0 @@
-   
-    Rank: 429
-    Movie_name: Papillon
-    Year: 1973
-    Certificate: R
-    Runtime_in_min: 151
-    Genre: Biography, Crime, Drama
-    Rating_from_10: 8.0
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 211
-    Movie_name: Sherlock Jr.
-    Year: 1924
-    Certificate: Passed
-    Runtime_in_min: 45
-    Genre: Action, Comedy, Romance
-    Rating_from_10: 8.2
-    

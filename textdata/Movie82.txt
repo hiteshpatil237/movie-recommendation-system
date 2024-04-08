@@ -1,9 +1,0 @@
-   
-    Rank: 83
-    Movie_name: Memento
-    Year: 2000
-    Certificate: R
-    Runtime_in_min: 113
-    Genre: Mystery, Thriller
-    Rating_from_10: 8.4
-    

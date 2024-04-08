@@ -1,9 +1,0 @@
-   
-    Rank: 93
-    Movie_name: High and Low
-    Year: 1963
-    Certificate: Not Rated
-    Runtime_in_min: 143
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 8.4
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 113
-    Movie_name: Amélie
-    Year: 2001
-    Certificate: R
-    Runtime_in_min: 122
-    Genre: Comedy, Romance
-    Rating_from_10: 8.3
-    

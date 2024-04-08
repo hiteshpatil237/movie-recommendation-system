@@ -1,9 +1,0 @@
-   
-    Rank: 217
-    Movie_name: Talvar
-    Year: 2015
-    Certificate: Not Rated
-    Runtime_in_min: 132
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 8.1
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 915
-    Movie_name: The Quiet Man
-    Year: 1952
-    Certificate: Passed
-    Runtime_in_min: 129
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.7
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 738
-    Movie_name: The Asphalt Jungle
-    Year: 1950
-    Certificate: Passed
-    Runtime_in_min: 112
-    Genre: Crime, Drama, Film-Noir
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 351
-    Movie_name: The Tale of The Princess Kaguya
-    Year: 2013
-    Certificate: PG
-    Runtime_in_min: 137
-    Genre: Animation, Drama, Family
-    Rating_from_10: 8.0
-    

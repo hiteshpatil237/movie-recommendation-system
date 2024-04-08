@@ -1,9 +1,0 @@
-   
-    Rank: 87
-    Movie_name: Come and See
-    Year: 1985
-    Certificate: Not Rated
-    Runtime_in_min: 142
-    Genre: Drama, Thriller, War
-    Rating_from_10: 8.4
-    

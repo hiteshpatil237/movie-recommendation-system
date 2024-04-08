@@ -1,9 +1,0 @@
-   
-    Rank: 568
-    Movie_name: Doctor Zhivago
-    Year: 1965
-    Certificate: PG-13
-    Runtime_in_min: 197
-    Genre: Drama, Romance, War
-    Rating_from_10: 7.9
-    

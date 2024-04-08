@@ -1,9 +1,0 @@
-   
-    Rank: 253
-    Movie_name: Rang De Basanti
-    Year: 2006
-    Certificate: Not Rated
-    Runtime_in_min: 167
-    Genre: Comedy, Crime, Drama
-    Rating_from_10: 8.1
-    

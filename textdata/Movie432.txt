@@ -1,9 +1,0 @@
-   
-    Rank: 433
-    Movie_name: The Last Picture Show
-    Year: 1971
-    Certificate: R
-    Runtime_in_min: 118
-    Genre: Drama, Romance
-    Rating_from_10: 8.0
-    

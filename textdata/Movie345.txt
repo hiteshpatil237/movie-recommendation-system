@@ -1,9 +1,0 @@
-   
-    Rank: 346
-    Movie_name: Mommy
-    Year: I 2014
-    Certificate: R
-    Runtime_in_min: 139
-    Genre: Drama
-    Rating_from_10: 8.0
-    

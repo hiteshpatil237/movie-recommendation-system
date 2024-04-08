@@ -1,9 +1,0 @@
-   
-    Rank: 630
-    Movie_name: Once Upon a Time in Anatolia
-    Year: 2011
-    Certificate: Not Rated
-    Runtime_in_min: 157
-    Genre: Crime, Drama, Thriller
-    Rating_from_10: 7.8
-    

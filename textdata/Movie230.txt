@@ -1,9 +1,0 @@
-   
-    Rank: 231
-    Movie_name: Gone Girl
-    Year: 2014
-    Certificate: R
-    Runtime_in_min: 149
-    Genre: Drama, Mystery, Thriller
-    Rating_from_10: 8.1
-    

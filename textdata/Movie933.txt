@@ -1,9 +1,0 @@
-   
-    Rank: 934
-    Movie_name: A Star Is Born
-    Year: 2018
-    Certificate: R
-    Runtime_in_min: 136
-    Genre: Drama, Music, Romance
-    Rating_from_10: 7.6
-    

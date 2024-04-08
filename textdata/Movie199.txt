@@ -1,9 +1,0 @@
-   
-    Rank: 200
-    Movie_name: Tokyo Story
-    Year: 1953
-    Certificate: Not Rated
-    Runtime_in_min: 136
-    Genre: Drama
-    Rating_from_10: 8.2
-    

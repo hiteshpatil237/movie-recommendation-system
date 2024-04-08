@@ -1,9 +1,0 @@
-   
-    Rank: 804
-    Movie_name: This Is England
-    Year: 2006
-    Certificate: Not Rated
-    Runtime_in_min: 101
-    Genre: Crime, Drama
-    Rating_from_10: 7.7
-    

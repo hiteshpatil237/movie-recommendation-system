@@ -1,9 +1,0 @@
-   
-    Rank: 563
-    Movie_name: Le Cercle Rouge
-    Year: 1970
-    Certificate: Not Rated
-    Runtime_in_min: 140
-    Genre: Crime, Drama, Thriller
-    Rating_from_10: 7.9
-    

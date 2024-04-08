@@ -1,9 +1,0 @@
-   
-    Rank: 752
-    Movie_name: Frankenstein
-    Year: 1931
-    Certificate: Passed
-    Runtime_in_min: 70
-    Genre: Drama, Horror, Sci-Fi
-    Rating_from_10: 7.8
-    

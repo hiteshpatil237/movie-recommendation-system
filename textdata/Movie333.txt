@@ -1,9 +1,0 @@
-   
-    Rank: 334
-    Movie_name: Mr. Smith Goes to Washington
-    Year: 1939
-    Certificate: Passed
-    Runtime_in_min: 129
-    Genre: Comedy, Drama
-    Rating_from_10: 8.1
-    

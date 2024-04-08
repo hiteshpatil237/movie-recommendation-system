@@ -1,9 +1,0 @@
-   
-    Rank: 208
-    Movie_name: The Passion of Joan of Arc
-    Year: 1928
-    Certificate: Passed
-    Runtime_in_min: 114
-    Genre: Biography, Drama, History
-    Rating_from_10: 8.2
-    

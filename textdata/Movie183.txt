@@ -1,9 +1,0 @@
-   
-    Rank: 184
-    Movie_name: Die Hard
-    Year: 1988
-    Certificate: R
-    Runtime_in_min: 132
-    Genre: Action, Thriller
-    Rating_from_10: 8.2
-    

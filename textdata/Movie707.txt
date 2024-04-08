@@ -1,9 +1,0 @@
-   
-    Rank: 708
-    Movie_name: Predator
-    Year: 1987
-    Certificate: R
-    Runtime_in_min: 107
-    Genre: Action, Adventure, Horror
-    Rating_from_10: 7.8
-    

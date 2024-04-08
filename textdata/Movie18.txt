@@ -1,9 +1,0 @@
-   
-    Rank: 19
-    Movie_name: The Matrix
-    Year: 1999
-    Certificate: R
-    Runtime_in_min: 136
-    Genre: Action, Sci-Fi
-    Rating_from_10: 8.7
-    

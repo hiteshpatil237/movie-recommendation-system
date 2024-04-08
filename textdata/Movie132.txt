@@ -1,9 +1,0 @@
-   
-    Rank: 133
-    Movie_name: Singin' in the Rain
-    Year: 1952
-    Certificate: G
-    Runtime_in_min: 103
-    Genre: Comedy, Musical, Romance
-    Rating_from_10: 8.3
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 17
-    Movie_name: The Good, the Bad and the Ugly
-    Year: 1966
-    Certificate: Approved
-    Runtime_in_min: 178
-    Genre: Adventure, Western
-    Rating_from_10: 8.8
-    

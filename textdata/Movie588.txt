@@ -1,9 +1,0 @@
-   
-    Rank: 589
-    Movie_name: Mildred Pierce
-    Year: 1945
-    Certificate: Approved
-    Runtime_in_min: 111
-    Genre: Crime, Drama, Film-Noir
-    Rating_from_10: 7.9
-    

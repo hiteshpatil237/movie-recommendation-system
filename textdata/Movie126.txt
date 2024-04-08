@@ -1,9 +1,0 @@
-   
-    Rank: 127
-    Movie_name: Lawrence of Arabia
-    Year: 1962
-    Certificate: Approved
-    Runtime_in_min: 218
-    Genre: Adventure, Biography, Drama
-    Rating_from_10: 8.3
-    

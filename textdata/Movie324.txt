@@ -1,9 +1,0 @@
-   
-    Rank: 325
-    Movie_name: Diabolique
-    Year: 1955
-    Certificate: Not Rated
-    Runtime_in_min: 117
-    Genre: Crime, Drama, Horror
-    Rating_from_10: 8.1
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 729
-    Movie_name: Night of the Living Dead
-    Year: 1968
-    Certificate: Not Rated
-    Runtime_in_min: 96
-    Genre: Horror, Thriller
-    Rating_from_10: 7.8
-    

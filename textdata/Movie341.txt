@@ -1,9 +1,0 @@
-   
-    Rank: 342
-    Movie_name: The Invisible Guest
-    Year: 2016
-    Certificate: TV-MA
-    Runtime_in_min: 106
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 8.0
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 478
-    Movie_name: Baby
-    Year: I 2015
-    Certificate: Not Rated
-    Runtime_in_min: 159
-    Genre: Action, Crime, Thriller
-    Rating_from_10: 7.9
-    

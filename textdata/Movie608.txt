@@ -1,9 +1,0 @@
-   
-    Rank: 609
-    Movie_name: Paddington 2
-    Year: 2017
-    Certificate: PG
-    Runtime_in_min: 103
-    Genre: Adventure, Comedy, Family
-    Rating_from_10: 7.8
-    

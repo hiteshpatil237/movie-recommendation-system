@@ -1,9 +1,0 @@
-   
-    Rank: 238
-    Movie_name: Spotlight
-    Year: I 2015
-    Certificate: R
-    Runtime_in_min: 129
-    Genre: Biography, Crime, Drama
-    Rating_from_10: 8.1
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 197
-    Movie_name: Some Like It Hot
-    Year: 1959
-    Certificate: Passed
-    Runtime_in_min: 121
-    Genre: Comedy, Music, Romance
-    Rating_from_10: 8.2
-    

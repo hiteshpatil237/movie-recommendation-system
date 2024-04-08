@@ -1,9 +1,0 @@
-   
-    Rank: 116
-    Movie_name: Toy Story
-    Year: 1995
-    Certificate: G
-    Runtime_in_min: 81
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 8.3
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 392
-    Movie_name: Vizontele
-    Year: 2001
-    Certificate: nan
-    Runtime_in_min: 110
-    Genre: Comedy, Drama
-    Rating_from_10: 8.0
-    

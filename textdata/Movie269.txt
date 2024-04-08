@@ -1,9 +1,0 @@
-   
-    Rank: 270
-    Movie_name: The Celebration
-    Year: 1998
-    Certificate: R
-    Runtime_in_min: 105
-    Genre: Drama
-    Rating_from_10: 8.1
-    

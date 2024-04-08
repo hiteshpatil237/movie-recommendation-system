@@ -1,9 +1,0 @@
-   
-    Rank: 698
-    Movie_name: Boyz n the Hood
-    Year: 1991
-    Certificate: R
-    Runtime_in_min: 112
-    Genre: Crime, Drama
-    Rating_from_10: 7.8
-    

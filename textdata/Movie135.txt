@@ -1,9 +1,0 @@
-   
-    Rank: 136
-    Movie_name: Double Indemnity
-    Year: 1944
-    Certificate: Passed
-    Runtime_in_min: 107
-    Genre: Crime, Drama, Film-Noir
-    Rating_from_10: 8.3
-    

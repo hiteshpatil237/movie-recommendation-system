@@ -1,9 +1,0 @@
-   
-    Rank: 849
-    Movie_name: Fireworks
-    Year: 1997
-    Certificate: nan
-    Runtime_in_min: 103
-    Genre: Crime, Drama, Romance
-    Rating_from_10: 7.7
-    

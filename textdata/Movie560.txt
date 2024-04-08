@@ -1,9 +1,0 @@
-   
-    Rank: 561
-    Movie_name: Patton
-    Year: 1970
-    Certificate: GP
-    Runtime_in_min: 172
-    Genre: Biography, Drama, War
-    Rating_from_10: 7.9
-    

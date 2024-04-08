@@ -1,9 +1,0 @@
-   
-    Rank: 570
-    Movie_name: Charade
-    Year: 1963
-    Certificate: Passed
-    Runtime_in_min: 113
-    Genre: Comedy, Mystery, Romance
-    Rating_from_10: 7.9
-    

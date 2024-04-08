@@ -1,9 +1,0 @@
-   
-    Rank: 209
-    Movie_name: The General
-    Year: 1926
-    Certificate: Passed
-    Runtime_in_min: 67
-    Genre: Action, Adventure, Comedy
-    Rating_from_10: 8.2
-    

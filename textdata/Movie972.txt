@@ -1,9 +1,0 @@
-   
-    Rank: 973
-    Movie_name: Mulan
-    Year: 1998
-    Certificate: G
-    Runtime_in_min: 88
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 7.6
-    

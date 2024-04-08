@@ -1,9 +1,0 @@
-   
-    Rank: 778
-    Movie_name: Nebraska
-    Year: 2013
-    Certificate: R
-    Runtime_in_min: 115
-    Genre: Adventure, Comedy, Drama
-    Rating_from_10: 7.7
-    

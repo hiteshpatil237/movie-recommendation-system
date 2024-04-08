@@ -1,9 +1,0 @@
-   
-    Rank: 878
-    Movie_name: Evil Dead II
-    Year: 1987
-    Certificate: R
-    Runtime_in_min: 84
-    Genre: Comedy, Horror
-    Rating_from_10: 7.7
-    

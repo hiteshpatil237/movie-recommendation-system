@@ -1,9 +1,0 @@
-   
-    Rank: 160
-    Movie_name: The Father
-    Year: I 2020
-    Certificate: PG-13
-    Runtime_in_min: 97
-    Genre: Drama, Mystery
-    Rating_from_10: 8.2
-    

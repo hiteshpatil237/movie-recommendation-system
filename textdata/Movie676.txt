@@ -1,9 +1,0 @@
-   
-    Rank: 677
-    Movie_name: Millennium Actress
-    Year: 2001
-    Certificate: PG
-    Runtime_in_min: 87
-    Genre: Animation, Drama, Fantasy
-    Rating_from_10: 7.8
-    

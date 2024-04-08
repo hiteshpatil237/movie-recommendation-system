@@ -1,9 +1,0 @@
-   
-    Rank: 57
-    Movie_name: Rear Window
-    Year: 1954
-    Certificate: PG
-    Runtime_in_min: 112
-    Genre: Mystery, Thriller
-    Rating_from_10: 8.5
-    

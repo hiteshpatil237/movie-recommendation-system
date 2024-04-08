@@ -1,9 +1,0 @@
-   
-    Rank: 165
-    Movie_name: Pan's Labyrinth
-    Year: 2006
-    Certificate: R
-    Runtime_in_min: 118
-    Genre: Drama, Fantasy, War
-    Rating_from_10: 8.2
-    

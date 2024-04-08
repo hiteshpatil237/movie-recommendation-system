@@ -1,9 +1,0 @@
-   
-    Rank: 187
-    Movie_name: Raging Bull
-    Year: 1980
-    Certificate: R
-    Runtime_in_min: 129
-    Genre: Biography, Drama, Sport
-    Rating_from_10: 8.2
-    

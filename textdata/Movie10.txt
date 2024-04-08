@@ -1,9 +1,0 @@
-   
-    Rank: 11
-    Movie_name: Jai Bhim
-    Year: 2021
-    Certificate: TV-MA
-    Runtime_in_min: 164
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 8.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 207
-    Movie_name: Gone with the Wind
-    Year: 1939
-    Certificate: Passed
-    Runtime_in_min: 238
-    Genre: Drama, Romance, War
-    Rating_from_10: 8.2
-    

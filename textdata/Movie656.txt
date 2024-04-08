@@ -1,9 +1,0 @@
-   
-    Rank: 657
-    Movie_name: Drive
-    Year: I 2011
-    Certificate: R
-    Runtime_in_min: 100
-    Genre: Action, Drama
-    Rating_from_10: 7.8
-    

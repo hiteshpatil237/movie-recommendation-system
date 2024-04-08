@@ -1,9 +1,0 @@
-   
-    Rank: 371
-    Movie_name: The Avengers
-    Year: 2012
-    Certificate: PG-13
-    Runtime_in_min: 143
-    Genre: Action, Adventure, Sci-Fi
-    Rating_from_10: 8.0
-    

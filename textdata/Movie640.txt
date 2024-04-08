@@ -1,9 +1,0 @@
-   
-    Rank: 641
-    Movie_name: Thirteen Lives
-    Year: 2022
-    Certificate: PG-13
-    Runtime_in_min: 147
-    Genre: Action, Adventure, Biography
-    Rating_from_10: 7.8
-    

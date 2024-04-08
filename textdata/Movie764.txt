@@ -1,9 +1,0 @@
-   
-    Rank: 765
-    Movie_name: When Marnie Was There
-    Year: 2014
-    Certificate: PG
-    Runtime_in_min: 103
-    Genre: Animation, Drama, Family
-    Rating_from_10: 7.7
-    

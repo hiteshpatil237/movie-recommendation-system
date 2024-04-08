@@ -1,9 +1,0 @@
-   
-    Rank: 712
-    Movie_name: Ghostbusters
-    Year: 1984
-    Certificate: PG
-    Runtime_in_min: 105
-    Genre: Action, Comedy, Fantasy
-    Rating_from_10: 7.8
-    

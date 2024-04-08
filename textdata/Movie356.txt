@@ -1,9 +1,0 @@
-   
-    Rank: 357
-    Movie_name: Her
-    Year: 2013
-    Certificate: R
-    Runtime_in_min: 126
-    Genre: Drama, Romance, Sci-Fi
-    Rating_from_10: 8.0
-    

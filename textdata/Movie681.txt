@@ -1,9 +1,0 @@
-   
-    Rank: 682
-    Movie_name: Cast Away
-    Year: 2000
-    Certificate: PG-13
-    Runtime_in_min: 143
-    Genre: Adventure, Drama, Romance
-    Rating_from_10: 7.8
-    

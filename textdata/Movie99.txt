@@ -1,9 +1,0 @@
-   
-    Rank: 100
-    Movie_name: Raatchasan
-    Year: 2018
-    Certificate: Not Rated
-    Runtime_in_min: 170
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 8.3
-    

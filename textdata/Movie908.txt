@@ -1,9 +1,0 @@
-   
-    Rank: 909
-    Movie_name: Cape Fear
-    Year: 1962
-    Certificate: Passed
-    Runtime_in_min: 106
-    Genre: Drama, Thriller
-    Rating_from_10: 7.7
-    

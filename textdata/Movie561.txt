@@ -1,9 +1,0 @@
-   
-    Rank: 562
-    Movie_name: The Conformist
-    Year: 1970
-    Certificate: R
-    Runtime_in_min: 113
-    Genre: Drama
-    Rating_from_10: 7.9
-    

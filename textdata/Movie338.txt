@@ -1,9 +1,0 @@
-   
-    Rank: 339
-    Movie_name: Sunrise
-    Year: 1927
-    Certificate: Passed
-    Runtime_in_min: 94
-    Genre: Drama, Romance
-    Rating_from_10: 8.1
-    

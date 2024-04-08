@@ -1,9 +1,0 @@
-   
-    Rank: 581
-    Movie_name: Strangers on a Train
-    Year: 1951
-    Certificate: PG
-    Runtime_in_min: 101
-    Genre: Crime, Drama, Film-Noir
-    Rating_from_10: 7.9
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 89
-    Movie_name: Amadeus
-    Year: 1984
-    Certificate: R
-    Runtime_in_min: 160
-    Genre: Biography, Drama, Music
-    Rating_from_10: 8.4
-    

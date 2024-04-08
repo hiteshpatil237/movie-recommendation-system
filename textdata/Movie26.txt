@@ -1,9 +1,0 @@
-   
-    Rank: 27
-    Movie_name: Saving Private Ryan
-    Year: 1998
-    Certificate: R
-    Runtime_in_min: 169
-    Genre: Drama, War
-    Rating_from_10: 8.6
-    

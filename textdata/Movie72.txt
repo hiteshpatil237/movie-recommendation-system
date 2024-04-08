@@ -1,9 +1,0 @@
-   
-    Rank: 73
-    Movie_name: Kantara
-    Year: 2022
-    Certificate: UA
-    Runtime_in_min: 148
-    Genre: Action, Adventure, Drama
-    Rating_from_10: 8.4
-    

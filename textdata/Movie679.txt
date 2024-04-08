@@ -1,9 +1,0 @@
-   
-    Rank: 680
-    Movie_name: Remember the Titans
-    Year: 2000
-    Certificate: PG
-    Runtime_in_min: 113
-    Genre: Biography, Drama, Sport
-    Rating_from_10: 7.8
-    

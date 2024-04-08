@@ -1,9 +1,0 @@
-   
-    Rank: 42
-    Movie_name: The Prestige
-    Year: 2006
-    Certificate: PG-13
-    Runtime_in_min: 130
-    Genre: Drama, Mystery, Sci-Fi
-    Rating_from_10: 8.5
-    

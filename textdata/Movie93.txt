@@ -1,9 +1,0 @@
-   
-    Rank: 94
-    Movie_name: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-    Year: 1964
-    Certificate: PG
-    Runtime_in_min: 95
-    Genre: Comedy, War
-    Rating_from_10: 8.4
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 974
-    Movie_name: The Fifth Element
-    Year: 1997
-    Certificate: PG-13
-    Runtime_in_min: 126
-    Genre: Action, Adventure, Sci-Fi
-    Rating_from_10: 7.6
-    

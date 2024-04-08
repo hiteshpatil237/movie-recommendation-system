@@ -1,9 +1,0 @@
-   
-    Rank: 980
-    Movie_name: Barton Fink
-    Year: 1991
-    Certificate: R
-    Runtime_in_min: 116
-    Genre: Comedy, Drama, Thriller
-    Rating_from_10: 7.6
-    

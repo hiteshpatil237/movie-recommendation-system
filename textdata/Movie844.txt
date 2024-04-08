@@ -1,9 +1,0 @@
-   
-    Rank: 845
-    Movie_name: Run Lola Run
-    Year: 1998
-    Certificate: R
-    Runtime_in_min: 80
-    Genre: Action, Crime, Thriller
-    Rating_from_10: 7.7
-    

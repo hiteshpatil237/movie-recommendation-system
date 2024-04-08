@@ -1,9 +1,0 @@
-   
-    Rank: 739
-    Movie_name: Red River
-    Year: 1948
-    Certificate: Passed
-    Runtime_in_min: 133
-    Genre: Drama, Western
-    Rating_from_10: 7.8
-    

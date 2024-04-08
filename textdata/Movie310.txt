@@ -1,9 +1,0 @@
-   
-    Rank: 311
-    Movie_name: The Sound of Music
-    Year: 1965
-    Certificate: G
-    Runtime_in_min: 172
-    Genre: Biography, Drama, Family
-    Rating_from_10: 8.1
-    

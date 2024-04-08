@@ -1,9 +1,0 @@
-   
-    Rank: 527
-    Movie_name: Nine Queens
-    Year: 2000
-    Certificate: R
-    Runtime_in_min: 114
-    Genre: Crime, Drama, Thriller
-    Rating_from_10: 7.9
-    

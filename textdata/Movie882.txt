@@ -1,9 +1,0 @@
-   
-    Rank: 883
-    Movie_name: The Purple Rose of Cairo
-    Year: 1985
-    Certificate: PG
-    Runtime_in_min: 82
-    Genre: Comedy, Fantasy, Romance
-    Rating_from_10: 7.7
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 407
-    Movie_name: Scent of a Woman
-    Year: 1992
-    Certificate: R
-    Runtime_in_min: 156
-    Genre: Drama
-    Rating_from_10: 8.0
-    

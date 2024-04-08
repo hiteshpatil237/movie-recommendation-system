@@ -1,9 +1,0 @@
-   
-    Rank: 319
-    Movie_name: Wild Strawberries
-    Year: 1957
-    Certificate: Not Rated
-    Runtime_in_min: 91
-    Genre: Drama, Romance
-    Rating_from_10: 8.1
-    

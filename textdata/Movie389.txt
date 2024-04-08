@@ -1,9 +1,0 @@
-   
-    Rank: 390
-    Movie_name: My Sassy Girl
-    Year: 2001
-    Certificate: Not Rated
-    Runtime_in_min: 137
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 8.0
-    

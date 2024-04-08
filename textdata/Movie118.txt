@@ -1,9 +1,0 @@
-   
-    Rank: 119
-    Movie_name: Full Metal Jacket
-    Year: 1987
-    Certificate: R
-    Runtime_in_min: 116
-    Genre: Drama, War
-    Rating_from_10: 8.3
-    

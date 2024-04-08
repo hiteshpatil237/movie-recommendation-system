@@ -1,9 +1,0 @@
-   
-    Rank: 852
-    Movie_name: Happy Together
-    Year: 1997
-    Certificate: Not Rated
-    Runtime_in_min: 96
-    Genre: Drama, Romance
-    Rating_from_10: 7.7
-    

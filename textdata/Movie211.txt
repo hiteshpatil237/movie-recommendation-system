@@ -1,9 +1,0 @@
-   
-    Rank: 212
-    Movie_name: Portrait of a Lady on Fire
-    Year: 2019
-    Certificate: R
-    Runtime_in_min: 122
-    Genre: Drama, Romance
-    Rating_from_10: 8.1
-    

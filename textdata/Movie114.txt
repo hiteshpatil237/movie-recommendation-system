@@ -1,9 +1,0 @@
-   
-    Rank: 115
-    Movie_name: Good Will Hunting
-    Year: 1997
-    Certificate: R
-    Runtime_in_min: 126
-    Genre: Drama, Romance
-    Rating_from_10: 8.3
-    

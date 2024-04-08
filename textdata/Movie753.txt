@@ -1,9 +1,0 @@
-   
-    Rank: 754
-    Movie_name: Roma
-    Year: 2018
-    Certificate: R
-    Runtime_in_min: 135
-    Genre: Drama
-    Rating_from_10: 7.7
-    

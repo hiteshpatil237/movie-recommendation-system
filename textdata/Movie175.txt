@@ -1,9 +1,0 @@
-   
-    Rank: 176
-    Movie_name: Lock, Stock and Two Smoking Barrels
-    Year: 1998
-    Certificate: R
-    Runtime_in_min: 107
-    Genre: Action, Comedy, Crime
-    Rating_from_10: 8.2
-    

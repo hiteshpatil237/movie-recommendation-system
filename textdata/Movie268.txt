@@ -1,9 +1,0 @@
-   
-    Rank: 269
-    Movie_name: Lagaan: Once Upon a Time in India
-    Year: 2001
-    Certificate: PG
-    Runtime_in_min: 224
-    Genre: Drama, Musical, Sport
-    Rating_from_10: 8.1
-    

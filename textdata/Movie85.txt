@@ -1,9 +1,0 @@
-   
-    Rank: 86
-    Movie_name: Braveheart
-    Year: 1995
-    Certificate: R
-    Runtime_in_min: 178
-    Genre: Biography, Drama, History
-    Rating_from_10: 8.4
-    

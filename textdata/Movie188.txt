@@ -1,9 +1,0 @@
-   
-    Rank: 189
-    Movie_name: Taxi Driver
-    Year: 1976
-    Certificate: R
-    Runtime_in_min: 114
-    Genre: Crime, Drama
-    Rating_from_10: 8.2
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 672
-    Movie_name: Walk the Line
-    Year: 2005
-    Certificate: PG-13
-    Runtime_in_min: 136
-    Genre: Biography, Drama, Music
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 556
-    Movie_name: The Blues Brothers
-    Year: 1980
-    Certificate: R
-    Runtime_in_min: 133
-    Genre: Action, Adventure, Comedy
-    Rating_from_10: 7.9
-    

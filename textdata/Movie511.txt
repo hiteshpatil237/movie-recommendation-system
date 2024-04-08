@@ -1,9 +1,0 @@
-   
-    Rank: 512
-    Movie_name: Life of Pi
-    Year: 2012
-    Certificate: PG
-    Runtime_in_min: 127
-    Genre: Adventure, Drama, Fantasy
-    Rating_from_10: 7.9
-    

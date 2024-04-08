@@ -1,9 +1,0 @@
-   
-    Rank: 71
-    Movie_name: Django Unchained
-    Year: 2012
-    Certificate: R
-    Runtime_in_min: 165
-    Genre: Drama, Western
-    Rating_from_10: 8.4
-    

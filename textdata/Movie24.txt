@@ -1,9 +1,0 @@
-   
-    Rank: 25
-    Movie_name: City of God
-    Year: 2002
-    Certificate: R
-    Runtime_in_min: 130
-    Genre: Crime, Drama
-    Rating_from_10: 8.6
-    

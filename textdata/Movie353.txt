@@ -1,9 +1,0 @@
-   
-    Rank: 354
-    Movie_name: Guardians of the Galaxy
-    Year: 2014
-    Certificate: PG-13
-    Runtime_in_min: 121
-    Genre: Action, Adventure, Comedy
-    Rating_from_10: 8.0
-    

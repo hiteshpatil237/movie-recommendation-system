@@ -1,9 +1,0 @@
-   
-    Rank: 747
-    Movie_name: Bringing Up Baby
-    Year: 1938
-    Certificate: Passed
-    Runtime_in_min: 102
-    Genre: Comedy
-    Rating_from_10: 7.8
-    

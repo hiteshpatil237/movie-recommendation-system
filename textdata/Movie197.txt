@@ -1,9 +1,0 @@
-   
-    Rank: 198
-    Movie_name: The Bridge on the River Kwai
-    Year: 1957
-    Certificate: PG
-    Runtime_in_min: 161
-    Genre: Adventure, Drama, War
-    Rating_from_10: 8.2
-    

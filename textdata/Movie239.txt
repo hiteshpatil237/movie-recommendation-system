@@ -1,9 +1,0 @@
-   
-    Rank: 240
-    Movie_name: Udaan
-    Year: 2010
-    Certificate: Not Rated
-    Runtime_in_min: 134
-    Genre: Drama
-    Rating_from_10: 8.1
-    

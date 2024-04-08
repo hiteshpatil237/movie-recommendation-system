@@ -1,9 +1,0 @@
-   
-    Rank: 453
-    Movie_name: Sweet Smell of Success
-    Year: 1957
-    Certificate: Approved
-    Runtime_in_min: 96
-    Genre: Drama, Film-Noir
-    Rating_from_10: 8.0
-    

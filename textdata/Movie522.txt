@@ -1,9 +1,0 @@
-   
-    Rank: 523
-    Movie_name: Hero
-    Year: 2002
-    Certificate: PG-13
-    Runtime_in_min: 120
-    Genre: Action, Adventure, Drama
-    Rating_from_10: 7.9
-    

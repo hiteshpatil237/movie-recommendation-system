@@ -1,9 +1,0 @@
-   
-    Rank: 714
-    Movie_name: The King of Comedy
-    Year: 1982
-    Certificate: PG
-    Runtime_in_min: 109
-    Genre: Comedy, Crime, Drama
-    Rating_from_10: 7.8
-    

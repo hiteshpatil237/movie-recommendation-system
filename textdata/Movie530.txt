@@ -1,9 +1,0 @@
-   
-    Rank: 531
-    Movie_name: Dancer in the Dark
-    Year: 2000
-    Certificate: R
-    Runtime_in_min: 140
-    Genre: Crime, Drama, Musical
-    Rating_from_10: 7.9
-    

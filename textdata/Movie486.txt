@@ -1,9 +1,0 @@
-   
-    Rank: 487
-    Movie_name: Before Midnight
-    Year: 2013
-    Certificate: R
-    Runtime_in_min: 109
-    Genre: Drama, Romance
-    Rating_from_10: 7.9
-    

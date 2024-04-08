@@ -1,9 +1,0 @@
-   
-    Rank: 748
-    Movie_name: A Night at the Opera
-    Year: 1935
-    Certificate: Passed
-    Runtime_in_min: 96
-    Genre: Comedy, Music, Musical
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 834
-    Movie_name: Hedwig and the Angry Inch
-    Year: 2001
-    Certificate: R
-    Runtime_in_min: 95
-    Genre: Comedy, Drama, Music
-    Rating_from_10: 7.7
-    

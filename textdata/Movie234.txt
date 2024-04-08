@@ -1,9 +1,0 @@
-   
-    Rank: 235
-    Movie_name: 12 Years a Slave
-    Year: 2013
-    Certificate: R
-    Runtime_in_min: 134
-    Genre: Biography, Drama, History
-    Rating_from_10: 8.1
-    

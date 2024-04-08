@@ -1,9 +1,0 @@
-   
-    Rank: 809
-    Movie_name: Joyeux Noel
-    Year: 2005
-    Certificate: PG-13
-    Runtime_in_min: 116
-    Genre: Drama, History, Music
-    Rating_from_10: 7.7
-    

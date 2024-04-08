@@ -1,9 +1,0 @@
-   
-    Rank: 961
-    Movie_name: 25th Hour
-    Year: 2002
-    Certificate: R
-    Runtime_in_min: 135
-    Genre: Drama
-    Rating_from_10: 7.6
-    

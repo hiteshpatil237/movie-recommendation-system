@@ -1,9 +1,0 @@
-   
-    Rank: 301
-    Movie_name: Sholay
-    Year: 1975
-    Certificate: Not Rated
-    Runtime_in_min: 162
-    Genre: Action, Adventure, Comedy
-    Rating_from_10: 8.1
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 991
-    Movie_name: The Jungle Book
-    Year: 1967
-    Certificate: G
-    Runtime_in_min: 78
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 7.6
-    

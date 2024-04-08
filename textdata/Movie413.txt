@@ -1,9 +1,0 @@
-   
-    Rank: 414
-    Movie_name: The Princess Bride
-    Year: 1987
-    Certificate: PG
-    Runtime_in_min: 98
-    Genre: Adventure, Family, Fantasy
-    Rating_from_10: 8.0
-    

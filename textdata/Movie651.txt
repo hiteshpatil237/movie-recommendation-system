@@ -1,9 +1,0 @@
-   
-    Rank: 652
-    Movie_name: Taken
-    Year: I 2008
-    Certificate: PG-13
-    Runtime_in_min: 90
-    Genre: Action, Crime, Thriller
-    Rating_from_10: 7.8
-    

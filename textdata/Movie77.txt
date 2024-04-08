@@ -1,9 +1,0 @@
-   
-    Rank: 78
-    Movie_name: Sardar Udham
-    Year: 2021
-    Certificate: TV-MA
-    Runtime_in_min: 164
-    Genre: Biography, Crime, Drama
-    Rating_from_10: 8.4
-    

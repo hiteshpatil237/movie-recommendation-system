@@ -1,9 +1,0 @@
-   
-    Rank: 365
-    Movie_name: Dune
-    Year: 2021
-    Certificate: PG-13
-    Runtime_in_min: 155
-    Genre: Action, Adventure, Drama
-    Rating_from_10: 8.0
-    

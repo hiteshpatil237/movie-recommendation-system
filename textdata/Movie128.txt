@@ -1,9 +1,0 @@
-   
-    Rank: 129
-    Movie_name: The Apartment
-    Year: 1960
-    Certificate: Approved
-    Runtime_in_min: 125
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 8.3
-    

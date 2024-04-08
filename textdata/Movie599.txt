@@ -1,9 +1,0 @@
-   
-    Rank: 600
-    Movie_name: Nosferatu
-    Year: 1922
-    Certificate: Not Rated
-    Runtime_in_min: 94
-    Genre: Fantasy, Horror
-    Rating_from_10: 7.9
-    

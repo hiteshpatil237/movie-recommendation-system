@@ -1,9 +1,0 @@
-   
-    Rank: 345
-    Movie_name: The Martian
-    Year: 2015
-    Certificate: PG-13
-    Runtime_in_min: 144
-    Genre: Adventure, Drama, Sci-Fi
-    Rating_from_10: 8.0
-    

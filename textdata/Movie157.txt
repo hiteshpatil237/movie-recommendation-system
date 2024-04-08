@@ -1,9 +1,0 @@
-   
-    Rank: 158
-    Movie_name: Spider-Man: No Way Home
-    Year: 2021
-    Certificate: PG-13
-    Runtime_in_min: 148
-    Genre: Action, Adventure, Fantasy
-    Rating_from_10: 8.2
-    

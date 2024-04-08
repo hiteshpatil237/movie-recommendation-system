@@ -1,9 +1,0 @@
-   
-    Rank: 671
-    Movie_name: The Chorus
-    Year: 2004
-    Certificate: PG-13
-    Runtime_in_min: 97
-    Genre: Comedy, Drama, Music
-    Rating_from_10: 7.8
-    

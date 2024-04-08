@@ -1,9 +1,0 @@
-   
-    Rank: 66
-    Movie_name: Your Name.
-    Year: 2016
-    Certificate: PG
-    Runtime_in_min: 106
-    Genre: Animation, Drama, Fantasy
-    Rating_from_10: 8.4
-    

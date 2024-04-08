@@ -1,9 +1,0 @@
-   
-    Rank: 854
-    Movie_name: Sense and Sensibility
-    Year: 1995
-    Certificate: PG
-    Runtime_in_min: 136
-    Genre: Drama, Romance
-    Rating_from_10: 7.7
-    

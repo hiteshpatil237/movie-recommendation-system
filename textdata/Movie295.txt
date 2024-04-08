@@ -1,9 +1,0 @@
-   
-    Rank: 296
-    Movie_name: Autumn Sonata
-    Year: 1978
-    Certificate: PG
-    Runtime_in_min: 99
-    Genre: Drama, Music
-    Rating_from_10: 8.1
-    

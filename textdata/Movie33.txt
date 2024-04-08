@@ -1,9 +1,0 @@
-   
-    Rank: 34
-    Movie_name: Harakiri
-    Year: 1962
-    Certificate: Not Rated
-    Runtime_in_min: 133
-    Genre: Action, Drama, Mystery
-    Rating_from_10: 8.6
-    

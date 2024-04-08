@@ -1,9 +1,0 @@
-   
-    Rank: 230
-    Movie_name: The Grand Budapest Hotel
-    Year: 2014
-    Certificate: R
-    Runtime_in_min: 99
-    Genre: Adventure, Comedy, Crime
-    Rating_from_10: 8.1
-    

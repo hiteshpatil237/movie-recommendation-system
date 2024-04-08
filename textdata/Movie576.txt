@@ -1,9 +1,0 @@
-   
-    Rank: 577
-    Movie_name: The Ten Commandments
-    Year: 1956
-    Certificate: G
-    Runtime_in_min: 220
-    Genre: Adventure, Drama, Family
-    Rating_from_10: 7.9
-    

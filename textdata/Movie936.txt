@@ -1,9 +1,0 @@
-   
-    Rank: 937
-    Movie_name: 50/50
-    Year: 2011
-    Certificate: R
-    Runtime_in_min: 100
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.6
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 587
-    Movie_name: The Big Sleep
-    Year: 1946
-    Certificate: Passed
-    Runtime_in_min: 114
-    Genre: Crime, Film-Noir, Mystery
-    Rating_from_10: 7.9
-    

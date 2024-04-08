@@ -1,9 +1,0 @@
-   
-    Rank: 289
-    Movie_name: Platoon
-    Year: 1986
-    Certificate: R
-    Runtime_in_min: 120
-    Genre: Drama, War
-    Rating_from_10: 8.1
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 678
-    Movie_name: Cowboy Bebop: The Movie
-    Year: 2001
-    Certificate: TV-14
-    Runtime_in_min: 115
-    Genre: Animation, Action, Crime
-    Rating_from_10: 7.8
-    

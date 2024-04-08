@@ -1,9 +1,0 @@
-   
-    Rank: 944
-    Movie_name: Superbad
-    Year: 2007
-    Certificate: R
-    Runtime_in_min: 113
-    Genre: Comedy
-    Rating_from_10: 7.6
-    

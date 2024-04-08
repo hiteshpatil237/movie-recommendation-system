@@ -1,9 +1,0 @@
-   
-    Rank: 383
-    Movie_name: Kill Bill: Vol. 2
-    Year: 2004
-    Certificate: R
-    Runtime_in_min: 137
-    Genre: Action, Crime, Thriller
-    Rating_from_10: 8.0
-    

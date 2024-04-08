@@ -1,9 +1,0 @@
-   
-    Rank: 685
-    Movie_name: Being John Malkovich
-    Year: 1999
-    Certificate: R
-    Runtime_in_min: 113
-    Genre: Comedy, Drama, Fantasy
-    Rating_from_10: 7.8
-    

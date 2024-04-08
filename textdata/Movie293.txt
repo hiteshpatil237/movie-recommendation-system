@@ -1,9 +1,0 @@
-   
-    Rank: 294
-    Movie_name: Blade Runner
-    Year: 1982
-    Certificate: R
-    Runtime_in_min: 117
-    Genre: Action, Drama, Sci-Fi
-    Rating_from_10: 8.1
-    

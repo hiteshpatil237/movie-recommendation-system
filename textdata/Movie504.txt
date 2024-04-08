@@ -1,9 +1,0 @@
-   
-    Rank: 505
-    Movie_name: 4 Months, 3 Weeks and 2 Days
-    Year: 2007
-    Certificate: Not Rated
-    Runtime_in_min: 113
-    Genre: Drama
-    Rating_from_10: 7.9
-    

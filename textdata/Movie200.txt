@@ -1,9 +1,0 @@
-   
-    Rank: 201
-    Movie_name: The Wages of Fear
-    Year: 1953
-    Certificate: Not Rated
-    Runtime_in_min: 131
-    Genre: Adventure, Drama, Thriller
-    Rating_from_10: 8.2
-    

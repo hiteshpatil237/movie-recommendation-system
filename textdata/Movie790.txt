@@ -1,9 +1,0 @@
-   
-    Rank: 791
-    Movie_name: The Hangover
-    Year: 2009
-    Certificate: R
-    Runtime_in_min: 100
-    Genre: Comedy
-    Rating_from_10: 7.7
-    

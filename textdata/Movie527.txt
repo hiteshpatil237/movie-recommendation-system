@@ -1,9 +1,0 @@
-   
-    Rank: 528
-    Movie_name: Children of Men
-    Year: 2006
-    Certificate: R
-    Runtime_in_min: 109
-    Genre: Action, Drama, Sci-Fi
-    Rating_from_10: 7.9
-    

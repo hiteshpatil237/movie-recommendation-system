@@ -1,9 +1,0 @@
-   
-    Rank: 69
-    Movie_name: Avengers: Infinity War
-    Year: 2018
-    Certificate: PG-13
-    Runtime_in_min: 149
-    Genre: Action, Adventure, Sci-Fi
-    Rating_from_10: 8.4
-    

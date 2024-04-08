@@ -1,9 +1,0 @@
-   
-    Rank: 626
-    Movie_name: English Vinglish
-    Year: 2012
-    Certificate: Not Rated
-    Runtime_in_min: 134
-    Genre: Comedy, Drama, Family
-    Rating_from_10: 7.8
-    

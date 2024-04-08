@@ -1,9 +1,0 @@
-   
-    Rank: 593
-    Movie_name: Sullivan's Travels
-    Year: 1941
-    Certificate: Passed
-    Runtime_in_min: 90
-    Genre: Adventure, Comedy, Drama
-    Rating_from_10: 7.9
-    

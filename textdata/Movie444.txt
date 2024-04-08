@@ -1,9 +1,0 @@
-   
-    Rank: 445
-    Movie_name: Sanjuro
-    Year: 1962
-    Certificate: Not Rated
-    Runtime_in_min: 96
-    Genre: Action, Drama, Thriller
-    Rating_from_10: 8.0
-    

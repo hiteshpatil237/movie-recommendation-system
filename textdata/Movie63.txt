@@ -1,9 +1,0 @@
-   
-    Rank: 64
-    Movie_name: Capernaum
-    Year: 2018
-    Certificate: R
-    Runtime_in_min: 126
-    Genre: Drama
-    Rating_from_10: 8.4
-    

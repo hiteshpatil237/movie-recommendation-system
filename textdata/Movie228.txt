@@ -1,9 +1,0 @@
-   
-    Rank: 229
-    Movie_name: OMG: Oh My God!
-    Year: 2012
-    Certificate: Not Rated
-    Runtime_in_min: 125
-    Genre: Comedy, Drama, Fantasy
-    Rating_from_10: 8.1
-    

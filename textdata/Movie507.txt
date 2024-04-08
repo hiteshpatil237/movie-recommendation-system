@@ -1,9 +1,0 @@
-   
-    Rank: 508
-    Movie_name: In Bruges
-    Year: 2008
-    Certificate: R
-    Runtime_in_min: 107
-    Genre: Comedy, Crime, Drama
-    Rating_from_10: 7.9
-    

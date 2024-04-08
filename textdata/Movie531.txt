@@ -1,9 +1,0 @@
-   
-    Rank: 532
-    Movie_name: Mulholland Drive
-    Year: 2001
-    Certificate: R
-    Runtime_in_min: 147
-    Genre: Drama, Mystery, Thriller
-    Rating_from_10: 7.9
-    

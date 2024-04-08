@@ -1,9 +1,0 @@
-   
-    Rank: 130
-    Movie_name: North by Northwest
-    Year: 1959
-    Certificate: Approved
-    Runtime_in_min: 136
-    Genre: Action, Adventure, Mystery
-    Rating_from_10: 8.3
-    

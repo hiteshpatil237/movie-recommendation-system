@@ -1,9 +1,0 @@
-   
-    Rank: 9
-    Movie_name: Pulp Fiction
-    Year: 1994
-    Certificate: R
-    Runtime_in_min: 154
-    Genre: Crime, Drama
-    Rating_from_10: 8.9
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 939
-    Movie_name: Celda 211
-    Year: 2009
-    Certificate: A
-    Runtime_in_min: 113
-    Genre: Action, Crime, Drama
-    Rating_from_10: 7.6
-    

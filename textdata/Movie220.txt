@@ -1,9 +1,0 @@
-   
-    Rank: 221
-    Movie_name: Bajrangi Bhaijaan
-    Year: 2015
-    Certificate: Not Rated
-    Runtime_in_min: 163
-    Genre: Action, Adventure, Comedy
-    Rating_from_10: 8.1
-    

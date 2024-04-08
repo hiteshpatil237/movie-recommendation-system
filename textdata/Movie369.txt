@@ -1,9 +1,0 @@
-   
-    Rank: 370
-    Movie_name: Elite Squad
-    Year: 2007
-    Certificate: R
-    Runtime_in_min: 115
-    Genre: Action, Crime, Drama
-    Rating_from_10: 8.0
-    

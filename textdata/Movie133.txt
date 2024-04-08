@@ -1,9 +1,0 @@
-   
-    Rank: 134
-    Movie_name: Ikiru
-    Year: 1952
-    Certificate: Not Rated
-    Runtime_in_min: 143
-    Genre: Drama
-    Rating_from_10: 8.3
-    

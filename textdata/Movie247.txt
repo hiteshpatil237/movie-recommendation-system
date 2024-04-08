@@ -1,9 +1,0 @@
-   
-    Rank: 248
-    Movie_name: Hachi: A Dog's Tale
-    Year: 2009
-    Certificate: G
-    Runtime_in_min: 93
-    Genre: Biography, Drama, Family
-    Rating_from_10: 8.1
-    

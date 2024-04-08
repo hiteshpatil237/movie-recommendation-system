@@ -1,9 +1,0 @@
-   
-    Rank: 557
-    Movie_name: Manhattan
-    Year: 1979
-    Certificate: R
-    Runtime_in_min: 96
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.9
-    

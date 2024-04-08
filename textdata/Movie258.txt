@@ -1,9 +1,0 @@
-   
-    Rank: 259
-    Movie_name: Munna Bhai M.B.B.S.
-    Year: 2003
-    Certificate: Not Rated
-    Runtime_in_min: 156
-    Genre: Comedy, Drama
-    Rating_from_10: 8.1
-    

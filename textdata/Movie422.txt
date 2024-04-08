@@ -1,9 +1,0 @@
-   
-    Rank: 423
-    Movie_name: Life of Brian
-    Year: 1979
-    Certificate: R
-    Runtime_in_min: 94
-    Genre: Comedy
-    Rating_from_10: 8.0
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 584
-    Movie_name: Rope
-    Year: 1948
-    Certificate: Approved
-    Runtime_in_min: 80
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 7.9
-    

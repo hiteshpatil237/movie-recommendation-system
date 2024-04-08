@@ -1,9 +1,0 @@
-   
-    Rank: 868
-    Movie_name: Night on Earth
-    Year: 1991
-    Certificate: R
-    Runtime_in_min: 129
-    Genre: Comedy, Drama
-    Rating_from_10: 7.7
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 721
-    Movie_name: The Holy Mountain
-    Year: 1973
-    Certificate: R
-    Runtime_in_min: 114
-    Genre: Adventure, Drama, Fantasy
-    Rating_from_10: 7.8
-    

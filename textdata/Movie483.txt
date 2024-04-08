@@ -1,9 +1,0 @@
-   
-    Rank: 484
-    Movie_name: Gully Boy
-    Year: 2019
-    Certificate: Not Rated
-    Runtime_in_min: 154
-    Genre: Drama, Music, Romance
-    Rating_from_10: 7.9
-    

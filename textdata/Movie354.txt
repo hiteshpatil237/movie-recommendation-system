@@ -1,9 +1,0 @@
-   
-    Rank: 355
-    Movie_name: Song of the Sea
-    Year: 2014
-    Certificate: PG
-    Runtime_in_min: 93
-    Genre: Animation, Adventure, Drama
-    Rating_from_10: 8.0
-    

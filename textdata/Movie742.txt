@@ -1,9 +1,0 @@
-   
-    Rank: 743
-    Movie_name: His Girl Friday
-    Year: 1940
-    Certificate: Passed
-    Runtime_in_min: 92
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.8
-    

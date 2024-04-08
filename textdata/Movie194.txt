@@ -1,9 +1,0 @@
-   
-    Rank: 195
-    Movie_name: The Great Escape
-    Year: 1963
-    Certificate: Approved
-    Runtime_in_min: 172
-    Genre: Adventure, Drama, History
-    Rating_from_10: 8.2
-    

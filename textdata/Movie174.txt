@@ -1,9 +1,0 @@
-   
-    Rank: 175
-    Movie_name: The Sixth Sense
-    Year: 1999
-    Certificate: PG-13
-    Runtime_in_min: 107
-    Genre: Drama, Mystery, Thriller
-    Rating_from_10: 8.2
-    

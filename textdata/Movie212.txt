@@ -1,9 +1,0 @@
-   
-    Rank: 213
-    Movie_name: Everything Everywhere All at Once
-    Year: 2022
-    Certificate: R
-    Runtime_in_min: 139
-    Genre: Action, Adventure, Comedy
-    Rating_from_10: 8.1
-    

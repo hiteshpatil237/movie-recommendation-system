@@ -1,9 +1,0 @@
-   
-    Rank: 873
-    Movie_name: Home Alone
-    Year: 1990
-    Certificate: PG
-    Runtime_in_min: 103
-    Genre: Comedy, Family
-    Rating_from_10: 7.7
-    

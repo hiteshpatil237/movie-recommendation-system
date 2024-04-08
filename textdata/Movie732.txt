@@ -1,9 +1,0 @@
-   
-    Rank: 733
-    Movie_name: Mary Poppins
-    Year: 1964
-    Certificate: G
-    Runtime_in_min: 139
-    Genre: Comedy, Family, Fantasy
-    Rating_from_10: 7.8
-    

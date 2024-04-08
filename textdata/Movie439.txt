@@ -1,9 +1,0 @@
-   
-    Rank: 440
-    Movie_name: Who's Afraid of Virginia Woolf?
-    Year: 1966
-    Certificate: Not Rated
-    Runtime_in_min: 131
-    Genre: Drama
-    Rating_from_10: 8.0
-    

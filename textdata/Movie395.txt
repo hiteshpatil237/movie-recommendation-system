@@ -1,9 +1,0 @@
-   
-    Rank: 396
-    Movie_name: The Straight Story
-    Year: 1999
-    Certificate: G
-    Runtime_in_min: 112
-    Genre: Biography, Drama
-    Rating_from_10: 8.0
-    

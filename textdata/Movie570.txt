@@ -1,9 +1,0 @@
-   
-    Rank: 571
-    Movie_name: Vivre Sa Vie
-    Year: 1962
-    Certificate: Not Rated
-    Runtime_in_min: 85
-    Genre: Drama
-    Rating_from_10: 7.9
-    

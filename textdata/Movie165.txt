@@ -1,9 +1,0 @@
-   
-    Rank: 166
-    Movie_name: V for Vendetta
-    Year: 2005
-    Certificate: R
-    Runtime_in_min: 132
-    Genre: Action, Drama, Sci-Fi
-    Rating_from_10: 8.2
-    

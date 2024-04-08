@@ -1,9 +1,0 @@
-   
-    Rank: 232
-    Movie_name: Wolf Children
-    Year: 2012
-    Certificate: PG
-    Runtime_in_min: 117
-    Genre: Animation, Drama, Family
-    Rating_from_10: 8.1
-    

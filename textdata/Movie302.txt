@@ -1,9 +1,0 @@
-   
-    Rank: 303
-    Movie_name: Barry Lyndon
-    Year: 1975
-    Certificate: PG
-    Runtime_in_min: 185
-    Genre: Adventure, Drama, War
-    Rating_from_10: 8.1
-    

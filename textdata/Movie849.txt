@@ -1,9 +1,0 @@
-   
-    Rank: 850
-    Movie_name: The Game
-    Year: 1997
-    Certificate: R
-    Runtime_in_min: 129
-    Genre: Drama, Mystery, Thriller
-    Rating_from_10: 7.7
-    

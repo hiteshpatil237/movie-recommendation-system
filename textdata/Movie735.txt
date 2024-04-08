@@ -1,9 +1,0 @@
-   
-    Rank: 736
-    Movie_name: East of Eden
-    Year: 1955
-    Certificate: PG
-    Runtime_in_min: 118
-    Genre: Drama
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 188
-    Movie_name: The Elephant Man
-    Year: 1980
-    Certificate: PG
-    Runtime_in_min: 124
-    Genre: Biography, Drama
-    Rating_from_10: 8.2
-    

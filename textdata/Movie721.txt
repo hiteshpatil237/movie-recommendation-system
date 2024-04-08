@@ -1,9 +1,0 @@
-   
-    Rank: 722
-    Movie_name: The Conversation
-    Year: 1974
-    Certificate: PG
-    Runtime_in_min: 113
-    Genre: Drama, Mystery, Thriller
-    Rating_from_10: 7.8
-    

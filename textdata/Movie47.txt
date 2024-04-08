@@ -1,9 +1,0 @@
-   
-    Rank: 48
-    Movie_name: Léon: The Professional
-    Year: 1994
-    Certificate: R
-    Runtime_in_min: 110
-    Genre: Action, Crime, Drama
-    Rating_from_10: 8.5
-    

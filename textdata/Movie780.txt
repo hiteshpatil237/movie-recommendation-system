@@ -1,9 +1,0 @@
-   
-    Rank: 781
-    Movie_name: Detachment
-    Year: 2011
-    Certificate: Not Rated
-    Runtime_in_min: 98
-    Genre: Drama
-    Rating_from_10: 7.7
-    

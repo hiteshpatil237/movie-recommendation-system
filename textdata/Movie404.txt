@@ -1,9 +1,0 @@
-   
-    Rank: 405
-    Movie_name: Chungking Express
-    Year: 1994
-    Certificate: PG-13
-    Runtime_in_min: 102
-    Genre: Comedy, Crime, Drama
-    Rating_from_10: 8.0
-    

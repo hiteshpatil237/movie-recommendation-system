@@ -1,9 +1,0 @@
-   
-    Rank: 362
-    Movie_name: Zack Snyder's Justice League
-    Year: 2021
-    Certificate: R
-    Runtime_in_min: 242
-    Genre: Action, Adventure, Fantasy
-    Rating_from_10: 8.0
-    

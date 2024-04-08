@@ -1,9 +1,0 @@
-   
-    Rank: 559
-    Movie_name: I Remember
-    Year: 1973
-    Certificate: R
-    Runtime_in_min: 123
-    Genre: Comedy, Drama
-    Rating_from_10: 7.9
-    

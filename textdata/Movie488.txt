@@ -1,9 +1,0 @@
-   
-    Rank: 489
-    Movie_name: Bohemian Rhapsody
-    Year: 2018
-    Certificate: PG-13
-    Runtime_in_min: 134
-    Genre: Biography, Drama, Music
-    Rating_from_10: 7.9
-    

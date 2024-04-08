@@ -1,9 +1,0 @@
-   
-    Rank: 990
-    Movie_name: The Odd Couple
-    Year: 1968
-    Certificate: Passed
-    Runtime_in_min: 105
-    Genre: Comedy
-    Rating_from_10: 7.6
-    

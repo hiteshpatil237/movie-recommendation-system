@@ -1,9 +1,0 @@
-   
-    Rank: 790
-    Movie_name: X-Men: First Class
-    Year: 2011
-    Certificate: PG-13
-    Runtime_in_min: 131
-    Genre: Action, Adventure, Sci-Fi
-    Rating_from_10: 7.7
-    

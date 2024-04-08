@@ -1,9 +1,0 @@
-   
-    Rank: 283
-    Movie_name: Farewell My Concubine
-    Year: 1993
-    Certificate: R
-    Runtime_in_min: 171
-    Genre: Drama, Music, Romance
-    Rating_from_10: 8.1
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 646
-    Movie_name: The White Ribbon
-    Year: 2009
-    Certificate: R
-    Runtime_in_min: 144
-    Genre: Drama, Mystery, Thriller
-    Rating_from_10: 7.8
-    

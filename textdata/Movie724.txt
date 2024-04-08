@@ -1,9 +1,0 @@
-   
-    Rank: 725
-    Movie_name: Cabaret
-    Year: 1972
-    Certificate: PG
-    Runtime_in_min: 124
-    Genre: Drama, Music, Musical
-    Rating_from_10: 7.8
-    

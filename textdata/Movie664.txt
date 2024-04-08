@@ -1,9 +1,0 @@
-   
-    Rank: 665
-    Movie_name: Veer Zaara
-    Year: 2004
-    Certificate: Not Rated
-    Runtime_in_min: 192
-    Genre: Drama, Family, Musical
-    Rating_from_10: 7.8
-    

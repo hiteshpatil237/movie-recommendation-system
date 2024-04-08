@@ -1,9 +1,0 @@
-   
-    Rank: 603
-    Movie_name: Call Me by Your Name
-    Year: 2017
-    Certificate: R
-    Runtime_in_min: 132
-    Genre: Drama, Romance
-    Rating_from_10: 7.8
-    

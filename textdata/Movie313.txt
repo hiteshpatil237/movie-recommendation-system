@@ -1,9 +1,0 @@
-   
-    Rank: 314
-    Movie_name: The Virgin Spring
-    Year: 1960
-    Certificate: Not Rated
-    Runtime_in_min: 89
-    Genre: Drama
-    Rating_from_10: 8.1
-    

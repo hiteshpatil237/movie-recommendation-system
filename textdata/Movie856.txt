@@ -1,9 +1,0 @@
-   
-    Rank: 857
-    Movie_name: What's Eating Gilbert Grape
-    Year: 1993
-    Certificate: PG-13
-    Runtime_in_min: 118
-    Genre: Drama
-    Rating_from_10: 7.7
-    

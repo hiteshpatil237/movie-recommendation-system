@@ -1,9 +1,0 @@
-   
-    Rank: 573
-    Movie_name: Spartacus
-    Year: 1960
-    Certificate: PG-13
-    Runtime_in_min: 197
-    Genre: Adventure, Biography, Drama
-    Rating_from_10: 7.9
-    

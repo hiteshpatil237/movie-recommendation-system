@@ -1,9 +1,0 @@
-   
-    Rank: 784
-    Movie_name: The Man from Nowhere
-    Year: 2010
-    Certificate: R
-    Runtime_in_min: 119
-    Genre: Action, Crime, Drama
-    Rating_from_10: 7.7
-    

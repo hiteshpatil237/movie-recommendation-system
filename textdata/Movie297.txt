@@ -1,9 +1,0 @@
-   
-    Rank: 298
-    Movie_name: Rocky
-    Year: 1976
-    Certificate: PG
-    Runtime_in_min: 120
-    Genre: Drama, Sport
-    Rating_from_10: 8.1
-    

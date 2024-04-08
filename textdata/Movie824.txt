@@ -1,9 +1,0 @@
-   
-    Rank: 825
-    Movie_name: Finding Neverland
-    Year: 2004
-    Certificate: PG
-    Runtime_in_min: 106
-    Genre: Biography, Drama, Family
-    Rating_from_10: 7.7
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 803
-    Movie_name: The Girl Who Leapt Through Time
-    Year: 2006
-    Certificate: TV-PG
-    Runtime_in_min: 98
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 7.7
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 410
-    Movie_name: Beauty and the Beast
-    Year: 1991
-    Certificate: G
-    Runtime_in_min: 84
-    Genre: Animation, Family, Fantasy
-    Rating_from_10: 8.0
-    

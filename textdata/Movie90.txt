@@ -1,9 +1,0 @@
-   
-    Rank: 91
-    Movie_name: The Boat
-    Year: 1981
-    Certificate: R
-    Runtime_in_min: 149
-    Genre: Drama, War
-    Rating_from_10: 8.4
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 996
-    Movie_name: Sabrina
-    Year: 1954
-    Certificate: Passed
-    Runtime_in_min: 113
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.6
-    

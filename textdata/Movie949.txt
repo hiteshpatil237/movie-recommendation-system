@@ -1,9 +1,0 @@
-   
-    Rank: 950
-    Movie_name: Inside Man
-    Year: 2006
-    Certificate: R
-    Runtime_in_min: 129
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 7.6
-    

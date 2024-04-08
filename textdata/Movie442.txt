@@ -1,9 +1,0 @@
-   
-    Rank: 443
-    Movie_name: The Exterminating Angel
-    Year: 1962
-    Certificate: Not Rated
-    Runtime_in_min: 95
-    Genre: Drama, Fantasy
-    Rating_from_10: 8.0
-    

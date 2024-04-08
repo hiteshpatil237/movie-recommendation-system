@@ -1,9 +1,0 @@
-   
-    Rank: 308
-    Movie_name: Cool Hand Luke
-    Year: 1967
-    Certificate: GP
-    Runtime_in_min: 127
-    Genre: Crime, Drama
-    Rating_from_10: 8.1
-    

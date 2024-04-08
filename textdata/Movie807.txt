@@ -1,9 +1,0 @@
-   
-    Rank: 808
-    Movie_name: Lucky Number Slevin
-    Year: 2006
-    Certificate: R
-    Runtime_in_min: 110
-    Genre: Crime, Drama, Thriller
-    Rating_from_10: 7.7
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 1
-    Movie_name: The Shawshank Redemption
-    Year: 1994
-    Certificate: R
-    Runtime_in_min: 142
-    Genre: Drama
-    Rating_from_10: 9.3
-    

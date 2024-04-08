@@ -1,9 +1,0 @@
-   
-    Rank: 413
-    Movie_name: Akira
-    Year: 1988
-    Certificate: R
-    Runtime_in_min: 124
-    Genre: Animation, Action, Drama
-    Rating_from_10: 8.0
-    

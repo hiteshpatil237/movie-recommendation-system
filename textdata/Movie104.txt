@@ -1,9 +1,0 @@
-   
-    Rank: 105
-    Movie_name: The Hunt
-    Year: 2012
-    Certificate: R
-    Runtime_in_min: 115
-    Genre: Drama
-    Rating_from_10: 8.3
-    

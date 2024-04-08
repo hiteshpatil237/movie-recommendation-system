@@ -1,9 +1,0 @@
-   
-    Rank: 955
-    Movie_name: Match Point
-    Year: 2005
-    Certificate: R
-    Runtime_in_min: 124
-    Genre: Drama, Romance, Thriller
-    Rating_from_10: 7.6
-    

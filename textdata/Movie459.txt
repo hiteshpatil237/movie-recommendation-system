@@ -1,9 +1,0 @@
-   
-    Rank: 460
-    Movie_name: Kind Hearts and Coronets
-    Year: 1949
-    Certificate: Not Rated
-    Runtime_in_min: 106
-    Genre: Comedy, Crime
-    Rating_from_10: 8.0
-    

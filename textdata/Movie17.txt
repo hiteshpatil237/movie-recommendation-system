@@ -1,9 +1,0 @@
-   
-    Rank: 18
-    Movie_name: Soorarai Pottru
-    Year: 2020
-    Certificate: TV-MA
-    Runtime_in_min: 153
-    Genre: Drama
-    Rating_from_10: 8.7
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 461
-    Movie_name: Out of the Past
-    Year: 1947
-    Certificate: Not Rated
-    Runtime_in_min: 97
-    Genre: Crime, Drama, Film-Noir
-    Rating_from_10: 8.0
-    

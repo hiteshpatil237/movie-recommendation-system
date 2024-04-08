@@ -1,9 +1,0 @@
-   
-    Rank: 918
-    Movie_name: Fantasia
-    Year: 1940
-    Certificate: G
-    Runtime_in_min: 125
-    Genre: Animation, Family, Fantasy
-    Rating_from_10: 7.7
-    

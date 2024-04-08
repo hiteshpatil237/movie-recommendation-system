@@ -1,9 +1,0 @@
-   
-    Rank: 701
-    Movie_name: Kiki's Delivery Service
-    Year: 1989
-    Certificate: G
-    Runtime_in_min: 103
-    Genre: Animation, Adventure, Family
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 454
-    Movie_name: The Killing
-    Year: 1956
-    Certificate: Approved
-    Runtime_in_min: 84
-    Genre: Crime, Drama, Film-Noir
-    Rating_from_10: 8.0
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 72
-    Movie_name: Top Gun: Maverick
-    Year: 2022
-    Certificate: PG-13
-    Runtime_in_min: 130
-    Genre: Action, Drama
-    Rating_from_10: 8.4
-    

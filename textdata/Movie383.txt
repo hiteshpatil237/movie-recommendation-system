@@ -1,9 +1,0 @@
-   
-    Rank: 384
-    Movie_name: Spring, Summer, Fall, Winter... and Spring
-    Year: 2003
-    Certificate: R
-    Runtime_in_min: 103
-    Genre: Drama, Romance
-    Rating_from_10: 8.0
-    

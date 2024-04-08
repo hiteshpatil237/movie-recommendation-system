@@ -1,9 +1,0 @@
-   
-    Rank: 655
-    Movie_name: Changeling
-    Year: 2008
-    Certificate: R
-    Runtime_in_min: 141
-    Genre: Biography, Crime, Drama
-    Rating_from_10: 7.8
-    

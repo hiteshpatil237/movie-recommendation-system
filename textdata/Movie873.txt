@@ -1,9 +1,0 @@
-   
-    Rank: 874
-    Movie_name: When Harry Met Sally...
-    Year: 1989
-    Certificate: R
-    Runtime_in_min: 95
-    Genre: Comedy, Drama, Romance
-    Rating_from_10: 7.7
-    

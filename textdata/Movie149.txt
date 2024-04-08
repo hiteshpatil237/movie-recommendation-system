@@ -1,9 +1,0 @@
-   
-    Rank: 150
-    Movie_name: Inside Out
-    Year: I 2015
-    Certificate: PG
-    Runtime_in_min: 95
-    Genre: Animation, Adventure, Comedy
-    Rating_from_10: 8.2
-    

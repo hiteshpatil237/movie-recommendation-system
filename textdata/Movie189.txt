@@ -1,9 +1,0 @@
-   
-    Rank: 190
-    Movie_name: Monty Python and the Holy Grail
-    Year: 1975
-    Certificate: PG
-    Runtime_in_min: 91
-    Genre: Adventure, Comedy, Fantasy
-    Rating_from_10: 8.2
-    

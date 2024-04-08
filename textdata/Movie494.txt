@@ -1,9 +1,0 @@
-   
-    Rank: 495
-    Movie_name: Amour
-    Year: 2012
-    Certificate: PG-13
-    Runtime_in_min: 127
-    Genre: Drama
-    Rating_from_10: 7.9
-    

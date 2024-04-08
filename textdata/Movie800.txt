@@ -1,9 +1,0 @@
-   
-    Rank: 801
-    Movie_name: Paprika
-    Year: 2006
-    Certificate: R
-    Runtime_in_min: 90
-    Genre: Animation, Drama, Fantasy
-    Rating_from_10: 7.7
-    

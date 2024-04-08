@@ -1,9 +1,0 @@
-   
-    Rank: 762
-    Movie_name: Kubo and the Two Strings
-    Year: 2016
-    Certificate: PG
-    Runtime_in_min: 101
-    Genre: Animation, Action, Adventure
-    Rating_from_10: 7.7
-    

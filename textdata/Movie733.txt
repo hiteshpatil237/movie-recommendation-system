@@ -1,9 +1,0 @@
-   
-    Rank: 734
-    Movie_name: The Innocents
-    Year: 1961
-    Certificate: Not Rated
-    Runtime_in_min: 100
-    Genre: Horror
-    Rating_from_10: 7.8
-    

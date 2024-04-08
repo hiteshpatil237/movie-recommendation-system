@@ -1,9 +1,0 @@
-   
-    Rank: 614
-    Movie_name: Captain America: Civil War
-    Year: 2016
-    Certificate: PG-13
-    Runtime_in_min: 147
-    Genre: Action, Adventure, Sci-Fi
-    Rating_from_10: 7.8
-    

@@ -1,9 +1,0 @@
-   
-    Rank: 194
-    Movie_name: For a Few Dollars More
-    Year: 1965
-    Certificate: R
-    Runtime_in_min: 132
-    Genre: Western
-    Rating_from_10: 8.2
-    

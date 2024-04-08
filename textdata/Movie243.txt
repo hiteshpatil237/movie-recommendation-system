@@ -1,9 +1,0 @@
-   
-    Rank: 244
-    Movie_name: A Wednesday
-    Year: 2008
-    Certificate: Not Rated
-    Runtime_in_min: 104
-    Genre: Action, Crime, Drama
-    Rating_from_10: 8.1
-    

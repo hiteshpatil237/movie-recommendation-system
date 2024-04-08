@@ -1,9 +1,0 @@
-   
-    Rank: 347
-    Movie_name: Haider
-    Year: 2014
-    Certificate: Not Rated
-    Runtime_in_min: 160
-    Genre: Action, Crime, Drama
-    Rating_from_10: 8.0
-    

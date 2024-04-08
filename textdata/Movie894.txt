@@ -1,9 +1,0 @@
-   
-    Rank: 895
-    Movie_name: Serpico
-    Year: 1973
-    Certificate: R
-    Runtime_in_min: 130
-    Genre: Biography, Crime, Drama
-    Rating_from_10: 7.7
-    

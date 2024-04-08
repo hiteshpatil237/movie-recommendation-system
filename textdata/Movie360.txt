@@ -1,9 +1,0 @@
-   
-    Rank: 361
-    Movie_name: Deadpool
-    Year: 2016
-    Certificate: R
-    Runtime_in_min: 108
-    Genre: Action, Adventure, Comedy
-    Rating_from_10: 8.0
-    

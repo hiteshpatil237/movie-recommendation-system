@@ -1,9 +1,0 @@
-   
-    Rank: 422
-    Movie_name: Fitzcarraldo
-    Year: 1982
-    Certificate: PG
-    Runtime_in_min: 158
-    Genre: Adventure, Drama
-    Rating_from_10: 8.0
-    

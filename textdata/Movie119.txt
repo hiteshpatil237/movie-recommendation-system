@@ -1,9 +1,0 @@
-   
-    Rank: 120
-    Movie_name: Once Upon a Time in America
-    Year: 1984
-    Certificate: R
-    Runtime_in_min: 229
-    Genre: Crime, Drama
-    Rating_from_10: 8.3
-    

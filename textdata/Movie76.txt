@@ -1,9 +1,0 @@
-   
-    Rank: 77
-    Movie_name: Shershaah
-    Year: 2021
-    Certificate: TV-14
-    Runtime_in_min: 135
-    Genre: Action, Biography, Drama
-    Rating_from_10: 8.4
-    

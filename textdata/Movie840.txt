@@ -1,9 +1,0 @@
-   
-    Rank: 841
-    Movie_name: Office Space
-    Year: 1999
-    Certificate: R
-    Runtime_in_min: 89
-    Genre: Comedy
-    Rating_from_10: 7.7
-    

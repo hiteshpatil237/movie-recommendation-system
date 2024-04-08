@@ -1,9 +1,0 @@
-   
-    Rank: 642
-    Movie_name: Mother
-    Year: 2009
-    Certificate: R
-    Runtime_in_min: 129
-    Genre: Crime, Drama, Mystery
-    Rating_from_10: 7.8
-    

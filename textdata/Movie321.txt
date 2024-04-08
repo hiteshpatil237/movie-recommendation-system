@@ -1,9 +1,0 @@
-   
-    Rank: 322
-    Movie_name: Throne of Blood
-    Year: 1957
-    Certificate: Not Rated
-    Runtime_in_min: 110
-    Genre: Drama, History
-    Rating_from_10: 8.1
-    

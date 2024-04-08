@@ -1,9 +1,0 @@
-   
-    Rank: 426
-    Movie_name: Dog Day Afternoon
-    Year: 1975
-    Certificate: R
-    Runtime_in_min: 125
-    Genre: Biography, Crime, Drama
-    Rating_from_10: 8.0
-    

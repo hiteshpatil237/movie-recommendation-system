@@ -1,9 +1,0 @@
-   
-    Rank: 742
-    Movie_name: Shadow of a Doubt
-    Year: 1943
-    Certificate: Passed
-    Runtime_in_min: 108
-    Genre: Film-Noir, Thriller
-    Rating_from_10: 7.8
-    

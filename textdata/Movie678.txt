@@ -1,9 +1,0 @@
-   
-    Rank: 679
-    Movie_name: Joint Security Area
-    Year: 2000
-    Certificate: Not Rated
-    Runtime_in_min: 110
-    Genre: Action, Drama, Thriller
-    Rating_from_10: 7.8
-    

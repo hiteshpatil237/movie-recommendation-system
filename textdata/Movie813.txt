@@ -1,9 +1,0 @@
-   
-    Rank: 814
-    Movie_name: 3:10 to Yuma
-    Year: 2007
-    Certificate: R
-    Runtime_in_min: 122
-    Genre: Action, Crime, Drama
-    Rating_from_10: 7.7
-    

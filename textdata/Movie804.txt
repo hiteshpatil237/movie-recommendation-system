@@ -1,9 +1,0 @@
-   
-    Rank: 805
-    Movie_name: Ex Machina
-    Year: 2014
-    Certificate: R
-    Runtime_in_min: 108
-    Genre: Drama, Sci-Fi, Thriller
-    Rating_from_10: 7.7
-    

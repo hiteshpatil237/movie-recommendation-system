@@ -1,9 +1,0 @@
-   
-    Rank: 287
-    Movie_name: My Neighbor Totoro
-    Year: 1988
-    Certificate: G
-    Runtime_in_min: 86
-    Genre: Animation, Comedy, Family
-    Rating_from_10: 8.1
-    

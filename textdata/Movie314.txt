@@ -1,9 +1,0 @@
-   
-    Rank: 315
-    Movie_name: Inherit the Wind
-    Year: 1960
-    Certificate: Passed
-    Runtime_in_min: 128
-    Genre: Biography, Drama, History
-    Rating_from_10: 8.1
-    

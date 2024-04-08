@@ -1,9 +1,0 @@
-   
-    Rank: 821
-    Movie_name: Harry Potter and the Goblet of Fire
-    Year: 2005
-    Certificate: PG-13
-    Runtime_in_min: 157
-    Genre: Adventure, Family, Fantasy
-    Rating_from_10: 7.7
-    

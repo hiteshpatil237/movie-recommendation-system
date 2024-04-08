@@ -1,9 +1,0 @@
-   
-    Rank: 228
-    Movie_name: PK
-    Year: 2014
-    Certificate: Not Rated
-    Runtime_in_min: 153
-    Genre: Comedy, Drama, Sci-Fi
-    Rating_from_10: 8.1
-    

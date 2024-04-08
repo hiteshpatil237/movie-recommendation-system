@@ -1,9 +1,0 @@
-   
-    Rank: 510
-    Movie_name: Avatar
-    Year: 2009
-    Certificate: PG-13
-    Runtime_in_min: 162
-    Genre: Action, Adventure, Fantasy
-    Rating_from_10: 7.9
-    
